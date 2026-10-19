@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-20@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Halloween a Piacenza: Un tour tra misteri\, crimini e fantasmi de
+ l passato
+LOCATION:Davanti ingresso Palazzo Farnese\, 29 Piazza della Cittadella\, 
+ Piacenza
+DESCRIPTION:Quando cala la notte e la nebbia avvolge i vicoli\, Piacenza 
+ rivela il suo volto più oscuro. Info: https://www.eventbrite.co.uk/e/ha
+ lloween-a-piacenza-un-tour-tra-misteri-crimini-e-fantasmi-del-passato-ti
+ ckets-1995659542413 (via @radarcremona)
+URL:https://www.eventbrite.co.uk/e/halloween-a-piacenza-un-tour-tra-miste
+ ri-crimini-e-fantasmi-del-passato-tickets-1995659542413
+END:VEVENT
+END:VCALENDAR

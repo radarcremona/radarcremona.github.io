@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-169@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Corso di cucina: Pasta e legumi
+LOCATION:Smeg Store Reggio Emilia\, 5M Via Gramsci\, Reggio Emilia
+DESCRIPTION:Corso di cucina Smeg Store Reggio Emilia: Pasta e legumi Info
+ : https://www.eventbrite.it/e/corso-di-cucina-pasta-e-legumi-tickets-200
+ 0385806797 (via @radarcremona)
+URL:https://www.eventbrite.it/e/corso-di-cucina-pasta-e-legumi-tickets-20
+ 00385806797
+END:VEVENT
+END:VCALENDAR

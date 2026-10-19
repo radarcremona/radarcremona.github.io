@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-39@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Fidenza Medievale: Storia\, Misteri e Curiosità lungo la Via Fra
+ ncigena
+LOCATION:Piazza Grandi\, 43036 Fidenza PR\, Italia\, presso il Torrione V
+ isconteo\, Fidenza
+DESCRIPTION:Fidenza custodisce un’anima antica e misteriosa. Prima di e
+ ssere una città tranquilla della Via Emilia\, fu Borgo San Donnino\, lu
+ ogo di passaggio per pellegrini\, mercanti e viandant... Info: https://w
+ ww.eventbrite.it/e/fidenza-medievale-storia-misteri-e-curiosita-lungo-la
+ -via-francigena-tickets-2003240672778 (via @radarcremona)
+URL:https://www.eventbrite.it/e/fidenza-medievale-storia-misteri-e-curios
+ ita-lungo-la-via-francigena-tickets-2003240672778
+END:VEVENT
+END:VCALENDAR

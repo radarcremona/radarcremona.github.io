@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-137@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Halloween a Brescia: Delitti\, Vendette e Misteri nella Notte dei
+  Fantasmi
+LOCATION:Via Cardinal Querini\, 9\, 25121 Brescia BS\, Italia\, Davanti P
+ alazzo del Broletto\, Brescia
+DESCRIPTION:Brescia\, città di piazze eleganti e chiese affrescate\, nas
+ conde però un volto oscuro\, fatto di condanne pubbliche\, leggende e s
+ torie inquietanti. Sotto la Loggia delle Grida veniva... Info: https://w
+ ww.eventbrite.it/e/halloween-a-brescia-delitti-vendette-e-misteri-nella-
+ notte-dei-fantasmi-tickets-1995970068204 (via @radarcremona)
+URL:https://www.eventbrite.it/e/halloween-a-brescia-delitti-vendette-e-mi
+ steri-nella-notte-dei-fantasmi-tickets-1995970068204
+END:VEVENT
+END:VCALENDAR

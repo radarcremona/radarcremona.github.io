@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-145@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Speed Date Brescia Fascia d’età 45-60
+LOCATION:Spiller | Brescia\, 49 Via Cefalonia\, Brescia
+DESCRIPTION:Non sai come e dove conoscere nuove persone interessanti? Par
+ tecipa allo Speed Date! Info: https://www.eventbrite.it/e/registrazione-
+ speed-date-brescia-fascia-deta-45-60-2003138494159 (via @radarcremona)
+URL:https://www.eventbrite.it/e/registrazione-speed-date-brescia-fascia-d
+ eta-45-60-2003138494159
+END:VEVENT
+END:VCALENDAR

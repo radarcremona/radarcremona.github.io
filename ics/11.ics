@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-11@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Sagra di San Martino
+LOCATION:Robecco d'Oglio\, Via Veneto\, Robecco d'Oglio
+DESCRIPTION:La sagra di san martino consiste nella somministrazione di ci
+ bi e bevande tipici della tradizione cremoneserelativamente al periodo i
+ nvernale. Info: https://sagramap.com/evento/sagra-di-san-martino-robecco
+ -doglio (via @radarcremona)
+URL:https://sagramap.com/evento/sagra-di-san-martino-robecco-doglio
+END:VEVENT
+END:VCALENDAR

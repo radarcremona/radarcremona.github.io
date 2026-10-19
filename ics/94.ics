@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-94@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Laguna - NEGLI UNIVERSI Live EXPERIENCE
+LOCATION:Via Pietro Frattini\, 24\, 24 Via Pietro Frattini\, Mantova
+DESCRIPTION:Un concerto immersivo\, un'avventura tra musica\, luci e imma
+ gini da vivere in prima persona. Fatti trasportare nel mondo di Laguna I
+ nfo: https://www.eventbrite.com/e/registrazione-laguna-negli-universi-li
+ ve-experience-2003334024997 (via @radarcremona)
+URL:https://www.eventbrite.com/e/registrazione-laguna-negli-universi-live
+ -experience-2003334024997
+END:VEVENT
+END:VCALENDAR

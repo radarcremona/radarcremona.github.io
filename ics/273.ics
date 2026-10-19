@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-273@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+SUMMARY:Round Up Country Festival
+LOCATION:CremonaFiere\, piazza Zelioli Lanzini\, Cremona
+DESCRIPTION:Il Round Up Country Festival: un’esperienza Country a 360 g
+ radi! Il Round Up Country Festival di Cremona è uno degli eventi europe
+ i più importanti dedicati alla cultura country e w... Info: https://www
+ .turismocremona.it/it/evento/round-country-festival (via @radarcremona)
+URL:https://www.turismocremona.it/it/evento/round-country-festival
+END:VEVENT
+END:VCALENDAR

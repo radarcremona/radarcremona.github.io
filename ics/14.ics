@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-14@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20270107
+SUMMARY:Natale Rivoltano
+LOCATION:Rivolta d'Adda\, Zona Piazza V. Emanuele II e VIE Limitrofe\, Ri
+ volta d'Adda
+DESCRIPTION:Evento locale per il coinvolgimento delle famiglie nel period
+ o natalizio. Info: https://sagramap.com/evento/natale-rivoltano-rivolta-
+ dadda (via @radarcremona)
+URL:https://sagramap.com/evento/natale-rivoltano-rivolta-dadda
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-369@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Gianluca Gotto - Questione di Karma
+LOCATION:Teatro Clerici\, Brescia
+DESCRIPTION:Nearby AttractionsGianluca Gotto has 2 upcoming events. Info:
+  https://allevents.in/brescia/gianluca-gotto-questione-di-karma/21000809
+ 7144053 (via @radarcremona)
+URL:https://allevents.in/brescia/gianluca-gotto-questione-di-karma/210008
+ 097144053
+END:VEVENT
+END:VCALENDAR

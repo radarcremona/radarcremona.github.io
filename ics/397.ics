@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-397@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:I Legnanesi - C'era una volta
+LOCATION:Paganini Congressi -PARMA\, Via Niccolò Paganini\, Parma
+DESCRIPTION:Info: https://allevents.in/parma/i-legnanesi-cera-una-volta/2
+ 00030828142253 (via @radarcremona)
+URL:https://allevents.in/parma/i-legnanesi-cera-una-volta/200030828142253
+END:VEVENT
+END:VCALENDAR

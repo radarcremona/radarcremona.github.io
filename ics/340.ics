@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-340@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Brescia BlaBla Language Exchange #2 - Every other Wednesday - Rec
+ urrent event
+LOCATION:Brescia\, Via San Faustino\, Brescia
+DESCRIPTION:Info: https://allevents.in/brescia/brescia-blabla-language-ex
+ change-2-every-other-wednesday-recurrent-event/200030553004614 (via @rad
+ arcremona)
+URL:https://allevents.in/brescia/brescia-blabla-language-exchange-2-every
+ -other-wednesday-recurrent-event/200030553004614
+END:VEVENT
+END:VCALENDAR

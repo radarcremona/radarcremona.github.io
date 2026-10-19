@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-24@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Capsule Wardrobe — Il Guardaroba Essenziale_ Corso Completo in 
+ presenza
+LOCATION:Corso G.Garibaldi\, 13\, 13 Corso G.Garibaldi\, Piacenza
+DESCRIPTION:Tutto il programma Capsule Wardrobe in un'unica giornata\, in
+  studio a Piacenza\, con laboratorio pratico dal vivo. Early Bird 13 set
+ tembre. Info: https://www.eventbrite.it/e/capsule-wardrobe-il-guardaroba
+ -essenziale-corso-completo-in-presenza-tickets-1997779579501 (via @radar
+ cremona)
+URL:https://www.eventbrite.it/e/capsule-wardrobe-il-guardaroba-essenziale
+ -corso-completo-in-presenza-tickets-1997779579501
+END:VEVENT
+END:VCALENDAR

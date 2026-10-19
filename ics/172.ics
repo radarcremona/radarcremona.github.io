@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-172@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Pizza d'autore
+LOCATION:Smeg Store Reggio Emilia\, 5M Via Gramsci\, Reggio Emilia
+DESCRIPTION:Un'esperienza gourmet con Alessandro Servidio Info: https://w
+ ww.eventbrite.it/e/pizza-dautore-tickets-2001533572796 (via @radarcremon
+ a)
+URL:https://www.eventbrite.it/e/pizza-dautore-tickets-2001533572796
+END:VEVENT
+END:VCALENDAR

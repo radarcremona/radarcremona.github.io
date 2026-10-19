@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-47@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261117
+SUMMARY:Fiera dei Vini
+LOCATION:Piacenza\, via Tirotti 11\, Piacenza
+DESCRIPTION:Fiera dei Vini a Piacenza\, dal 14 al 16 novembre 2026: in ta
+ vola vino. Info: https://sagramap.com/evento/fiera-dei-vini-piacenza (vi
+ a @radarcremona)
+URL:https://sagramap.com/evento/fiera-dei-vini-piacenza
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-164@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Visita all'ex-manicomio San Lazzaro: da lebbrosario a complesso m
+ anicomiale
+LOCATION:San Lazzaro\, 42122 Reggio nell'Emilia RE\, Italy\, Davanti Ingr
+ esso Padiglione Ziccardi\, Reggio Emilia
+DESCRIPTION:Un nuovo tour guidato a Reggio Emilia\, dentro una delle pagi
+ ne più oscure\, delicate e sorprendenti della storia cittadina. Esiste 
+ una Reggio poco conosciuta\, lontana dalle piazze e... Info: https://www
+ .eventbrite.co.uk/e/visita-allex-manicomio-san-lazzaro-da-lebbrosario-a-
+ complesso-manicomiale-tickets-1996915940333 (via @radarcremona)
+URL:https://www.eventbrite.co.uk/e/visita-allex-manicomio-san-lazzaro-da-
+ lebbrosario-a-complesso-manicomiale-tickets-1996915940333
+END:VEVENT
+END:VCALENDAR

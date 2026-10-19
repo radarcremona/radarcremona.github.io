@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-48@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Autunno tra le vigne e merenda nell'azienda agricola!
+LOCATION:Via Madonna dei Monti\, 18\, 18 Via Madonna dei Monti\, San Colo
+ mbano al Lambro
+DESCRIPTION:14:30 la guida escursionista Stefano ci guiderà in una visit
+ a tra le colline di San Colombano al Lambro seguita da una merenda in az
+ ienda! Info: https://www.eventbrite.it/e/autunno-tra-le-vigne-e-merenda-
+ nellazienda-agricola-tickets-2003412733416 (via @radarcremona)
+URL:https://www.eventbrite.it/e/autunno-tra-le-vigne-e-merenda-nellaziend
+ a-agricola-tickets-2003412733416
+END:VEVENT
+END:VCALENDAR

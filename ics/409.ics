@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-409@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Rendez-vous | Victoria Thierrée-Chaplin\, Jean-Baptiste Thierré
+ e\, Aurélia Thierrée\, James Thierrée
+LOCATION:Viale Basetti 12/A\, 43121 Parma\, Italy\, Viale F. e G. L. Base
+ tti\, Parma
+DESCRIPTION:RENDEZ-VOUS di e con Victoria Thierrée-Chaplin\, Jean-Baptis
+ te Thierrée\, Aurélia Thierrée\, James Thierrée con la partecipazion
+ e di Lucia Leonardi costumi Victoria Thierrée-Chaplin r... Info: https:
+ //allevents.in/parma/rendez-vous-victoria-thierrée-chaplin-jean-baptist
+ e-thierrée-aurélia-thierrée-james-thierrée/200030498934939 (via @rad
+ arcremona)
+URL:https://allevents.in/parma/rendez-vous-victoria-thierrée-chaplin-jea
+ n-baptiste-thierrée-aurélia-thierrée-james-thierrée/200030498934939
+END:VEVENT
+END:VCALENDAR

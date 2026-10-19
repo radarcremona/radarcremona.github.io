@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-278@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:3ed CREMONA TANGO FESTIVAL 2026
+LOCATION:Il Lago dei Cigni\, Via delle Industrie\, Cremona
+DESCRIPTION:3 Edizione CREMONA TANGO FESTIVAL Dal 30 ottobre al 1 novembr
+ e 2026 Unisciti a noi per 3 giorni intensi di workshop tematici\, milong
+ he con esibizioni mozzafiato e musica dal vivo! ... Info: https://alleve
+ nts.in/cremona/3°ed-cremona-tango-festival-2026/200030784999435 (via @r
+ adarcremona)
+URL:https://allevents.in/cremona/3°ed-cremona-tango-festival-2026/200030
+ 784999435
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-139@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:ONIGIRI & WINE LAB - Brescia
+LOCATION:Via S. Faustino\, 63\, 63 Via San Faustino\, Brescia
+DESCRIPTION:Per chi vuole dominare l’arte dell’onigiri\, fare aperiti
+ vo al posto giusto e portarsi a casa una nuova skill. Brescia: 28 Ottobr
+ e | ore 18. Info: https://www.eventbrite.it/e/biglietti-onigiri-wine-lab
+ -brescia-2001885897609 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-onigiri-wine-lab-brescia-200188
+ 5897609
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-328@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:R.U.R. LA FABBRICA DEI ROBOT di K.Capek
+LOCATION:PIAZZA D'ARCO\, Mantova\, Lombardia\, Piazza A. d'Arco\, Mantova
+DESCRIPTION:Ambientato in un futuro industrializzato e distopico\, R.U.R.
+  racconta la storia di un'azienda che produce esseri artificiali simili 
+ agli esseri umani – i robot\, R.U.R. Rossum's Uni... Info: https://all
+ events.in/mantova/rur-la-fabbrica-dei-robot-di-kcapek/200030845849728 (v
+ ia @radarcremona)
+URL:https://allevents.in/mantova/rur-la-fabbrica-dei-robot-di-kcapek/2000
+ 30845849728
+END:VEVENT
+END:VCALENDAR

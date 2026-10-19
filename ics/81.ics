@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-81@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Notte delle Lumere
+LOCATION:Suzzara\, Piazza Garibaldi\, Suzzara
+DESCRIPTION:Corteo cittadino di gruppi allegorici e animazioni varie\, an
+ che musicali con presenza di banchi per la vendita di prodotti tipici. I
+ nfo: https://sagramap.com/evento/notte-delle-lumere-suzzara (via @radarc
+ remona)
+URL:https://sagramap.com/evento/notte-delle-lumere-suzzara
+END:VEVENT
+END:VCALENDAR

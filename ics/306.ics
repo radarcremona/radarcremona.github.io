@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-306@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:LA NOTTE DELLE STREGHE- teatro Campogalliani
+LOCATION:Castel d&quot\;Ario ( Mantova )\, Castel d'Ario\, Mantova
+DESCRIPTION:Info: https://allevents.in/mantova/la-notte-delle-streghe-tea
+ tro-campogalliani/200030788680222 (via @radarcremona)
+URL:https://allevents.in/mantova/la-notte-delle-streghe-teatro-campogalli
+ ani/200030788680222
+END:VEVENT
+END:VCALENDAR

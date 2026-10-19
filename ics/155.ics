@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-155@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261026
+SUMMARY:Festival Verdi
+LOCATION:Parma\, Parma
+DESCRIPTION:Rassegna lirica dedicata a Giuseppe Verdi tra il Teatro Regio
+  di Parma e Busseto. Info: https://sagramap.com/evento/festival-verdi-pa
+ rma (via @radarcremona)
+URL:https://sagramap.com/evento/festival-verdi-parma
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-49@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Le Ombre di Castell’Arquato Delitti\, Leggende e Spettri Mediev
+ ali
+LOCATION:Piazza Europa\, 29014 Castell'Arquato PC\, Italia\, Davanti ingr
+ esso Scuola\, Castell'Arquato
+DESCRIPTION:Tra le vie acciottolate\, le torri e le mura di uno dei borgh
+ i medievali più affascinanti d’Italia\, Castell’Arquato custodisce 
+ un volto oscuro fatto di condanne\, amori proibiti e pr... Info: https:/
+ /www.eventbrite.co.uk/e/le-ombre-di-castellarquato-delitti-leggende-e-sp
+ ettri-medievali-tickets-1996786427958 (via @radarcremona)
+URL:https://www.eventbrite.co.uk/e/le-ombre-di-castellarquato-delitti-leg
+ gende-e-spettri-medievali-tickets-1996786427958
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-32@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261102
+SUMMARY:Fiera del Libro
+LOCATION:Galleria 25 Aprile\, Galleria 25 Aprile\, Cremona
+DESCRIPTION:Bancarelle di libri\, conferenze e incontri culturali con gli
+  autori Info: https://www.comune.cremona.it/vivere-comune/eventi/fiera-l
+ ibro (via @radarcremona)
+URL:https://www.comune.cremona.it/vivere-comune/eventi/fiera-libro
+END:VEVENT
+END:VCALENDAR

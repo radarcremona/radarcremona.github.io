@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-156@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:Tortello di Torrile - Di che Pasta Sei?
+LOCATION:Torrile\, San Polo e Torrile\, Torrile
+DESCRIPTION:Il Tortello di Torrile\, ripieno di patata\, ricotta e Lambru
+ sco\, sabato 24 e domenica 25 ottobre 2026 a San Polo e Torrile. Info: h
+ ttps://sagramap.com/evento/tortello-di-torrile-di-che-pasta-sei (via @ra
+ darcremona)
+URL:https://sagramap.com/evento/tortello-di-torrile-di-che-pasta-sei
+END:VEVENT
+END:VCALENDAR

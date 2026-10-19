@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-358@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:L’OFFERTA MUSICALE DI J. S. BACH - BAHRAMI - MERCELLI - I VIRTU
+ OSI ITALIANI
+LOCATION:Conservatorio di Musica Luca Marenzio di Brescia - salone Da Cem
+ mo\, Conservatorio Luca Marenzio\, Brescia
+DESCRIPTION:L’OFFERTA MUSICALE DI J. S. BACH Musikalisches Opfer\, BWV 
+ 1079 Un capolavoro nato da una sfida. Brescia\, Salone da Cemmo 24 ottob
+ re 2026\, ore 20:30 Ramin Bahrami — pianoforte Massi... Info: https://
+ allevents.in/brescia/lofferta-musicale-di-j-s-bach-bahrami-mercelli-i-vi
+ rtuosi-italiani/200030644619240 (via @radarcremona)
+URL:https://allevents.in/brescia/lofferta-musicale-di-j-s-bach-bahrami-me
+ rcelli-i-virtuosi-italiani/200030644619240
+END:VEVENT
+END:VCALENDAR

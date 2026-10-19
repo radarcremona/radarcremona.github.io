@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-308@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:XL Gianluca Zeccardo + Flavio Zizzu
+LOCATION:El Viejo Almacen Papelero\, Strada Chiesanuova\, Mantova
+DESCRIPTION:Info: https://allevents.in/mantova/xl-gianluca-zeccardo-flavi
+ o-zizzu/200030845721206 (via @radarcremona)
+URL:https://allevents.in/mantova/xl-gianluca-zeccardo-flavio-zizzu/200030
+ 845721206
+END:VEVENT
+END:VCALENDAR

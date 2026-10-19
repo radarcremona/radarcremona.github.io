@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-274@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:Le strade del gusto della bellezza e del gioco Cremona
+LOCATION:Corso Giuseppe Garibaldi\, 26100 Cremona CR\, Italia\, Corso Giu
+ seppe Garibaldi\, Cremona
+DESCRIPTION:Gentile Operatore\, siamo felici di invitarti alla nuova ediz
+ ione di Le Strade del Gusto\, della Bellezza e del Gioco\, una delle man
+ ifestazioni più amate di Cremona\, che nel 2026 cam... Info: https://al
+ levents.in/cremona/le-strade-del-gusto-della-bellezza-e-del-gioco-cremon
+ a/200030836514315 (via @radarcremona)
+URL:https://allevents.in/cremona/le-strade-del-gusto-della-bellezza-e-del
+ -gioco-cremona/200030836514315
+END:VEVENT
+END:VCALENDAR

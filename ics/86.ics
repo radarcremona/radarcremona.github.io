@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-86@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Sapori in Piazza
+LOCATION:Roverbella\, Via Custoza SC\, Roverbella
+DESCRIPTION:Sapori in Piazza a Roverbella\, il 29 novembre 2026. Info: ht
+ tps://sagramap.com/evento/sapori-in-piazza-roverbella (via @radarcremona
+ )
+URL:https://sagramap.com/evento/sapori-in-piazza-roverbella
+END:VEVENT
+END:VCALENDAR

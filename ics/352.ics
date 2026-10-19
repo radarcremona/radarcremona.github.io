@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-352@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261101
+SUMMARY:OLTRE IL LIMITE - Quando il clima decide per noi
+LOCATION:MO.CA - Centro per le Nuove Culture\, 78 Via Moretto\, Brescia
+DESCRIPTION:Info: https://allevents.in/brescia/oltre-il-limite-quando-il-
+ clima-decide-per-noi/100002002523990161 (via @radarcremona)
+URL:https://allevents.in/brescia/oltre-il-limite-quando-il-clima-decide-p
+ er-noi/100002002523990161
+END:VEVENT
+END:VCALENDAR

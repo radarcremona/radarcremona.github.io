@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-329@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:MARQUIS HILL BLACKTET REVISITED // MANTOVAJAZZ 2026
+LOCATION:Teatro Bibiena\, Mantova
+DESCRIPTION:L’eredità di Miles Davis non è soltanto un suono: è la c
+ apacità di aprire nuove strade. È da questa idea che parte il concerto
+  di Marquis Hill\, una delle voci più interessanti dell... Info: https:
+ //allevents.in/mantova/marquis-hill-blacktet-revisited-mantovajazz-2026/
+ 200030788952708 (via @radarcremona)
+URL:https://allevents.in/mantova/marquis-hill-blacktet-revisited-mantovaj
+ azz-2026/200030788952708
+END:VEVENT
+END:VCALENDAR

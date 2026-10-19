@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-99@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Visita Guidata al Palazzo Ducale di Mantova
+LOCATION:Piazza Sordello\, 40\, 46100 Mantova MN\, Italia\, Davanti Ingre
+ sso Palazzo Ducale\, Mantova
+DESCRIPTION:Il Palazzo Ducale di Mantova è molto più di una semplice di
+ mora\, è quasi una piccola città in cui si intrecciano giardini pensil
+ i\, cortili\, piazze e appartamenti\, tutti raccolti at... Info: https:/
+ /www.eventbrite.co.uk/e/visita-guidata-al-palazzo-ducale-di-mantova-tick
+ ets-2001022031763 (via @radarcremona)
+URL:https://www.eventbrite.co.uk/e/visita-guidata-al-palazzo-ducale-di-ma
+ ntova-tickets-2001022031763
+END:VEVENT
+END:VCALENDAR

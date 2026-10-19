@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-294@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Lucilla in Piacenza
+LOCATION:Piacenza\, Piacenza
+DESCRIPTION:The Ultimate Lucilla Experience LIVE at TBA—This Saturday\,
+  November 28\, 2026! It's that time of the year where everyone wants to 
+ have a musical breath! Your favorite\, Lucilla is hi... Info: https://al
+ levents.in/piacenza/lucilla-in-piacenza/3300029712194624 (via @radarcrem
+ ona)
+URL:https://allevents.in/piacenza/lucilla-in-piacenza/3300029712194624
+END:VEVENT
+END:VCALENDAR

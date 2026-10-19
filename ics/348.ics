@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-348@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:4 FESTIVAL INTERNAZIONALE Silvana Tirini Bonometti
+LOCATION:Via Fratelli Bronzetti 5\, 25122 Brescia\, Italy\, Via Fratelli 
+ Bronzetti\, Brescia
+DESCRIPTION:Info: https://allevents.in/brescia/4°-festival-internazional
+ e-silvana-tirini-bonometti/200030498123240 (via @radarcremona)
+URL:https://allevents.in/brescia/4°-festival-internazionale-silvana-tiri
+ ni-bonometti/200030498123240
+END:VEVENT
+END:VCALENDAR

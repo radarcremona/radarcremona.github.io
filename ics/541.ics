@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-541@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Costellazioni familiari a rilascio corporeo
+LOCATION:Castelbelforte\,  Mantova \, Serendipity \, Via Goito\, Mantova
+DESCRIPTION:GIORNATE DI COSTELLAZIONI FAMILIARI A RILASCIO CORPOREO Manto
+ va – Serendipity A Castelbelforte \, via Parolara 93 Ci sono dinamiche
+  che appartengono alla nostra storia familiare e c... Info: https://alle
+ vents.in/mantova/costellazioni-familiari-a-rilascio-corporeo/20003078772
+ 1306 (via @radarcremona)
+URL:https://allevents.in/mantova/costellazioni-familiari-a-rilascio-corpo
+ reo/200030787721306
+END:VEVENT
+END:VCALENDAR

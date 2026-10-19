@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-341@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:La Tana Milonga con Diego e Claudia\, grande apertura di stagione
+ !
+LOCATION:Via Milano 90/F \, 25100 Brescia\, Italy\, Via Milano\, Brescia
+DESCRIPTION:Info: https://allevents.in/brescia/la-tana-milonga-con-diego-
+ e-claudia-grande-apertura-di-stagione/200030785617750 (via @radarcremona
+ )
+URL:https://allevents.in/brescia/la-tana-milonga-con-diego-e-claudia-gran
+ de-apertura-di-stagione/200030785617750
+END:VEVENT
+END:VCALENDAR

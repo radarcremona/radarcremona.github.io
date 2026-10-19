@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-359@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261104
+SUMMARY:OLTRE IL LIMITE - quando il clima decide per noi / SCUOLE
+LOCATION:MO.CA - Centro per le Nuove Culture\, 78 Via Moretto\, Brescia
+DESCRIPTION:Percorso 13+ Percorso immersivo gratuito per le scuoleAbout t
+ his EventOLTRE IL LIMITEUn percorso teatrale immersivo in cui gli attori
+  accompagnano i partecipanti in una narrazione ... Info: https://alleven
+ ts.in/brescia/oltre-il-limite-quando-il-clima-decide-per-noi-scuole/1000
+ 01999760052148 (via @radarcremona)
+URL:https://allevents.in/brescia/oltre-il-limite-quando-il-clima-decide-p
+ er-noi-scuole/100001999760052148
+END:VEVENT
+END:VCALENDAR

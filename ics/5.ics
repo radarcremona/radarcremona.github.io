@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-5@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Sagra di Ottobre
+LOCATION:Cremona\, Piazza Stradivari\, Cremona
+DESCRIPTION:Manifestazione enogastronomica con l'obiettivo di valorizzare
+  le aziende agrituristiche del territorio. saranno presenti aziende cond
+ otte da giovani. Info: https://sagramap.com/evento/sagra-di-ottobre-crem
+ ona (via @radarcremona)
+URL:https://sagramap.com/evento/sagra-di-ottobre-cremona
+END:VEVENT
+END:VCALENDAR

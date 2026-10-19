@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-386@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:DALILA KAYROS presenta “KHTHONIE”
+LOCATION:Borgo Santa Brigida\, 43121 Parma PR\, Italia\, Borgo Santa Brig
+ ida\, Parma
+DESCRIPTION:Info: https://allevents.in/parma/dalila-kayros-presenta-khtho
+ nie/200030644507707 (via @radarcremona)
+URL:https://allevents.in/parma/dalila-kayros-presenta-khthonie/2000306445
+ 07707
+END:VEVENT
+END:VCALENDAR

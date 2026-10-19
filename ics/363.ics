@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-363@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:La Scienza è di Tutti
+LOCATION:AMBIENTEPARCO – parco scientifico con percorsi didattici\, 7 L
+ argo Torrelunga\, Brescia
+DESCRIPTION:Citizen Science: quando la ricerca diventa partecipataAbout t
+ his EventCitizen Science: quando la ricerca diventa partecipataIl second
+ o appuntamento di Info: https://allevents.in/brescia/la-scienza-è-di-tu
+ tti/100002003072616116 (via @radarcremona)
+URL:https://allevents.in/brescia/la-scienza-è-di-tutti/10000200307261611
+ 6
+END:VEVENT
+END:VCALENDAR

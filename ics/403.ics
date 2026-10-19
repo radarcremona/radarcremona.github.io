@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-403@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Delitti e Misteri a Parma
+LOCATION:Parma\, Basilica della Steccata\, Parma
+DESCRIPTION:Preparati a scoprire segreti nascosti e misteri da brivido in
+  un pomeriggio tutto da vivere!About this EventDelitti e Misteri a Parma
+  — Speciale HalloweenUn’esperienza immersiva ne... Info: https://all
+ events.in/parma/delitti-e-misteri-a-parma/100002002458379919 (via @radar
+ cremona)
+URL:https://allevents.in/parma/delitti-e-misteri-a-parma/1000020024583799
+ 19
+END:VEVENT
+END:VCALENDAR

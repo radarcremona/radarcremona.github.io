@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-51@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Visita guidata di Salsomaggiore curiosa: tra Liberty\, Terme e Be
+ lle Époque
+LOCATION:Piazza Lorenzo Berzieri\, 1\, 43039 Salsomaggiore Terme PR\, Ita
+ lia\, Davanti ingresso Palazzo Berzieri\, Salsomaggiore Terme
+DESCRIPTION:Un viaggio nel tempo alla scoperta degli antichi splendori di
+  Salsomaggiore Terme\, una delle più celebri ville d’eaux italiane\, 
+ famosa per le sue architetture raffinate e per l’atm... Info: https://
+ www.eventbrite.co.uk/e/visita-guidata-di-salsomaggiore-curiosa-tra-liber
+ ty-terme-e-belle-epoque-tickets-2003510576066 (via @radarcremona)
+URL:https://www.eventbrite.co.uk/e/visita-guidata-di-salsomaggiore-curios
+ a-tra-liberty-terme-e-belle-epoque-tickets-2003510576066
+END:VEVENT
+END:VCALENDAR

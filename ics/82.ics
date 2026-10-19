@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-82@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Festa di San Martino
+LOCATION:Quistello\, Via C. Battisti\, Quistello
+DESCRIPTION:Festa di San Martino a Quistello\, 3a edizione\, il 7 novembr
+ e 2026. Si mangia sul posto. Info: https://sagramap.com/evento/festa-di-
+ san-martino-quistello (via @radarcremona)
+URL:https://sagramap.com/evento/festa-di-san-martino-quistello
+END:VEVENT
+END:VCALENDAR

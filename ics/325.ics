@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-325@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Antonio Ornano “(In)grato” @ Mantova\, Teatro Sociale - 15 no
+ vembre 2026
+LOCATION:Teatro Sociale di Mantova\, Piazza Cavallotti Felice 14\, Mantov
+ a
+DESCRIPTION:Antonio Ornano\, volto noto e amato della comicità italiana\
+ , torna sul palco con un nuovo spettacolo - "(In)grato" - in cui si mett
+ e in scena la situazione paradossale della nostra ... Info: https://alle
+ vents.in/mantova/antonio-ornano-ingrato-mantova-teatro-sociale-15-novemb
+ re-2026/200029681798949 (via @radarcremona)
+URL:https://allevents.in/mantova/antonio-ornano-ingrato-mantova-teatro-so
+ ciale-15-novembre-2026/200029681798949
+END:VEVENT
+END:VCALENDAR

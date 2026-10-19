@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-415@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:Misatango con Martin Palmeri
+LOCATION:Cattedrale di Parma\, Experience on the Road\, Parma
+DESCRIPTION:MISATANGO con Martín Palmeri a Parma! Una delle opere corali
+  più amate e coinvolgenti del nostro tempo approda a Parma per un'esper
+ ienza straordinaria: due giorni di studio e inter... Info: https://allev
+ ents.in/parma/misatango-con-martin-palmeri/200030644537520 (via @radarcr
+ emona)
+URL:https://allevents.in/parma/misatango-con-martin-palmeri/2000306445375
+ 20
+END:VEVENT
+END:VCALENDAR

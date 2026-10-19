@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-46@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Castagnata di Casaliggio
+LOCATION:Gragnano Trebbiense\, Casaliggio\, Gragnano Trebbiense
+DESCRIPTION:Castagnata di Casaliggio a Gragnano Trebbiense\, il 8 novembr
+ e 2026: caldarroste. Info: https://sagramap.com/evento/castagnata-di-cas
+ aliggio-gragnano-trebbiense (via @radarcremona)
+URL:https://sagramap.com/evento/castagnata-di-casaliggio-gragnano-trebbie
+ nse
+END:VEVENT
+END:VCALENDAR

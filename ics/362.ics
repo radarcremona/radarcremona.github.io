@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-362@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Conoscere per Convivere
+LOCATION:Residenza nobile di Palazzo Facchi\, 74 Corso Giacomo Matteotti\
+ , Brescia
+DESCRIPTION:Il ritorno dei grandi carnivori!About this EventCONOSCERE PER
+  CONVIVEREIl ritorno dei grandi carnivoriLupi e or Info: https://alleven
+ ts.in/brescia/conoscere-per-convivere/100002000168311262 (via @radarcrem
+ ona)
+URL:https://allevents.in/brescia/conoscere-per-convivere/1000020001683112
+ 62
+END:VEVENT
+END:VCALENDAR

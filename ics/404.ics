@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-404@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Arisa in Parma
+LOCATION:Teatro Regio\, Teatro Regio\, Parma
+DESCRIPTION:Get Ready for Arisa Live at Teatro Regio on Saturday\, Novemb
+ er 14\, 2026! This is not just a concert—it's a moment you'll talk abo
+ ut for years. Arisa is set to light up Teatro Regio... Info: https://all
+ events.in/parma/arisa-in-parma/3300029959864250 (via @radarcremona)
+URL:https://allevents.in/parma/arisa-in-parma/3300029959864250
+END:VEVENT
+END:VCALENDAR

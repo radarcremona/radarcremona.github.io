@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-54@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Festa di San Martino Festa del Ringraziamento
+LOCATION:Casalmaiocco\, Piazza San Valentino 1\, Casalmaiocco
+DESCRIPTION:Festa di San Martino Festa del Ringraziamento a Casalmaiocco\
+ , 35a edizione\, l'8 novembre 2026. Si mangia sul posto. Info: https://s
+ agramap.com/evento/festa-di-san-martino-festa-del-ringraziamento-casalma
+ iocco (via @radarcremona)
+URL:https://sagramap.com/evento/festa-di-san-martino-festa-del-ringraziam
+ ento-casalmaiocco
+END:VEVENT
+END:VCALENDAR

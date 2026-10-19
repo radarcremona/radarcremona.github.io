@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-322@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Halloween al Rabin
+LOCATION:Quartiere Rabin\, Porto Mantovano\, Mantova
+DESCRIPTION:Ritorna Halloween con intaglio zucche e casa stregata.. #stay
+ tuned #rabinhalloweenfest Info: https://allevents.in/mantova/halloween-a
+ l-rabin/200030576011505 (via @radarcremona)
+URL:https://allevents.in/mantova/halloween-al-rabin/200030576011505
+END:VEVENT
+END:VCALENDAR

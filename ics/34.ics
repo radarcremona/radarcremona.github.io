@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-34@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20261109
+SUMMARY:Paradisi artificiali
+LOCATION:Museo Archeologico San Lorenzo\, via San Lorenzo\, Cremona
+DESCRIPTION:Mostra di Giorgio Tentolini Info: https://www.comune.cremona.
+ it/vivere-comune/eventi/paradisi-artificiali (via @radarcremona)
+URL:https://www.comune.cremona.it/vivere-comune/eventi/paradisi-artificia
+ li
+END:VEVENT
+END:VCALENDAR

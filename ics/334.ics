@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-334@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Mercatini di Natale a Mantova 2026
+LOCATION:Piazza Virgiliana\, 46100 Mantua\, Italy\, Via Fratelli Cairoli\
+ , Mantova
+DESCRIPTION:️Dal 7 novembre al 27 dicembre 2026 Mantova\, Piazza Virgil
+ iana ️Ogni sabato e domenica dalle 10.00 alle 19.00 Aperture straordin
+ arie: 7 dicembre: 10.00 > 19.00 8 dicembre: 10.00 > ... Info: https://al
+ levents.in/mantova/mercatini-di-natale-a-mantova-2026/200030787719800 (v
+ ia @radarcremona)
+URL:https://allevents.in/mantova/mercatini-di-natale-a-mantova-2026/20003
+ 0787719800
+END:VEVENT
+END:VCALENDAR

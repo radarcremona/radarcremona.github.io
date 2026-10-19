@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-18@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Piacenza Noire: un tour nella cronaca nera del passato
+LOCATION:Piazza della Cittadella\, 29\, 29121 Piacenza PC\, Italia\, Dava
+ nti all'ingresso di Palazzo Farnese\, Piacenza
+DESCRIPTION:Esiste una Piacenza noire? Eccome! Un itinerario affascinante
+  e inquieto che svela il volto oscuro della città\, tra vicende di sang
+ ue\, misteri irrisolti e segreti celati dietro le ... Info: https://www.
+ eventbrite.co.uk/e/piacenza-noire-un-tour-nella-cronaca-nera-del-passato
+ -tickets-1999375112784 (via @radarcremona)
+URL:https://www.eventbrite.co.uk/e/piacenza-noire-un-tour-nella-cronaca-n
+ era-del-passato-tickets-1999375112784
+END:VEVENT
+END:VCALENDAR

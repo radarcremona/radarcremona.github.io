@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-25@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Business Etiquette Masterclass | Modulo 3 — Comunicazione Digit
+ ale
+LOCATION:Corso G.Garibaldi\, 13\, 13 Corso G.Garibaldi\, Piacenza
+DESCRIPTION:Ogni email che scrivi dice qualcosa di te. Impara le regole d
+ 'oro della comunicazione digitale professionale. Info: https://www.event
+ brite.it/e/business-etiquette-masterclass-modulo-3-comunicazione-digital
+ e-tickets-1993623339074 (via @radarcremona)
+URL:https://www.eventbrite.it/e/business-etiquette-masterclass-modulo-3-c
+ omunicazione-digitale-tickets-1993623339074
+END:VEVENT
+END:VCALENDAR

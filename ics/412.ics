@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-412@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Vespette e Lambrette in Brodo #VIB26
+LOCATION:Caseificio Ciaolatte Parma\, Parma
+DESCRIPTION:Ecco alcune informazioni essenziali\, maggiori dettagli saran
+ no nel consueto modulo di iscrizione che pubblicheremo 30gg prima dell'e
+ vento. Iscrizione solo tramite modulo online che... Info: https://alleve
+ nts.in/parma/vespette-e-lambrette-in-brodo-vib26/200030644507253 (via @r
+ adarcremona)
+URL:https://allevents.in/parma/vespette-e-lambrette-in-brodo-vib26/200030
+ 644507253
+END:VEVENT
+END:VCALENDAR

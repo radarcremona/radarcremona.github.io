@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-342@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Halloween Party con il Disco Circo
+LOCATION:Lattepiulive\, Via Giuseppe Di Vittorio\, Brescia
+DESCRIPTION:Info: https://allevents.in/brescia/halloween-party-con-il-dis
+ co-circo/200030838976149 (via @radarcremona)
+URL:https://allevents.in/brescia/halloween-party-con-il-disco-circo/20003
+ 0838976149
+END:VEVENT
+END:VCALENDAR

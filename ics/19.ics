@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-19@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Piacenza Sotterranea e Nascosta: tra Fede\, Storia e Mistero
+LOCATION:Piazza della Cittadella\, 29\, 29121 Piacenza PC\, Italia\, Dava
+ nti ingresso Palazzo Farnese\, Piacenza
+DESCRIPTION:Un viaggio nel cuore più nascosto di Piacenza\, dove la citt
+ à si rivela strato dopo strato\, tra antiche rovine\, cripte silenziose
+  e simboli che sfidano il tempo. Partiremo dall'area... Info: https://ww
+ w.eventbrite.it/e/piacenza-sotterranea-e-nascosta-tra-fede-storia-e-mist
+ ero-tickets-2000899991738 (via @radarcremona)
+URL:https://www.eventbrite.it/e/piacenza-sotterranea-e-nascosta-tra-fede-
+ storia-e-mistero-tickets-2000899991738
+END:VEVENT
+END:VCALENDAR

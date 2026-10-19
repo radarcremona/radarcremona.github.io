@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-630@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261115
+SUMMARY:42 Futurity
+LOCATION:CremonaFiere\, piazza Zelioli Lanzini\, Cremona
+DESCRIPTION:di Reining di Cremona Il Futurity di Reining di Cremona è un
+ o degli eventi più prestigiosi del calendario equestre europeo e rappre
+ senta l’appuntamento di fine stagione più atteso ... Info: https://ww
+ w.turismocremona.it/it/evento/42%C2%B0-futurity (via @radarcremona)
+URL:https://www.turismocremona.it/it/evento/42%C2%B0-futurity
+END:VEVENT
+END:VCALENDAR

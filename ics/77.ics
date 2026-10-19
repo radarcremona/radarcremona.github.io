@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-77@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261026
+SUMMARY:Festa del Tartufo Bianco di Borgofranco sul Po
+LOCATION:Borgocarbonara\, Borgofranco sul Po\, Borgocarbonara
+DESCRIPTION:Festa del Tartufo Bianco a Borgofranco sul Po\, frazione di B
+ orgocarbonara\, 32a edizione\, dal 2 al 25 ottobre 2026: in tavola tartu
+ fo bianco. L'organizzatore segnala anche mercato a... Info: https://sagr
+ amap.com/evento/festa-del-tartufo-bianco-di-borgofranco-sul-po-borgocarb
+ onara (via @radarcremona)
+URL:https://sagramap.com/evento/festa-del-tartufo-bianco-di-borgofranco-s
+ ul-po-borgocarbonara
+END:VEVENT
+END:VCALENDAR

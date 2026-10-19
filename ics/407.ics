@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-407@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:JONATHAN HULTÉN + CARONTE - COLONNE 28 - PARMA
+LOCATION:Colonne 28\, Borgo delle Colonne 28\, Parma
+DESCRIPTION:Bye Bye Moon presenta: Jonathan Hultén + Caronte (Acoustic S
+ et) Unica data Italiana. Il 25 ottobre Colonne 28 accoglie il lato più 
+ oscuro\, spirituale e suggestivo di Bye Bye Moon. ... Info: https://alle
+ vents.in/parma/jonathan-hultÉn-caronte-colonne-28-parma/200030473662846
+  (via @radarcremona)
+URL:https://allevents.in/parma/jonathan-hultÉn-caronte-colonne-28-parma/
+ 200030473662846
+END:VEVENT
+END:VCALENDAR

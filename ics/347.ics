@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-347@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:THOMAS OSPITAL organo
+LOCATION:Chiesa San Francesco d'Assisi\, Uepe\, Brescia
+DESCRIPTION:Info: https://allevents.in/brescia/thomas-ospital-organo/2000
+ 30660845119 (via @radarcremona)
+URL:https://allevents.in/brescia/thomas-ospital-organo/200030660845119
+END:VEVENT
+END:VCALENDAR

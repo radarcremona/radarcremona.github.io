@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-330@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:CONCERTO DI LEONI TORRES
+LOCATION:Mascara Discoteca - Mantova\, Mantua\, Mantova
+DESCRIPTION:Vi presentiamo concerto di 'leoni torres" domenica 25/10/2026
+  al mascara apertura locale alle 17:00 concerto alle 20:15 biglietti on-
+ line innovaeventos.es su prenotazione: area vip... Info: https://alleven
+ ts.in/mantova/concerto-di-leoni-torres/200030834475614 (via @radarcremon
+ a)
+URL:https://allevents.in/mantova/concerto-di-leoni-torres/200030834475614
+END:VEVENT
+END:VCALENDAR

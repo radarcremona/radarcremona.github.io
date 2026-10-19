@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-162@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:La Reggio Noire: un tour nella cronaca nera del passato by Night
+LOCATION:Piazza Camillo Prampolini\, 42121 Reggio Emilia RE\, Italy\, Dav
+ anti ad ingresso Cattedrale\, Reggio Emilia
+DESCRIPTION:Un trekking urbano tra le vie e le piazze del centro di Reggi
+ o che ci condurrà nel cuore della cronaca noire reggiana del remoto e d
+ el recente passato. Scopriremo gli efferati omic... Info: https://www.ev
+ entbrite.co.uk/e/la-reggio-noire-un-tour-nella-cronaca-nera-del-passato-
+ by-night-tickets-2003095732257 (via @radarcremona)
+URL:https://www.eventbrite.co.uk/e/la-reggio-noire-un-tour-nella-cronaca-
+ nera-del-passato-by-night-tickets-2003095732257
+END:VEVENT
+END:VCALENDAR

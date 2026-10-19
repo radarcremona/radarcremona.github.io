@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-123@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Festa d'Autunno
+LOCATION:Esine\, Via Piazza Falcone e Borsellino\, Esine
+DESCRIPTION:Festa d'Autunno ad Esine\, il 25 ottobre 2026: in tavola cast
+ agne. Manifestazione con mercatini agricolo km zero e castagnata. Info: 
+ https://sagramap.com/evento/festa-dautunno-esine (via @radarcremona)
+URL:https://sagramap.com/evento/festa-dautunno-esine
+END:VEVENT
+END:VCALENDAR

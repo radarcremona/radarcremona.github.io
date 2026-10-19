@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-388@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Ritrovo bar vertigo
+LOCATION:Vertigo Parma\, Strada Manara 54/A\, Parma
+DESCRIPTION:Info: https://allevents.in/parma/ritrovo-bar-vertigo/20003079
+ 1245046 (via @radarcremona)
+URL:https://allevents.in/parma/ritrovo-bar-vertigo/200030791245046
+END:VEVENT
+END:VCALENDAR

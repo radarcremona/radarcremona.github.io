@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-356@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Ryan Adams | Solo 2026 - Europe | Live in Brescia
+LOCATION:Teatro Clerici\, Pala Banco di Brescia\, Brescia
+DESCRIPTION:RYAN ADAMS Solo 2026 - Europe Venerdì 30 Ottobre 2026 Bresci
+ a\, Teatro Clerici – via S. Zeno\, 168 Inizio concerti h. 20:30 Biglie
+ tti disponibili su Ticketone e Ticketmaster. Poltron... Info: https://al
+ levents.in/brescia/ryan-adams-solo-2026-europe-live-in-brescia/200030029
+ 318301 (via @radarcremona)
+URL:https://allevents.in/brescia/ryan-adams-solo-2026-europe-live-in-bres
+ cia/200030029318301
+END:VEVENT
+END:VCALENDAR

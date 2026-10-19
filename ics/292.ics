@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-292@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Forest Bathing al Monte Nero
+LOCATION:Monte Nero\, Piacenza\, Piacenza
+DESCRIPTION:Una giornata dedicata al benessere\, immersi nella quiete del
+  Monte Nero. Cammineremo lungo un sentiero certificato per il Forest Bat
+ hing\, lasciandoci guidare dai ritmi del bosco e ... Info: https://allev
+ ents.in/piacenza/forest-bathing-al-monte-nero/200030826439804 (via @rada
+ rcremona)
+URL:https://allevents.in/piacenza/forest-bathing-al-monte-nero/2000308264
+ 39804
+END:VEVENT
+END:VCALENDAR

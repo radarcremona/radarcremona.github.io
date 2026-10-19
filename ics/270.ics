@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-270@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:FIORELLA CANTA FABRIZIO E IVANO: ANIME SALVE
+LOCATION:Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele II 52\, Cre
+ mona
+DESCRIPTION:Fiorella mannoia con fiorella canta fabrizio e ivano: anime s
+ alve farà tappa al ponchielli di cremona lunedì 19 ottobre 2026 ore 21
+ .00. Info: https://www.teatroponchielli.it/spettacolo/fiorella-canta-fab
+ rizio-e-ivano-anime-salve/ (via @radarcremona)
+URL:https://www.teatroponchielli.it/spettacolo/fiorella-canta-fabrizio-e-
+ ivano-anime-salve/
+END:VEVENT
+END:VCALENDAR

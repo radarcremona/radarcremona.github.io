@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-368@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Siamo Stati Uniti Brescia
+LOCATION:Studio Legale Zaglio Orizio e Associati\, 5 Piazza della Loggia\
+ , Brescia
+DESCRIPTION:Come può l’arte contribuire alla comprensione delle tensio
+ ni geopolitiche contemporanee? Quale ruolo può avere nel custodire la m
+ emoria? Info: https://allevents.in/brescia/siamo-stati-uniti-brescia/100
+ 002003345566518 (via @radarcremona)
+URL:https://allevents.in/brescia/siamo-stati-uniti-brescia/10000200334556
+ 6518
+END:VEVENT
+END:VCALENDAR

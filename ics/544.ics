@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-544@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Stickers Lab
+LOCATION:Piastra Pendolina\, via ragazzi del '99 n.5\, Brescia
+DESCRIPTION:Laboratorio one shot per creare il tuo stickerAbout this Even
+ tCrea il tuo sticker e personalizza borraccia\, cover\, diario\, quel ch
+ e vuoi!Scegli o crea un disegno o una frase\, scegl... Info: https://all
+ events.in/brescia/stickers-lab/100002003192692267 (via @radarcremona)
+URL:https://allevents.in/brescia/stickers-lab/100002003192692267
+END:VEVENT
+END:VCALENDAR

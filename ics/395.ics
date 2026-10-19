@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-395@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Voglio Tornare Negli Anni 90 ️ • Fuori Orario\, Taneto (RE)
+LOCATION:Fuori Orario\, Via Don Minzoni 96/b\, Parma
+DESCRIPTION:Info: https://allevents.in/parma/voglio-tornare-negli-anni-90
+ -•-fuori-orario-taneto-re/200030822403511 (via @radarcremona)
+URL:https://allevents.in/parma/voglio-tornare-negli-anni-90-•-fuori-ora
+ rio-taneto-re/200030822403511
+END:VEVENT
+END:VCALENDAR

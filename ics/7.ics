@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-7@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261109
+SUMMARY:Fasulin de l'oc cun le Cudeghe
+LOCATION:Pizzighettone\, Pizzighettone
+DESCRIPTION:Storica sagra autunnale nella citta murata con il piatto tipi
+ co di fagioli dall'occhio e cotiche di maiale. Info: https://sagramap.co
+ m/evento/fasulin-de-loc-cun-le-cudeghe-pizzighettone (via @radarcremona)
+URL:https://sagramap.com/evento/fasulin-de-loc-cun-le-cudeghe-pizzighetto
+ ne
+END:VEVENT
+END:VCALENDAR

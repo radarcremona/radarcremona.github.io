@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-150@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Visita Guidata al Cimitero Monumentale Vantiniano: tra Misteri e 
+ Curiosità
+LOCATION:Ingresso Cimitero Vantiniano\, 17 Via Milano\, Brescia
+DESCRIPTION:Il Cimitero Vantiniano è uno dei primi esempi di cimitero mo
+ numentale in Italia. Info: https://www.eventbrite.it/e/visita-guidata-al
+ -cimitero-monumentale-vantiniano-tra-misteri-e-curiosita-tickets-1991015
+ 780797 (via @radarcremona)
+URL:https://www.eventbrite.it/e/visita-guidata-al-cimitero-monumentale-va
+ ntiniano-tra-misteri-e-curiosita-tickets-1991015780797
+END:VEVENT
+END:VCALENDAR

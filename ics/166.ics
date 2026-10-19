@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-166@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:House Concert
+LOCATION:Chronos Studio\, Via XXIV Maggio 35\, Campegine
+DESCRIPTION:Serata all'insegna della musica originale per pianoforte al C
+ hronos Studio con un House Concert a cui parteciperanno due pianisti Inf
+ o: https://www.eventbrite.it/e/registrazione-house-concert-2003004023955
+  (via @radarcremona)
+URL:https://www.eventbrite.it/e/registrazione-house-concert-2003004023955
+END:VEVENT
+END:VCALENDAR

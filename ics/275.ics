@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-275@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:FILOCINEKIDS - CARS
+LOCATION:Cinema FILO\, Piazza dei Filodrammatici\, Cremona
+DESCRIPTION:Il sabato alle ore 16.00 torna la rassegna FILOCINEKIDS Bigli
+ etto unico per tutti 5\,00€ Saetta McQueen\, giovane e cocciuta auto d
+ a corsa\, attraversa gli Stati Uniti per partecipare... Info: https://al
+ levents.in/cremona/filocinekids-cars/200030849234108 (via @radarcremona)
+URL:https://allevents.in/cremona/filocinekids-cars/200030849234108
+END:VEVENT
+END:VCALENDAR

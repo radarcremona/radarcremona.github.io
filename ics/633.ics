@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-633@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261129
+SUMMARY:Fiere Zootecniche Internazionali
+LOCATION:CremonaFiere\, piazza Zelioli Lanzini\, Cremona
+DESCRIPTION:Le Fiere Zootecniche Internazionali di Cremona nel 2026 si te
+ rranno dal 26 al 28 novembre. Al centro innovazione e generazioni future
+  oltre ad un confronto sul settore\, dalla genet... Info: https://www.tu
+ rismocremona.it/it/evento/fiere-zootecniche-internazionali-0 (via @radar
+ cremona)
+URL:https://www.turismocremona.it/it/evento/fiere-zootecniche-internazion
+ ali-0
+END:VEVENT
+END:VCALENDAR

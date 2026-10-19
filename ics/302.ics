@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-302@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Weekend con Delitto Anni '20 al Castello di Chiavenna Landi (PC)
+LOCATION:Castello Di Chiavenna Landi\, Via Piacenza\, Piacenza
+DESCRIPTION:Scopri il fascino di un Weekend con Delitto Anni '20 al Caste
+ llo di Chiavenna Landi (PC) e trascorri uno straordinario fine settimana
+  all'insegna del giallo e del divertimento! "St... Info: https://alleven
+ ts.in/piacenza/weekend-con-delitto-anni-20-al-castello-di-chiavenna-land
+ i-pc/200030791188020 (via @radarcremona)
+URL:https://allevents.in/piacenza/weekend-con-delitto-anni-20-al-castello
+ -di-chiavenna-landi-pc/200030791188020
+END:VEVENT
+END:VCALENDAR

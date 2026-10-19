@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-120@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:Sagra del Bagòss di Bagolino
+LOCATION:Bagolino\, Bagolino
+DESCRIPTION:Sagra del Bagòss a Bagolino\, 2a edizione\, dal 24 al 25 ott
+ obre 2026: in tavola formaggio. Info: https://sagramap.com/evento/sagra-
+ del-bagoss-di-bagolino (via @radarcremona)
+URL:https://sagramap.com/evento/sagra-del-bagoss-di-bagolino
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-291@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Incanto Il Concerto Con Piacenza per Piacenza
+LOCATION:Piacenza\, Piacenza\, Piacenza
+DESCRIPTION:PIACENZA Inizia la magia I biglietti di INCANTO – Il Concer
+ to sono ufficialmente disponibili! ️️ Il 21 novembre il Teatro Munic
+ ipale di Piacenza si trasformerà in un luogo dove mus... Info: https://
+ allevents.in/piacenza/incanto-il-concerto-con-piacenza-per-piacenza/2000
+ 30639845939 (via @radarcremona)
+URL:https://allevents.in/piacenza/incanto-il-concerto-con-piacenza-per-pi
+ acenza/200030639845939
+END:VEVENT
+END:VCALENDAR

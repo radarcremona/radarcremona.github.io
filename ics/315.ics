@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-315@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:MADE IN MN // MAURO NEGRI QUARTET + MARCELLO ABATE TRIO // MANTOV
+ AJAZZ 2026
+LOCATION:Teatro Bibiena\, Via Accademia 47\, Mantova
+DESCRIPTION:Info: https://allevents.in/mantova/made-in-mn-mauro-negri-qua
+ rtet-marcello-abate-trio-mantovajazz-2026/200030788952608 (via @radarcre
+ mona)
+URL:https://allevents.in/mantova/made-in-mn-mauro-negri-quartet-marcello-
+ abate-trio-mantovajazz-2026/200030788952608
+END:VEVENT
+END:VCALENDAR

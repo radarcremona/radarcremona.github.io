@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-128@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Castagnata
+LOCATION:Pontoglio\, Via da Definire\, Pontoglio
+DESCRIPTION:Castagnata a Pontoglio\, il 1 novembre 2026: in tavola castag
+ ne. Info: https://sagramap.com/evento/castagnata-pontoglio (via @radarcr
+ emona)
+URL:https://sagramap.com/evento/castagnata-pontoglio
+END:VEVENT
+END:VCALENDAR

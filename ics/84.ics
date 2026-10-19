@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-84@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Arriva Santa Lucia!
+LOCATION:Quistello\, Via Cesare Battisti\, Quistello
+DESCRIPTION:Arriva Santa Lucia! a Quistello\, 19a edizione\, il 12 novemb
+ re 2026. Si mangia sul posto. Info: https://sagramap.com/evento/arriva-s
+ anta-lucia-quistello (via @radarcremona)
+URL:https://sagramap.com/evento/arriva-santa-lucia-quistello
+END:VEVENT
+END:VCALENDAR

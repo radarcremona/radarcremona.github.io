@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-629@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Time
+LOCATION:Auditorium G. Arvedi\, Museo del Violino\, piazza Marconi\, Crem
+ ona
+DESCRIPTION:STRADIVARIfestival - La Stagione 2026 TimeSergey Khachatryan 
+ violinoLusine Khachatryan pianoforteJohann Sebastian Bach Ciaccona dalla
+  Partita n. 2 (1717)Franz Schubert Sonata n. 4 ... Info: https://www.tur
+ ismocremona.it/it/evento/time (via @radarcremona)
+URL:https://www.turismocremona.it/it/evento/time
+END:VEVENT
+END:VCALENDAR

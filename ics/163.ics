@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-163@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Halloween
+LOCATION:Piazza Terramare\, Parma\, Vicofertile
+DESCRIPTION:Halloween Info: https://www.eventbrite.it/e/biglietti-hallowe
+ en-1999281271101 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-halloween-1999281271101
+END:VEVENT
+END:VCALENDAR

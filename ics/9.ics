@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-9@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261123
+SUMMARY:Festa del Torrone 2026
+LOCATION:Centro storico\, CREMONA\, Cremona
+DESCRIPTION:La Festa del Torrone triplica i weekend dedicati alla dolcezz
+ a! La Festa del Torrone torna a Cremona... e quest'anno allunga la dolce
+ zza!Per la sua 29ª edizione\, il centro storico ... Info: https://www.t
+ urismocremona.it/it/evento/festa-del-torrone-2026 (via @radarcremona)
+URL:https://www.turismocremona.it/it/evento/festa-del-torrone-2026
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-542@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY:Caccia al Tesoro Notturna
+LOCATION:Oratori Violino & Badia\, Via prima 96\, Brescia
+DESCRIPTION:Risolvi gli enigmi e supera le prove per trovare la rotta ovu
+ nque ti conduca.... Iscrizioni: https://linktr.ee/viciniedioutremel Info
+ : https://www.eventbrite.com/e/caccia-al-tesoro-notturna-tickets-2003453
+ 173373 (via @radarcremona)
+URL:https://www.eventbrite.com/e/caccia-al-tesoro-notturna-tickets-200345
+ 3173373
+END:VEVENT
+END:VCALENDAR

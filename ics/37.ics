@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-37@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Un retreat letterario d’autunno con la scrittrice Marta Perego 
+ (2 giorni)
+LOCATION:Bioagriturismo Casa Zucchi\, Strada Case Zucchi 218\, Frazione C
+ astelnuovo Fogliani
+DESCRIPTION:Ispirato al suo libro "Colazione al parco con Virginia Woolf\
+ ," presso Case Zucchi\, il 28 e 29 novembre 2026 Info: https://www.event
+ brite.com/e/un-retreat-letterario-dautunno-con-la-scrittrice-marta-pereg
+ o-2-giorni-tickets-2001871851597 (via @radarcremona)
+URL:https://www.eventbrite.com/e/un-retreat-letterario-dautunno-con-la-sc
+ rittrice-marta-perego-2-giorni-tickets-2001871851597
+END:VEVENT
+END:VCALENDAR

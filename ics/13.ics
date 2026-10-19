@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-13@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:Festa del Ringraziamento
+LOCATION:Rivolta d'Adda\, Via Masaccio\, Rivolta d'Adda
+DESCRIPTION:Festa del ringraziamento volta a valorizzare il mondo dell'ag
+ ricoltura. Info: https://sagramap.com/evento/festa-del-ringraziamento-ri
+ volta-dadda (via @radarcremona)
+URL:https://sagramap.com/evento/festa-del-ringraziamento-rivolta-dadda
+END:VEVENT
+END:VCALENDAR

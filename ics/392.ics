@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-392@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:SONOGRAFIE: Pietro Michi + Yakka + Millow
+LOCATION:V.le Mentana\, 31/A\, 43121 Parma\, Italy\, Viale Mentana\, Parm
+ a
+DESCRIPTION:Info: https://allevents.in/parma/sonografie-pietro-michi-yakk
+ a-millow/200030829710741 (via @radarcremona)
+URL:https://allevents.in/parma/sonografie-pietro-michi-yakka-millow/20003
+ 0829710741
+END:VEVENT
+END:VCALENDAR

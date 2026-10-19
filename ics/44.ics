@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-44@radarcremona
+DTSTAMP:20261019T142723Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Castagnata della Pro Loco di Gragnano Trebbiense
+LOCATION:Gragnano Trebbiense\, centro paese\, Gragnano Trebbiense
+DESCRIPTION:Castagnata della Pro Loco di Gragnano Trebbiense a Gragnano T
+ rebbiense\, il 25 ottobre 2026: caldarroste. Info: https://sagramap.com/
+ evento/castagnata-della-pro-loco-di-gragnano-trebbiense (via @radarcremo
+ na)
+URL:https://sagramap.com/evento/castagnata-della-pro-loco-di-gragnano-tre
+ bbiense
+END:VEVENT
+END:VCALENDAR
