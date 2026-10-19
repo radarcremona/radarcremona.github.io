@@ -4,15 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-146@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Brescia Esoterica: Simboli\, Luoghi Segreti e Misteri Nascosti
 LOCATION:Davanti civico 7\, P.za del Foro\, Brescia
-DESCRIPTION:Esplora la Brescia misteriosa: simboli nascosti\, culti antic
- hi e chiese significative nel centro storico tra storia e leggende. Info
- : https://www.eventbrite.it/e/brescia-esoterica-simboli-luoghi-segreti-e
- -misteri-nascosti-tickets-1995969743232 (via @radarcremona)
+DESCRIPTION:Visita guidata del centro storico di Brescia alla ricerca di 
+ simboli nascosti\, culti antichi e luoghi misteriosi. Info: https://www.
+ eventbrite.it/e/brescia-esoterica-simboli-luoghi-segreti-e-misteri-nasco
+ sti-tickets-1995969743232 (via @radarcremona)
 URL:https://www.eventbrite.it/e/brescia-esoterica-simboli-luoghi-segreti-
  e-misteri-nascosti-tickets-1995969743232
 END:VEVENT

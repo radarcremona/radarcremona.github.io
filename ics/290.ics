@@ -4,16 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-290@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Mostra Mercato del Giocattolo Vintage "Il Sabato del Collezionist
  a"
 LOCATION:Piacenza\, Via Tirotti nr.11\, Piacenza
-DESCRIPTION:Piacenza Expo del 31.10.2026About this EventMostra Mercato de
- l Giocattolo Vintage "Il Sabato del Collezionista"Quartiere Fieri Info: 
- https://allevents.in/piacenza/mostra-mercato-del-giocattolo-vintage-il-s
- abato-del-collezionista/100001992309534449 (via @radarcremona)
+DESCRIPTION:Mercatino di giocattoli d'epoca per collezionisti\, allestito
+  nel quartiere fieristico di Piacenza. Info: https://allevents.in/piacen
+ za/mostra-mercato-del-giocattolo-vintage-il-sabato-del-collezionista/100
+ 001992309534449 (via @radarcremona)
 URL:https://allevents.in/piacenza/mostra-mercato-del-giocattolo-vintage-i
  l-sabato-del-collezionista/100001992309534449
 END:VEVENT

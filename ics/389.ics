@@ -4,13 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-389@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261023
 SUMMARY:Milonga Solidale a favore di LILT Progetto BREAST Tdj Cristiano
 LOCATION:Castelletto APS\, Strada Antonio Zarotto\, Parma
-DESCRIPTION:Info: https://allevents.in/parma/milonga-solidale-a-favore-di
- -lilt-progetto-breast-tdj-cristiano/200030845346130 (via @radarcremona)
+DESCRIPTION:Serata di tango argentino con finalità solidale\, a sostegno
+  di un progetto per la salute. Info: https://allevents.in/parma/milonga-
+ solidale-a-favore-di-lilt-progetto-breast-tdj-cristiano/200030845346130 
+ (via @radarcremona)
 URL:https://allevents.in/parma/milonga-solidale-a-favore-di-lilt-progetto
  -breast-tdj-cristiano/200030845346130
 END:VEVENT

@@ -4,18 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-324@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:BLAZE BAYLEY - IRON MAIDEN ANNIVERSARY TOUR
 LOCATION:Arci Tom\, Arci Tom\, Mantova
-DESCRIPTION:𝐑𝐨𝐜𝐤 𝐎𝐧 𝐀𝐠𝐞𝐧𝐜𝐲 è orgogli
- osa di annunciare il ritorno in Italia del grandissimo 𝐁𝐥𝐚𝐳
- 𝐞 𝐁𝐚𝐲𝐥𝐞𝐲\, storica voce dei 𝐖𝐨𝐥𝐟𝐬
- 𝐛𝐚𝐧𝐞 e soprattutto degli 𝐈𝐫𝐨𝐧 𝐌𝐚𝐢𝐝
- 𝐞𝐧 dal 1994 al 1999\, e protagon... Info: https://allevents.in/man
- tova/blaze-bayley-iron-maiden-anniversary-tour/200030311188306 (via @rad
- arcremona)
+DESCRIPTION:Concerto rock dell'ex cantante degli Iron Maiden\, in tour pe
+ r celebrare un anniversario della band. Info: https://allevents.in/manto
+ va/blaze-bayley-iron-maiden-anniversary-tour/200030311188306 (via @radar
+ cremona)
 URL:https://allevents.in/mantova/blaze-bayley-iron-maiden-anniversary-tou
  r/200030311188306
 END:VEVENT

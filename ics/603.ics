@@ -4,16 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-603@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:L’OPERA SI RIVELA | UN BALLO IN MASCHERA
 LOCATION:Ridotto del Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele
   II 52\, Cremona
-DESCRIPTION:Ritorna anche per la nuova Stagione L’Opera si Rivela\, il 
- ciclo di incontri al Teatro Ponchielli per approfondire i titoli in cart
- ellone Info: https://www.teatroponchielli.it/spettacolo/lopera-si-rivela
- -un-ballo-in-maschera/ (via @radarcremona)
+DESCRIPTION:Incontro di preparazione all'ascolto al Teatro Ponchielli\, p
+ er conoscere meglio un'opera in programma in stagione. Info: https://www
+ .teatroponchielli.it/spettacolo/lopera-si-rivela-un-ballo-in-maschera/ (
+ via @radarcremona)
 URL:https://www.teatroponchielli.it/spettacolo/lopera-si-rivela-un-ballo-
  in-maschera/
 END:VEVENT

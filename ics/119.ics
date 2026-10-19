@@ -4,15 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-119@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY:Haeretica de Foco\, Strie ET Deavoli
 LOCATION:Borno\, Piazza Giovanni Paolo II\, Borno
-DESCRIPTION:Haeretica rievoca le paure delle notti di buio medievali con 
- krampus\, spettacoli di fuoco\, musica e figuranti che si aggirano per l
- e vie del paese. Info: https://sagramap.com/evento/haeretica-de-foco-str
- ie-et-deavoli-borno (via @radarcremona)
+DESCRIPTION:Rievocazione medievale serale con krampus\, giochi di fuoco\,
+  musica e personaggi in costume lungo le vie del paese. Info: https://sa
+ gramap.com/evento/haeretica-de-foco-strie-et-deavoli-borno (via @radarcr
+ emona)
 URL:https://sagramap.com/evento/haeretica-de-foco-strie-et-deavoli-borno
 END:VEVENT
 END:VCALENDAR

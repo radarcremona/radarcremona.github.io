@@ -4,16 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-402@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Mario Biondi in Parma
 LOCATION:Teatro Regio\, Teatro Regio\, Parma
-DESCRIPTION:Join Mario Biondi LIVE at Teatro Regio on Saturday\, November
-  7\, 2026! Here is the moment you've been waiting for! Mario Biondi is c
- oming to Teatro Regio on Saturday\, November 7\, 20... Info: https://all
- events.in/parma/mario-biondi-in-parma/3300029957016452 (via @radarcremon
- a)
+DESCRIPTION:Concerto del cantante jazz e soul Mario Biondi al Teatro Regi
+ o di Parma\, sabato 7 novembre. Info: https://allevents.in/parma/mario-b
+ iondi-in-parma/3300029957016452 (via @radarcremona)
 URL:https://allevents.in/parma/mario-biondi-in-parma/3300029957016452
 END:VEVENT
 END:VCALENDAR

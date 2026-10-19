@@ -4,14 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-83@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Castagnata in Piazza
 LOCATION:Canneto sull'Oglio\, Piazza Matteotti 1\, Canneto sull'Oglio
-DESCRIPTION:Castagnata in Piazza a Canneto sull'Oglio\, 10a edizione\, l'
- 8 novembre 2026: in tavola castagne. Info: https://sagramap.com/evento/c
- astagnata-in-piazza-canneto-sulloglio (via @radarcremona)
+DESCRIPTION:Castagnata a Canneto sull'Oglio\, alla decima edizione\, con 
+ le castagne come protagoniste della giornata in piazza. Info: https://sa
+ gramap.com/evento/castagnata-in-piazza-canneto-sulloglio (via @radarcrem
+ ona)
 URL:https://sagramap.com/evento/castagnata-in-piazza-canneto-sulloglio
 END:VEVENT
 END:VCALENDAR

@@ -4,16 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-93@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Pumpkin Bike
 LOCATION:Nel giardino di Alice\, 26 Strada Volta Valeggio\, Volta Mantova
  na
-DESCRIPTION:Giro in bici guidato sulle colline del Lago di Garda: 12 o 35
-  km tra i borghi\, con merenda\, risotto\, birra artigianale e dj set. I
- nfo: https://www.eventbrite.it/e/biglietti-pumpkin-bike-2002055048544 (v
- ia @radarcremona)
+DESCRIPTION:Pedalata guidata sulle colline del Garda\, con due percorsi\,
+  ristoro finale a base di risotto e musica dj. Info: https://www.eventbr
+ ite.it/e/biglietti-pumpkin-bike-2002055048544 (via @radarcremona)
 URL:https://www.eventbrite.it/e/biglietti-pumpkin-bike-2002055048544
 END:VEVENT
 END:VCALENDAR

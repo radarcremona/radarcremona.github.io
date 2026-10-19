@@ -4,15 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-38@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Diamo voce alla tua pelle
 LOCATION:Via Visano\, 4\, 4 Via Visano\, Isorella
-DESCRIPTION:Un momento di informazione\, condivisione e dialogo sulla sal
- ute della pelle\, con la partecipazione dell'associazione APIAFCO Info: 
- https://www.eventbrite.it/e/diamo-voce-alla-tua-pelle-tickets-2002721901
- 118 (via @radarcremona)
+DESCRIPTION:Incontro aperto al pubblico su come prendersi cura della pell
+ e\, con spazio per domande e confronto. Info: https://www.eventbrite.it/
+ e/diamo-voce-alla-tua-pelle-tickets-2002721901118 (via @radarcremona)
 URL:https://www.eventbrite.it/e/diamo-voce-alla-tua-pelle-tickets-2002721
  901118
 END:VEVENT

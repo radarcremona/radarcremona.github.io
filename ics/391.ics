@@ -4,13 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-391@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY:ISABELITA Tdj Giancarlo PASTONCHI + Carlo CARCANO
 LOCATION:Castelletto APS\, Strada Antonio Zarotto\, Parma
-DESCRIPTION:Info: https://allevents.in/parma/isabelita-tdj-giancarlo-past
- onchi-carlo-carcano/200030844723239 (via @radarcremona)
+DESCRIPTION:Serata di musica da ballo con due dj\, pensata per chi ama di
+ vertirsi in pista. Info: https://allevents.in/parma/isabelita-tdj-gianca
+ rlo-pastonchi-carlo-carcano/200030844723239 (via @radarcremona)
 URL:https://allevents.in/parma/isabelita-tdj-giancarlo-pastonchi-carlo-ca
  rcano/200030844723239
 END:VEVENT

@@ -4,13 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-370@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Ryan Adams
 LOCATION:Teatro Clerici\, Brescia
-DESCRIPTION:Nearby AttractionsRyan Adams has 5 upcoming events. Info: htt
- ps://allevents.in/brescia/ryan-adams/210009708481645 (via @radarcremona)
+DESCRIPTION:Serata live a teatro con il cantautore statunitense\, che pre
+ senta il suo repertorio in versione solista. Info: https://allevents.in/
+ brescia/ryan-adams/210009708481645 (via @radarcremona)
 URL:https://allevents.in/brescia/ryan-adams/210009708481645
 END:VEVENT
 END:VCALENDAR

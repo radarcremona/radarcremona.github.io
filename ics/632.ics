@@ -4,16 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-632@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Grieg e Rachmaninov
 LOCATION:Auditorium G. Arvedi\, Museo del Violino\, piazza Marconi\, Crem
  ona
-DESCRIPTION:STRADIVARIfestival - La Stagione 2026 Grieg e RachmaninovSol 
- Gabetta violoncelloBertrand Chamayou pianoforteEdvard Grieg Sonata per v
- ioloncello e pianoforte in la minore op. 36Serg... Info: https://www.tur
- ismocremona.it/it/evento/grieg-e-rachmaninov (via @radarcremona)
+DESCRIPTION:Concerto del festival Stradivari per violoncello e pianoforte
+ \, con le sonate di Grieg e di Rachmaninov. Info: https://www.turismocre
+ mona.it/it/evento/grieg-e-rachmaninov (via @radarcremona)
 URL:https://www.turismocremona.it/it/evento/grieg-e-rachmaninov
 END:VEVENT
 END:VCALENDAR

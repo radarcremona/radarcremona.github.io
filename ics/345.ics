@@ -4,16 +4,17 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-345@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:A Brescia Il Triangolo Rock\, Riccardo Russino presenta il nuovo 
  libro
 LOCATION:Beatles Museum Club presso Antica Birreria Wuhrer \, Viale della
   Bornata\, Brescia
-DESCRIPTION:Info: https://allevents.in/brescia/a-brescia-il-triangolo-roc
- k-riccardo-russino-presenta-il-nuovo-libro/80003682290806 (via @radarcre
- mona)
+DESCRIPTION:Incontro dedicato a un libro sul rock bresciano\, con la pres
+ enza dell'autore. Info: https://allevents.in/brescia/a-brescia-il-triang
+ olo-rock-riccardo-russino-presenta-il-nuovo-libro/80003682290806 (via @r
+ adarcremona)
 URL:https://allevents.in/brescia/a-brescia-il-triangolo-rock-riccardo-rus
  sino-presenta-il-nuovo-libro/80003682290806
 END:VEVENT

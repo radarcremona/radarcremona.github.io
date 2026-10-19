@@ -4,17 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-546@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:La Piccola Versailles Reggiana: Visita Guidata alla Reggia di Riv
  alta
 LOCATION:Davanti facciata Villa\, Via dei Combattenti\, Reggio Emilia
-DESCRIPTION:C’è un luogo\, nascosto tra le campagne reggiane\, dove il
-  tempo sembra essersi fermato. Tra la fine del Seicento e l’inizio del
-  Settecento\, i duchi d’Este vollero qui una residenza ... Info: https
- ://www.eventbrite.co.uk/e/la-piccola-versailles-reggiana-visita-guidata-
- alla-reggia-di-rivalta-tickets-1996970573743 (via @radarcremona)
+DESCRIPTION:Visita guidata a una residenza estense nella campagna reggian
+ a\, tra storia\, giardini e abbandono. Info: https://www.eventbrite.co.u
+ k/e/la-piccola-versailles-reggiana-visita-guidata-alla-reggia-di-rivalta
+ -tickets-1996970573743 (via @radarcremona)
 URL:https://www.eventbrite.co.uk/e/la-piccola-versailles-reggiana-visita-
  guidata-alla-reggia-di-rivalta-tickets-1996970573743
 END:VEVENT

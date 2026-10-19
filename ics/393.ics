@@ -4,14 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-393@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Carrozza Bus 666
 LOCATION:The Hub Via Alfredo Zerbini\, 10/E\, 43125 Parma PR\, Via Alfred
  o Zerbini\, Parma
-DESCRIPTION:Info: https://allevents.in/parma/carrozza-bus-666/20003078592
- 0802 (via @radarcremona)
+DESCRIPTION:Concerto dal vivo di una band\, per una serata all'insegna de
+ lla musica. Info: https://allevents.in/parma/carrozza-bus-666/2000307859
+ 20802 (via @radarcremona)
 URL:https://allevents.in/parma/carrozza-bus-666/200030785920802
 END:VEVENT
 END:VCALENDAR

@@ -4,14 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-8@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
 SUMMARY:Festa dei Bolliti
 LOCATION:Casteldidone\, Piazza Giovanni Paolo II\, Casteldidone
-DESCRIPTION:Festa dei Bolliti a Casteldidone\, dal 6 all'8 novembre 2026:
-  in tavola bollito. Info: https://sagramap.com/evento/festa-dei-bolliti-
- casteldidone (via @radarcremona)
+DESCRIPTION:Tre giorni di festa a Casteldidone a inizio novembre\, con il
+  bollito come protagonista a tavola. Info: https://sagramap.com/evento/f
+ esta-dei-bolliti-casteldidone (via @radarcremona)
 URL:https://sagramap.com/evento/festa-dei-bolliti-casteldidone
 END:VEVENT
 END:VCALENDAR

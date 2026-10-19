@@ -4,16 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-367@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:UNA NOTTE UN MUSEO | Museo Diocesano di Brescia
 LOCATION:Museo Diocesano di Brescia\, 13 Via Gasparo da Salò\, Brescia
-DESCRIPTION:Vivi un'esperienza multisensoriale alla scoperta del Museo Di
- ocesano di Brescia e del territorio tra opere\, storia\, tradizione e sa
- pori.About this EventAl Museo Diocesano di Bresci... Info: https://allev
- ents.in/brescia/una-notte-un-museo-museo-diocesano-di-brescia/1000020008
- 91552496 (via @radarcremona)
+DESCRIPTION:Serata al Museo Diocesano con visite multisensoriali tra oper
+ e\, storia\, tradizioni e assaggi del territorio. Info: https://allevent
+ s.in/brescia/una-notte-un-museo-museo-diocesano-di-brescia/1000020008915
+ 52496 (via @radarcremona)
 URL:https://allevents.in/brescia/una-notte-un-museo-museo-diocesano-di-br
  escia/100002000891552496
 END:VEVENT

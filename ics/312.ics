@@ -4,13 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-312@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:MIGUEL ZENÓN & LUIS PERDOMO // MANTOVAJAZZ 2026
 LOCATION:Teatro Bibiena\, Via dell'Accademia\, Mantova
-DESCRIPTION:Info: https://allevents.in/mantova/miguel-zenÓn-and-luis-per
- domo-mantovajazz-2026/200030788953210 (via @radarcremona)
+DESCRIPTION:Concerto jazz con due musicisti di livello internazionale all
+ 'interno della rassegna Mantovajazz 2026. Info: https://allevents.in/man
+ tova/miguel-zenÓn-and-luis-perdomo-mantovajazz-2026/200030788953210 (vi
+ a @radarcremona)
 URL:https://allevents.in/mantova/miguel-zenÓn-and-luis-perdomo-mantovaja
  zz-2026/200030788953210
 END:VEVENT

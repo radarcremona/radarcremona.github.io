@@ -4,17 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-159@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Parma segreta\, curiosa e misteriosa
 LOCATION:P.za Duomo\, 43121 Parma PR\, Italia\, Davanti ingresso del batt
  istero\, Parma
-DESCRIPTION:Parma curiosa è un modo diverso di vedere la città. Scoprir
- e particolari quotidianamente “sotto gli occhi”\, ma mai visti\, cog
- liere “spigolature” d’arte quasi sempre inosservate \, r... Info: 
- https://www.eventbrite.co.uk/e/parma-segreta-curiosa-e-misteriosa-ticket
- s-2001567306695 (via @radarcremona)
+DESCRIPTION:Passeggiata tra aneddoti\, dettagli nascosti e luoghi insolit
+ i per vedere Parma con occhi diversi. Info: https://www.eventbrite.co.uk
+ /e/parma-segreta-curiosa-e-misteriosa-tickets-2001567306695 (via @radarc
+ remona)
 URL:https://www.eventbrite.co.uk/e/parma-segreta-curiosa-e-misteriosa-tic
  kets-2001567306695
 END:VEVENT

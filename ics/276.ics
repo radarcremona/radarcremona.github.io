@@ -4,14 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-276@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:THE ROCKY HORROR PICTURE SHOW
 LOCATION:Cinema FILO\, Piazza Filodrammatici 4\, Cremona
-DESCRIPTION:Siamo tornati !!! Ore 18.30 ritrovo allo SPOON Ore 21.00 proi
- ezione al CINEMA FILO Info: https://allevents.in/cremona/the-rocky-horro
- r-picture-show/200030849624440 (via @radarcremona)
+DESCRIPTION:Serata a tema cult: ritrovo prima allo Spoon\, poi proiezione
+  del celebre film musicale al Cinema Filo. Info: https://allevents.in/cr
+ emona/the-rocky-horror-picture-show/200030849624440 (via @radarcremona)
 URL:https://allevents.in/cremona/the-rocky-horror-picture-show/2000308496
  24440
 END:VEVENT

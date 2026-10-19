@@ -4,13 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-267@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:FILOCINEKIDS - L'ISOLA DEI RICORDI
 LOCATION:Cinema FILO\, Piazza dei Filodrammatici\, Cremona
-DESCRIPTION:Info: https://allevents.in/cremona/filocinekids-lisola-dei-ri
- cordi/200030849233908 (via @radarcremona)
+DESCRIPTION:Proiezione cinematografica pensata per un pubblico di bambini
+ \, parte di una rassegna per i più piccoli. Info: https://allevents.in/
+ cremona/filocinekids-lisola-dei-ricordi/200030849233908 (via @radarcremo
+ na)
 URL:https://allevents.in/cremona/filocinekids-lisola-dei-ricordi/20003084
  9233908
 END:VEVENT

@@ -4,14 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-371@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Enrico Brignano “Bello di Mamma” Indoor
 LOCATION:Teatro Clerici\, Brescia
-DESCRIPTION:Nearby AttractionsEnrico Brignano has 6 upcoming events. Info
- : https://allevents.in/brescia/enrico-brignano-bello-di-mamma-indoor/210
- 002978826486 (via @radarcremona)
+DESCRIPTION:Spettacolo comico a teatro con un noto attore romano\, tra mo
+ nologhi e battute. Info: https://allevents.in/brescia/enrico-brignano-be
+ llo-di-mamma-indoor/210002978826486 (via @radarcremona)
 URL:https://allevents.in/brescia/enrico-brignano-bello-di-mamma-indoor/21
  0002978826486
 END:VEVENT

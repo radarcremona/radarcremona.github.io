@@ -4,16 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-134@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:New Deals 2026
 LOCATION:Università degli Studi di Brescia\, 74 Via San Faustino\, Bresc
  ia
-DESCRIPTION:Il 6 novembre 2026\, New Deals celebra il suo 10 anniversario
-  a Brescia con una giornata ad alto impatto. NEW DEALS 2026: REAL CONNEC
- TION Info: https://www.eventbrite.it/e/new-deals-2026-tickets-1998945971
- 210 (via @radarcremona)
+DESCRIPTION:Giornata di incontri a Brescia per i dieci anni di New Deals\
+ , dedicata alle relazioni autentiche. Info: https://www.eventbrite.it/e/
+ new-deals-2026-tickets-1998945971210 (via @radarcremona)
 URL:https://www.eventbrite.it/e/new-deals-2026-tickets-1998945971210
 END:VEVENT
 END:VCALENDAR

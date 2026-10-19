@@ -4,15 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-383@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Ven 2310 | screamo| DEISY (fr) + NUBIFRAGIO (it) + CARESS (fr/ch)
   @ Arci CDC\, Parma
 LOCATION:Arci CDC Parma\, Viale Mentana\, Parma
-DESCRIPTION:Info: https://allevents.in/parma/ven-2310-screamo-deisy-fr-nu
- bifragio-it-caress-fr-ch-arci-cdc-parma/200030848592746 (via @radarcremo
- na)
+DESCRIPTION:Concerto di musica dal vivo in un circolo di Parma\, con tre 
+ gruppi di area screamo. Info: https://allevents.in/parma/ven-2310-scream
+ o-deisy-fr-nubifragio-it-caress-fr-ch-arci-cdc-parma/200030848592746 (vi
+ a @radarcremona)
 URL:https://allevents.in/parma/ven-2310-screamo-deisy-fr-nubifragio-it-ca
  ress-fr-ch-arci-cdc-parma/200030848592746
 END:VEVENT

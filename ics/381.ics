@@ -4,13 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-381@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:AZIONE DIRETTA+ FFD +MEDIUM BEER @ ARCI CDC
 LOCATION:Arci CDC Parma\, Viale Mentana\, Parma
-DESCRIPTION:Info: https://allevents.in/parma/azione-diretta-ffd-medium-be
- er-arci-cdc/200030525107221 (via @radarcremona)
+DESCRIPTION:Serata di concerti dal vivo in un circolo di Parma\, con più
+  gruppi sul palco. Info: https://allevents.in/parma/azione-diretta-ffd-m
+ edium-beer-arci-cdc/200030525107221 (via @radarcremona)
 URL:https://allevents.in/parma/azione-diretta-ffd-medium-beer-arci-cdc/20
  0030525107221
 END:VEVENT

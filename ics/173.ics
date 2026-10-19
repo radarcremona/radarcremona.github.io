@@ -4,14 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-173@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Studio Blanco presents Dagmar Zuniga\, live in Reggio Emilia
 LOCATION:Studio Blanco\, 21 Via Emilia San Pietro\, Reggio Emilia
-DESCRIPTION:Sala del Capitano\, Hotel Posta\, opening Des Moines Info: ht
- tps://www.eventbrite.it/e/biglietti-studio-blanco-presents-dagmar-zuniga
- -live-in-reggio-emilia-2003006492338 (via @radarcremona)
+DESCRIPTION:Appuntamento artistico in un hotel di Reggio Emilia con un'ar
+ tista ospite\, in una sala storica. Info: https://www.eventbrite.it/e/bi
+ glietti-studio-blanco-presents-dagmar-zuniga-live-in-reggio-emilia-20030
+ 06492338 (via @radarcremona)
 URL:https://www.eventbrite.it/e/biglietti-studio-blanco-presents-dagmar-z
  uniga-live-in-reggio-emilia-2003006492338
 END:VEVENT

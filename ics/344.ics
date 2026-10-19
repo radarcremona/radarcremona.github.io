@@ -4,15 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-344@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY:WE LOVE 2000PARTY BRESCIA @LATTE+ Sabato 14 Novembre! Shot Omaggi
  o per tutti+ Gadget!
 LOCATION:Lattepiulive\, Via Giuseppe Di Vittorio\, Brescia
-DESCRIPTION:Info: https://allevents.in/brescia/we-love-2000party-brescia-
- latte-sabato-14-novembre-shot-omaggio-per-tutti-gadget/200030838975645 (
- via @radarcremona)
+DESCRIPTION:Serata danzante a Brescia con musica ispirata ai successi deg
+ li anni Duemila\, in un locale del centro. Info: https://allevents.in/br
+ escia/we-love-2000party-brescia-latte-sabato-14-novembre-shot-omaggio-pe
+ r-tutti-gadget/200030838975645 (via @radarcremona)
 URL:https://allevents.in/brescia/we-love-2000party-brescia-latte-sabato-1
  4-novembre-shot-omaggio-per-tutti-gadget/200030838975645
 END:VEVENT

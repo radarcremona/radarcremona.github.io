@@ -4,14 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-127@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Ognissanti
 LOCATION:Palazzolo sull'Oglio\, Viale Rimembranze\, Palazzolo sull'Oglio
-DESCRIPTION:Ognissanti a Palazzolo sull'Oglio\, 36a edizione\, il 1 novem
- bre 2026. Bancarelle Commercio su Aree Pubbliche. Info: https://sagramap
- .com/evento/ognissanti-palazzolo-sulloglio (via @radarcremona)
+DESCRIPTION:Tradizionale giornata di Ognissanti a Palazzolo sull'Oglio\, 
+ con bancarelle di commercio ambulante lungo le aree pubbliche. Info: htt
+ ps://sagramap.com/evento/ognissanti-palazzolo-sulloglio (via @radarcremo
+ na)
 URL:https://sagramap.com/evento/ognissanti-palazzolo-sulloglio
 END:VEVENT
 END:VCALENDAR

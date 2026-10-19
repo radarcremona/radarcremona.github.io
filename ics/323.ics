@@ -4,21 +4,17 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-323@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Luca Bizzarri "Non hanno un dubbio" @ Mantova\, Teatro Sociale - 
  28 novembre 2026
 LOCATION:Teatro Sociale di Mantova\, Piazza Cavallotti Felice 14\, Mantov
  a
-DESCRIPTION:𝐋𝐮𝐜𝐚 𝐁𝐢𝐳𝐳𝐚𝐫𝐫𝐢 "𝐍𝐨
- 𝐧 𝐡𝐚𝐧𝐧𝐨 𝐮𝐧 𝐝𝐮𝐛𝐛𝐢𝐨" @ 𝐌𝐚
- 𝐧𝐭𝐨𝐯𝐚\, 𝐓𝐞𝐚𝐭𝐫𝐨 𝐒𝐨𝐜𝐢𝐚𝐥
- 𝐞 - 𝟐𝟖 𝐧𝐨𝐯𝐞𝐦𝐛𝐫𝐞 𝟐𝟎𝟐𝟔 ️ Bi
- glietti: https://www.ticketone.it/event/luca-bizzarri-teatro-sociale-216
- 86855/ Luca Bizzarri to... Info: https://allevents.in/mantova/luca-bizza
- rri-non-hanno-un-dubbio-mantova-teatro-sociale-28-novembre-2026/20003011
- 6299511 (via @radarcremona)
+DESCRIPTION:Spettacolo teatrale del comico genovese\, nato dal suo podcas
+ t\, in scena al Teatro Sociale di Mantova. Info: https://allevents.in/ma
+ ntova/luca-bizzarri-non-hanno-un-dubbio-mantova-teatro-sociale-28-novemb
+ re-2026/200030116299511 (via @radarcremona)
 URL:https://allevents.in/mantova/luca-bizzarri-non-hanno-un-dubbio-mantov
  a-teatro-sociale-28-novembre-2026/200030116299511
 END:VEVENT

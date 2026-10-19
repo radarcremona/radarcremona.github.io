@@ -4,15 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-26@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Business Dress Code Masterclass | Modulo 3 — Guardaroba Uomo
 LOCATION:Corso G.Garibaldi\, 13\, 13 Corso G.Garibaldi\, Piacenza
-DESCRIPTION:Abito\, camicia\, cravatta — sembrano semplici. Non lo sono
- . Impara gli abbinamenti che fanno la differenza. Info: https://www.even
- tbrite.it/e/business-dress-code-masterclass-modulo-3-guardaroba-uomo-tic
- kets-1993631310918 (via @radarcremona)
+DESCRIPTION:Incontro pratico su come scegliere e abbinare l'abbigliamento
+  maschile formale in ambito lavorativo. Info: https://www.eventbrite.it/
+ e/business-dress-code-masterclass-modulo-3-guardaroba-uomo-tickets-19936
+ 31310918 (via @radarcremona)
 URL:https://www.eventbrite.it/e/business-dress-code-masterclass-modulo-3-
  guardaroba-uomo-tickets-1993631310918
 END:VEVENT

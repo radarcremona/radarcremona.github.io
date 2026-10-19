@@ -4,14 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-124@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Un Pomeriggio da Paura
 LOCATION:Orzinuovi\, Piazza Garibaldi\, Orzinuovi
-DESCRIPTION:Manifestazione pubblica a tema halloween presso rocca san gio
- rgio. Info: https://sagramap.com/evento/un-pomeriggio-da-paura-orzinuovi
-  (via @radarcremona)
+DESCRIPTION:Pomeriggio pubblico a tema Halloween alla Rocca San Giorgio\,
+  pensato per divertirsi tra atmosfere spaventose. Info: https://sagramap
+ .com/evento/un-pomeriggio-da-paura-orzinuovi (via @radarcremona)
 URL:https://sagramap.com/evento/un-pomeriggio-da-paura-orzinuovi
 END:VEVENT
 END:VCALENDAR

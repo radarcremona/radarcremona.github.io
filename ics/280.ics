@@ -4,21 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-280@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Balotas festeggiano il 20º anniversario dell’album Mi Rifiuto
 LOCATION:Circolo Arcipelago\, Via Cesare Speciano\, Cremona
-DESCRIPTION:𝗕𝗔𝗟𝗢𝗧𝗔𝗦 𝗧𝗵𝗲 𝗥𝗼𝗰𝗸
- 𝗮𝗯𝗯𝗲𝘀𝘁𝗶𝗮 𝗟𝗲𝗴𝗲𝗻𝗱 featuring 𝗗
- 𝗝 𝗖𝗲𝗰𝗰𝗼 𝗟𝗕 festeggiano il 𝟮𝟬º 𝗮𝗻
- 𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗿𝗶𝗼 dell’album 𝗠𝗜 𝗥𝗜
- 𝗙𝗜𝗨𝗧𝗢 𝘀𝗮𝗯𝗮𝘁𝗼 𝟳 𝗻𝗼𝘃𝗲𝗺
- 𝗯𝗿𝗲 𝟮𝟬𝟮𝟲 𝗼𝗿𝗲 𝟮𝟭:𝟬𝟬 𝗖𝗶
- 𝗿𝗰𝗼𝗹𝗼 𝗔𝗿𝗰𝗶𝗽𝗲𝗹𝗮𝗴𝗼 Via Specia
- no\, 4 • Cr... Info: https://allevents.in/cremona/balotas-festeggiano-
- il-20º-anniversario-dellalbum-mi-rifiuto/200030849235727 (via @radarcre
- mona)
+DESCRIPTION:Concerto della band rockabilly con dj set per ricordare i ven
+ t'anni di un album\, con tessera Arci. Info: https://allevents.in/cremon
+ a/balotas-festeggiano-il-20º-anniversario-dellalbum-mi-rifiuto/20003084
+ 9235727 (via @radarcremona)
 URL:https://allevents.in/cremona/balotas-festeggiano-il-20º-anniversario
  -dellalbum-mi-rifiuto/200030849235727
 END:VEVENT

@@ -4,16 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-627@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:ONLY HITS – ABBA SYMPHONIC
 LOCATION:Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele II 52\, Cre
  mona
-DESCRIPTION:La Fondazione Banco dell’energia e il Teatro Ponchielli\, i
- n collaborazione con A2A e Fondazione LGH\, promuovono una serata di ben
- eficenza Info: https://www.teatroponchielli.it/spettacolo/abba-symphonic
- / (via @radarcremona)
+DESCRIPTION:Concerto sinfonico dedicato ai grandi successi degli ABBA\, o
+ rganizzato come serata di beneficenza al Teatro Ponchielli. Info: https:
+ //www.teatroponchielli.it/spettacolo/abba-symphonic/ (via @radarcremona)
 URL:https://www.teatroponchielli.it/spettacolo/abba-symphonic/
 END:VEVENT
 END:VCALENDAR

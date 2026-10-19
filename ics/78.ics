@@ -4,14 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-78@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261027
 SUMMARY:Sagra di Buscoldo
 LOCATION:Curtatone\, Via Rimembranze\, Curtatone
-DESCRIPTION:Sagra di Buscoldo a Curtatone\, 117a edizione\, dal 23 al 26 
- ottobre 2026. Luna Park. Info: https://sagramap.com/evento/sagra-di-busc
- oldo-curtatone (via @radarcremona)
+DESCRIPTION:Sagra storica di Curtatone\, alla centodiciassettesima edizio
+ ne\, con luna park\, dal 23 al 26 ottobre. Info: https://sagramap.com/ev
+ ento/sagra-di-buscoldo-curtatone (via @radarcremona)
 URL:https://sagramap.com/evento/sagra-di-buscoldo-curtatone
 END:VEVENT
 END:VCALENDAR

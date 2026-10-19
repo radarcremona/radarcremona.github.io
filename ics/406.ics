@@ -4,15 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-406@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Coez in Parma
 LOCATION:Teatro Regio\, Teatro Regio\, Parma
-DESCRIPTION:Catch Coez Live at Teatro Regio on Saturday\, November 28\, 2
- 026! Ready to experience the night of your life? Coez is bringing their 
- infectious energy and hit songs like La musica no... Info: https://allev
- ents.in/parma/coez-in-parma/3300030278145621 (via @radarcremona)
+DESCRIPTION:Concerto del cantautore Coez al Teatro Regio di Parma\, sabat
+ o 28 novembre. Info: https://allevents.in/parma/coez-in-parma/3300030278
+ 145621 (via @radarcremona)
 URL:https://allevents.in/parma/coez-in-parma/3300030278145621
 END:VEVENT
 END:VCALENDAR

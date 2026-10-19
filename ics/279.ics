@@ -4,16 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-279@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:ROCKELECTRO PARTY // Casa Siqueiros
 LOCATION:Casa Siqueiros Cremona\, Via Gioconda\, Cremona
-DESCRIPTION:Sai che c'è? C'è una bella novità! Io\, Giò PT e una manc
- iata di amici\, una sera qualsiasi - ad estate ormai inoltrata - ci siam
- o beccati in un bar fuori dal centro\, ci siamo guarda... Info: https://
- allevents.in/cremona/rockelectro-party-casa-siqueiros/200030849625350 (v
- ia @radarcremona)
+DESCRIPTION:Serata di musica rock ed elettronica organizzata da un gruppo
+  di amici\, nata da un'idea tra conoscenti. Info: https://allevents.in/c
+ remona/rockelectro-party-casa-siqueiros/200030849625350 (via @radarcremo
+ na)
 URL:https://allevents.in/cremona/rockelectro-party-casa-siqueiros/2000308
  49625350
 END:VEVENT

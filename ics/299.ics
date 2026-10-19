@@ -4,17 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-299@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
 SUMMARY:Halloween a Grazzano Visconti
 LOCATION:Grazzano Visconti Castello Medioevale\, Via Anna Visconti\, Piac
  enza
-DESCRIPTION:Nella notte più misteriosa dell’anno\, Grazzano Visconti s
- i trasforma in un borgo da brivido\, tra luci\, atmosfere suggestive\, s
- pettacoli\, musica e personaggi inquietanti. Un weekend... Info: https:/
- /allevents.in/piacenza/halloween-a-grazzano-visconti/200030791010401 (vi
- a @radarcremona)
+DESCRIPTION:Weekend di fine ottobre in un borgo medievale con atmosfere s
+ pettrali\, musica e spettacoli a tema. Info: https://allevents.in/piacen
+ za/halloween-a-grazzano-visconti/200030791010401 (via @radarcremona)
 URL:https://allevents.in/piacenza/halloween-a-grazzano-visconti/200030791
  010401
 END:VEVENT

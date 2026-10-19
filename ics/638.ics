@@ -4,15 +4,13 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-638@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20270107
 SUMMARY:NATALE A CREMONA 2026
 LOCATION:Centro città\, Cremona\, Cremona
-DESCRIPTION:MAGIA DELLE FESTE "Natale a Cremona 2026 – Magia delle Fest
- e". Il programma con gli eventi gratuiti dal 28 novembre all'Epifania. I
- n Piazza del Comune il Mercatino Natalizio Info: https://www.turismocrem
- ona.it/it/evento/natale-cremona-2026 (via @radarcremona)
+DESCRIPTION:Info: https://www.turismocremona.it/it/evento/natale-cremona-
+ 2026 (via @radarcremona)
 URL:https://www.turismocremona.it/it/evento/natale-cremona-2026
 END:VEVENT
 END:VCALENDAR

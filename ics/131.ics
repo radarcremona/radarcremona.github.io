@@ -4,14 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-131@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261116
 SUMMARY:Le Rondini in Festa
 LOCATION:Lumezzane\, Via Cav. Lav. U. Gnutti\, Lumezzane
-DESCRIPTION:Le Rondini in Festa a Lumezzane\, dal 7 al 15 novembre 2026. 
- Si mangia sul posto. Info: https://sagramap.com/evento/le-rondini-in-fes
- ta-lumezzane (via @radarcremona)
+DESCRIPTION:Festa di quartiere a Lumezzane che dura nove giorni\, con cib
+ o da gustare sul posto. Info: https://sagramap.com/evento/le-rondini-in-
+ festa-lumezzane (via @radarcremona)
 URL:https://sagramap.com/evento/le-rondini-in-festa-lumezzane
 END:VEVENT
 END:VCALENDAR

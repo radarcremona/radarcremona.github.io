@@ -4,16 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-95@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Decorazione emozionale di biglietti fatti a mano
 LOCATION:Via Cascina Verde\, 2-4\, 2-4 Via Cascina Verde\, Villafranca di
   Verona
-DESCRIPTION:Le feste sono alle porte\, impariamo a creare biglietti fatti
-  a mano capaci di emozionare\, racchiudendo la magia delle feste in un d
- ono. Info: https://www.eventbrite.it/e/biglietti-decorazione-emozionale-
- di-biglietti-fatti-a-mano-2000389680383 (via @radarcremona)
+DESCRIPTION:Laboratorio creativo per imparare a realizzare a mano bigliet
+ ti natalizi personali e curati. Info: https://www.eventbrite.it/e/biglie
+ tti-decorazione-emozionale-di-biglietti-fatti-a-mano-2000389680383 (via 
+ @radarcremona)
 URL:https://www.eventbrite.it/e/biglietti-decorazione-emozionale-di-bigli
  etti-fatti-a-mano-2000389680383
 END:VEVENT

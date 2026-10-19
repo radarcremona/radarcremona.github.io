@@ -4,14 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-6@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261117
 SUMMARY:Sagra del Fasulin
 LOCATION:Sospiro\, Via Ferrari\, Sospiro
-DESCRIPTION:Valorizzazione del patrimonio gastronomico tradizionale\, pro
- mozione turistica locale e inclusione sociale. Info: https://sagramap.co
- m/evento/sagra-del-fasulin-sospiro (via @radarcremona)
+DESCRIPTION:Sagra dedicata ai sapori della cucina tradizionale\, con atte
+ nzione al turismo locale e all'inclusione sociale. Info: https://sagrama
+ p.com/evento/sagra-del-fasulin-sospiro (via @radarcremona)
 URL:https://sagramap.com/evento/sagra-del-fasulin-sospiro
 END:VEVENT
 END:VCALENDAR

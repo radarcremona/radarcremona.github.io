@@ -4,15 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-125@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
 SUMMARY:Festa di Halloween
 LOCATION:Vezza d'Oglio\, Palazzo del Piano Centro Eventi Adamello\, Vezza
   d'Oglio
-DESCRIPTION:Festa di Halloween a Vezza d'Oglio\, dal 31 ottobre al 1 nove
- mbre 2026. Info: https://sagramap.com/evento/festa-di-halloween-vezza-do
- glio (via @radarcremona)
+DESCRIPTION:Festa a tema Halloween a Vezza d'Oglio\, distribuita tra la f
+ ine di ottobre e l'inizio di novembre. Info: https://sagramap.com/evento
+ /festa-di-halloween-vezza-doglio (via @radarcremona)
 URL:https://sagramap.com/evento/festa-di-halloween-vezza-doglio
 END:VEVENT
 END:VCALENDAR

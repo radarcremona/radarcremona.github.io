@@ -4,16 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-144@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Tè con Agata Christie
 LOCATION:Rassegna Microeditoria - Villa Mazzotti\, 39 Viale Giuseppe Mazz
  ini\, Chiari
-DESCRIPTION:Un invito a entrare nell'affascinante universo della regina d
- el giallo con Enrico Giustacchini e Carlo Zaza. Sorseggiando un tè. Inf
- o: https://www.eventbrite.it/e/te-con-agata-christie-tickets-20028089314
- 28 (via @radarcremona)
+DESCRIPTION:Pomeriggio dedicato alla scrittrice di gialli\, con due ospit
+ i che ne raccontano il mondo davanti a una tazza di tè. Info: https://w
+ ww.eventbrite.it/e/te-con-agata-christie-tickets-2002808931428 (via @rad
+ arcremona)
 URL:https://www.eventbrite.it/e/te-con-agata-christie-tickets-20028089314
  28
 END:VEVENT

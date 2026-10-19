@@ -4,17 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-98@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Visita Guidata a Palazzo Te: lo scrigno dei Gonzaga
 LOCATION:Viale Te\, 13\, 46100 Mantova MN\, Italia\, Davanti ingresso Pal
  azzo Te\, Mantova
-DESCRIPTION:A Palazzo Te nulla è davvero come sembra. Nato come luogo di
-  svago e meraviglia per Federico II Gonzaga e progettato dal genio visio
- nario di Giulio Romano\, questo palazzo è un gioc... Info: https://www.
- eventbrite.co.uk/e/visita-guidata-a-palazzo-te-lo-scrigno-dei-gonzaga-ti
- ckets-2003240599559 (via @radarcremona)
+DESCRIPTION:Visita guidata a Palazzo Te\, residenza gonzaghesca di Giulio
+  Romano\, tra affreschi spettacolari e giochi di illusione. Info: https:
+ //www.eventbrite.co.uk/e/visita-guidata-a-palazzo-te-lo-scrigno-dei-gonz
+ aga-tickets-2003240599559 (via @radarcremona)
 URL:https://www.eventbrite.co.uk/e/visita-guidata-a-palazzo-te-lo-scrigno
  -dei-gonzaga-tickets-2003240599559
 END:VEVENT

@@ -4,16 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-140@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:III Convention Benacus - Come Together
 LOCATION:Hotel Acquaviva del Garda\, 84 Viale F. Agello\, Desenzano del G
  arda
-DESCRIPTION:Come Together è un evento che ti farà vibrare con emozioni 
- e energie positive. Armonia\, visione\, futuro: è tempo di stare insiem
- e. Info: https://www.eventbrite.it/e/biglietti-iii-convention-benacus-co
- me-together-1999695447915 (via @radarcremona)
+DESCRIPTION:Convention del gruppo Benacus pensata come occasione per ritr
+ ovarsi\, condividere idee e guardare avanti insieme. Info: https://www.e
+ ventbrite.it/e/biglietti-iii-convention-benacus-come-together-1999695447
+ 915 (via @radarcremona)
 URL:https://www.eventbrite.it/e/biglietti-iii-convention-benacus-come-tog
  ether-1999695447915
 END:VEVENT

@@ -4,15 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-142@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:IO VERGINE\, TU PESCI?
 LOCATION:Cinema Teatro Cristal\, 1 Largo Dante Alighieri\, Salò
-DESCRIPTION:Oltre 34.000 spettatori ad oggi per lo spettacolo di Giuseppe
-  Sorgi\, tratto dall' omonimo libro edito da Salani. Un particolare conn
- ubio Info: https://www.eventbrite.com/e/biglietti-io-vergine-tu-pesci-20
- 02271519013 (via @radarcremona)
+DESCRIPTION:Spettacolo comico di Giuseppe Sorgi ispirato al suo libro\, g
+ ià visto da decine di migliaia di spettatori. Info: https://www.eventbr
+ ite.com/e/biglietti-io-vergine-tu-pesci-2002271519013 (via @radarcremona
+ )
 URL:https://www.eventbrite.com/e/biglietti-io-vergine-tu-pesci-2002271519
  013
 END:VEVENT

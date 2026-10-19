@@ -4,16 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-355@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Francesco Renga in Brescia
 LOCATION:DIS_PLAY Brixia forum\, DIS_PLAY Brixia forum\, Brescia
-DESCRIPTION:The Ultimate Francesco Renga Experience LIVE at DIS_PLAY Brix
- ia forum—This Friday\, October 30\, 2026! It's that time of the year w
- here everyone wants to have a musical breath! Your ... Info: https://all
- events.in/brescia/francesco-renga-in-brescia/3300029648217851 (via @rada
- rcremona)
+DESCRIPTION:Concerto dal vivo al Brixia Forum con le canzoni del cantauto
+ re\, venerdì 30 ottobre 2026. Info: https://allevents.in/brescia/france
+ sco-renga-in-brescia/3300029648217851 (via @radarcremona)
 URL:https://allevents.in/brescia/francesco-renga-in-brescia/3300029648217
  851
 END:VEVENT

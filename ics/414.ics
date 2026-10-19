@@ -4,16 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-414@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:CHANGEMAKER DAYS: VOICES ACROSS GENERATIONS
 LOCATION:Crédit Agricole Green Life\, 138 Via La Spezia\, Parma
-DESCRIPTION:Join Ashoka’s Changemaker Days for Parma EYC27: a European 
- intergenerational dialogue to co-create solutions and shape a shared fut
- ure!About this EventChangemaker Days: Voices Acro... Info: https://allev
- ents.in/parma/changemaker-days-voices-across-generations/100001992552723
- 835 (via @radarcremona)
+DESCRIPTION:Incontro europeo tra generazioni diverse per costruire insiem
+ e soluzioni e immaginare un futuro condiviso\, in lingua inglese. Info: 
+ https://allevents.in/parma/changemaker-days-voices-across-generations/10
+ 0001992552723835 (via @radarcremona)
 URL:https://allevents.in/parma/changemaker-days-voices-across-generations
  /100001992552723835
 END:VEVENT

@@ -4,16 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-360@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Coltivando la materia
 LOCATION:AMBIENTEPARCO – parco scientifico con percorsi didattici\, 7 L
  argo Torrelunga\, Brescia
-DESCRIPTION:Gli scarti si trasformano in risorse e la natura diventa arch
- itetturaAbout this EventGli scarti si trasformano in risorse e la natura
-  diventa architetturaUn viag Info: https://allevents.in/brescia/coltivan
- do-la-materia/100002003073446600 (via @radarcremona)
+DESCRIPTION:Mostra sul riuso degli scarti e sul rapporto tra natura e arc
+ hitettura\, come risorse per costruire. Info: https://allevents.in/bresc
+ ia/coltivando-la-materia/100002003073446600 (via @radarcremona)
 URL:https://allevents.in/brescia/coltivando-la-materia/100002003073446600
 END:VEVENT
 END:VCALENDAR

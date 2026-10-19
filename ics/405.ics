@@ -4,16 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-405@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Bouquet of Madness | Il Rumore del Lutto ** Edizione
 LOCATION:Cinema Astra di Parma\, Piazzale Alessandro Volta\, Parma
-DESCRIPTION:«“Vi è senso anche nel suo delirio\; pensieri e rimembran
- ze conformi.” Dice Laerte\, mentre Ofelia illustra i fiori con cui si 
- è adornata i capelli lungo il tragitto verso la follia.... Info: https:
- //allevents.in/parma/bouquet-of-madness-il-rumore-del-lutto-edizione/200
- 029827568312 (via @radarcremona)
+DESCRIPTION:Appuntamento della ventesima edizione del festival Il Rumore 
+ del Lutto\, ispirato alla follia di Ofelia nell'Amleto. Info: https://al
+ levents.in/parma/bouquet-of-madness-il-rumore-del-lutto-edizione/2000298
+ 27568312 (via @radarcremona)
 URL:https://allevents.in/parma/bouquet-of-madness-il-rumore-del-lutto-edi
  zione/200029827568312
 END:VEVENT

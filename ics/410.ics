@@ -4,16 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-410@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Bella\, bellissima!
 LOCATION:Europa Teatri\, via Oradour\, Parma
-DESCRIPTION:𝗕𝗲𝗹𝗹𝗮\, 𝗯𝗲𝗹𝗹𝗶𝘀𝘀𝗶𝗺
- 𝗮! è una favola che si rivolge ai più piccoli e alle più piccole\,
-  capace di sorprendere anche gli adulti che li accompagnano. Una Strega 
- viene invitata ad un appunt... Info: https://allevents.in/parma/bella-be
- llissima/200030642991305 (via @radarcremona)
+DESCRIPTION:Favola teatrale per bambini su una strega\, un orco e gli ani
+ mali incontrati lungo il cammino. Info: https://allevents.in/parma/bella
+ -bellissima/200030642991305 (via @radarcremona)
 URL:https://allevents.in/parma/bella-bellissima/200030642991305
 END:VEVENT
 END:VCALENDAR

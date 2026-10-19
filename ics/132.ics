@@ -4,15 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-132@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Paolo Borzacchiello "Activate your Brain"
 LOCATION:Auditorium di San Barnaba\, 44 Corso Magenta\, Brescia
-DESCRIPTION:Un affascinante viaggio al centro del nostro cervello…e nie
- nte\, poi\, sarà più come prima. Info: https://www.eventbrite.it/e/big
- lietti-paolo-borzacchiello-activate-your-brain-2002273440761 (via @radar
- cremona)
+DESCRIPTION:Serata con Paolo Borzacchiello alla scoperta del funzionament
+ o del cervello e di come cambia il nostro modo di pensare. Info: https:/
+ /www.eventbrite.it/e/biglietti-paolo-borzacchiello-activate-your-brain-2
+ 002273440761 (via @radarcremona)
 URL:https://www.eventbrite.it/e/biglietti-paolo-borzacchiello-activate-yo
  ur-brain-2002273440761
 END:VEVENT

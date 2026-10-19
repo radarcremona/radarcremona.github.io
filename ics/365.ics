@@ -4,17 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-365@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Viaggio nella Complessità della Vita: le connessioni invisibili
 LOCATION:Auditorium di San Barnaba\, Piazza Arturo Benedetti Michelangeli
  \, Brescia
-DESCRIPTION:Scienza\, arte e musica si fondono in uno spettacolo unico pe
- r scoprire il funzionamento della Rete della VitaAbout this EventScienza
- \, arte e musica si fondono in uno spettacolo uni... Info: https://allev
- ents.in/brescia/viaggio-nella-complessità-della-vita-le-connessioni-inv
- isibili/100001993598663268 (via @radarcremona)
+DESCRIPTION:Spettacolo che unisce scienza\, arte e musica per raccontare 
+ come funzionano i legami tra gli esseri viventi. Info: https://allevents
+ .in/brescia/viaggio-nella-complessità-della-vita-le-connessioni-invisib
+ ili/100001993598663268 (via @radarcremona)
 URL:https://allevents.in/brescia/viaggio-nella-complessità-della-vita-le
  -connessioni-invisibili/100001993598663268
 END:VEVENT

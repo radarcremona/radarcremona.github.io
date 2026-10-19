@@ -4,14 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-45@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
 SUMMARY:Cioccolandia
 LOCATION:Castel San Giovanni\, Castel San Giovanni
-DESCRIPTION:Festa del cioccolato artigianale nelle vie di Castel San Giov
- anni\, in Val Tidone. Info: https://sagramap.com/evento/cioccolandia-cas
- tel-san-giovanni (via @radarcremona)
+DESCRIPTION:Festa di strada a Castel San Giovanni dedicata ai dolci di ci
+ occolato fatti a mano. Info: https://sagramap.com/evento/cioccolandia-ca
+ stel-san-giovanni (via @radarcremona)
 URL:https://sagramap.com/evento/cioccolandia-castel-san-giovanni
 END:VEVENT
 END:VCALENDAR

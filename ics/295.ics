@@ -4,18 +4,17 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-295@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:ATHENA LIVE CLUB SABATO 14 NOVEMBRE 2026 // JACKSON 1 MICHAEL JAC
  KSON TRIBUTE
 LOCATION:Via Zanotti 6/8\, 29028 Ponte dell'Olio\, Italy\, Via A. Zanotti
  \, Piacenza
-DESCRIPTION:Sabato 14 Novembre 2026 Jackson One - Michael Jackson Tribute
-  I Jackson One presentano il loro nuovo show esclusivo\, con protagonist
- a Andrea Imparato: cantante\, ballerino e perform... Info: https://allev
- ents.in/piacenza/athena-live-club-sabato-14-novembre-2026-jackson-1-mich
- ael-jackson-tribute/200030834055920 (via @radarcremona)
+DESCRIPTION:Serata in un club con uno spettacolo tributo al Re del Pop\, 
+ tra canto e ballo. Info: https://allevents.in/piacenza/athena-live-club-
+ sabato-14-novembre-2026-jackson-1-michael-jackson-tribute/20003083405592
+ 0 (via @radarcremona)
 URL:https://allevents.in/piacenza/athena-live-club-sabato-14-novembre-202
  6-jackson-1-michael-jackson-tribute/200030834055920
 END:VEVENT

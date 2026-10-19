@@ -4,13 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-380@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:️ ANTIFAFEST BENEFIT 2026 ️
 LOCATION:Arci CDC Parma\, Viale Mentana\, Parma
-DESCRIPTION:Info: https://allevents.in/parma/antifafest-benefit-2026/2000
- 30829711050 (via @radarcremona)
+DESCRIPTION:Serata di musica dal vivo a scopo benefico\, organizzata in u
+ n contesto indipendente. Info: https://allevents.in/parma/antifafest-ben
+ efit-2026/200030829711050 (via @radarcremona)
 URL:https://allevents.in/parma/antifafest-benefit-2026/200030829711050
 END:VEVENT
 END:VCALENDAR

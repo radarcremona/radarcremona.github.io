@@ -4,15 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-135@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:(NON SOLO) NUTRIZIONE COME STRUMENTO PER BENESSERE E LONGEVITÀ
 LOCATION:Auditorium di San Barnaba\, 44 Corso Magenta\, Brescia
-DESCRIPTION:Scopri come mangiare bene (e non solo!) ti aiuta a vivere meg
- lio e più a lungo\, in un evento super chill e coinvolgente! Info: http
- s://www.eventbrite.it/e/biglietti-non-solo-nutrizione-come-strumento-per
- -benessere-e-longevita-2000392445654 (via @radarcremona)
+DESCRIPTION:Evento informale su alimentazione\, benessere e longevità\, 
+ pensato per capire come il cibo incide sulla salute. Info: https://www.e
+ ventbrite.it/e/biglietti-non-solo-nutrizione-come-strumento-per-benesser
+ e-e-longevita-2000392445654 (via @radarcremona)
 URL:https://www.eventbrite.it/e/biglietti-non-solo-nutrizione-come-strume
  nto-per-benessere-e-longevita-2000392445654
 END:VEVENT

@@ -4,15 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-634@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261130
 SUMMARY:Nel nome del Padre
 LOCATION:Cremona
-DESCRIPTION:DUE DIPINTI RITROVATI DI BOCCACCIO BOCCACCINO Dal 17 ottobre 
- al Museo Diocesano di Cremona sotto i riflettori due dipinti ritrovati d
- i Boccaccio Boccaccino.E a fine anno il Diocesa... Info: https://www.tur
- ismocremona.it/it/evento/nel-nome-del-padre (via @radarcremona)
+DESCRIPTION:Mostra al Museo Diocesano di Cremona con due dipinti ritrovat
+ i del Boccaccino e una futura Santa Lucia restaurata. Info: https://www.
+ turismocremona.it/it/evento/nel-nome-del-padre (via @radarcremona)
 URL:https://www.turismocremona.it/it/evento/nel-nome-del-padre
 END:VEVENT
 END:VCALENDAR

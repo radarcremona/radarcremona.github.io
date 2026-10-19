@@ -4,14 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-80@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261102
 SUMMARY:Antica Fiera dei Morti
 LOCATION:Asola\, Piazza XX Settembre 1\, Asola
-DESCRIPTION:Fiera con zona luna park\, bancarelle\, street food\, eventi 
- con musica. Info: https://sagramap.com/evento/antica-fiera-dei-morti-aso
- la (via @radarcremona)
+DESCRIPTION:Fiera tradizionale con giostre\, bancarelle\, cibo da strada 
+ e appuntamenti musicali. Info: https://sagramap.com/evento/antica-fiera-
+ dei-morti-asola (via @radarcremona)
 URL:https://sagramap.com/evento/antica-fiera-dei-morti-asola
 END:VEVENT
 END:VCALENDAR

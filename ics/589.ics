@@ -4,16 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-589@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:BACK TO SCHOOL 2026 – CON NOEMI E MICHELANGELO
 LOCATION:Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele II 52\, Cre
  mona
-DESCRIPTION:Scopri l'edizione 2026 del progetto Back to School\, con la d
- irezione artistica di Michelangelo e la partecipazione di Noemi. Info: h
- ttps://www.teatroponchielli.it/spettacolo/back-to-school-2026-con-noemi/
-  (via @radarcremona)
+DESCRIPTION:Info: https://www.teatroponchielli.it/spettacolo/back-to-scho
+ ol-2026-con-noemi/ (via @radarcremona)
 URL:https://www.teatroponchielli.it/spettacolo/back-to-school-2026-con-no
  emi/
 END:VEVENT

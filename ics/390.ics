@@ -4,14 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-390@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261025
 SUMMARY:OCTOBER SWING!!! con Lucio Vallisneri
 LOCATION:Via Meazza 23/a\, Parma\, Emilia-Romagna\, Via Giuseppe Meazza\,
   Parma
-DESCRIPTION:Info: https://allevents.in/parma/october-swing-con-lucio-vall
- isneri/200030787988324 (via @radarcremona)
+DESCRIPTION:Serata di ballo swing a tema autunnale\, con un ospite musica
+ le o didattico. Info: https://allevents.in/parma/october-swing-con-lucio
+ -vallisneri/200030787988324 (via @radarcremona)
 URL:https://allevents.in/parma/october-swing-con-lucio-vallisneri/2000307
  87988324
 END:VEVENT

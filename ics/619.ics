@@ -4,16 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-619@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:CREMONA LIRICA
 LOCATION:Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele II 52\, Cre
  mona
-DESCRIPTION:Cremona celebra il World Opera Day con arie e cori dal catalo
- go lirico di Ponchielli e un omaggio a Francesco Cilea\, il 25 ottobre 2
- 026 Info: https://www.teatroponchielli.it/spettacolo/cremona-lirica/ (vi
- a @radarcremona)
+DESCRIPTION:Serata lirica a Cremona per la giornata mondiale dell'opera\,
+  con brani di Ponchielli e un tributo a Cilea. Info: https://www.teatrop
+ onchielli.it/spettacolo/cremona-lirica/ (via @radarcremona)
 URL:https://www.teatroponchielli.it/spettacolo/cremona-lirica/
 END:VEVENT
 END:VCALENDAR

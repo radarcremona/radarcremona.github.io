@@ -4,15 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-85@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Festa del Cicciolo
 LOCATION:Gonzaga\, Piazza Corte Matilde\, Gonzaga
-DESCRIPTION:Dimostrazione sulla produzione dei ciccioli-gara e premiazion
- e dei norcini-stand di prodotti tipici locali-stand gastronomico. Info: 
- https://sagramap.com/evento/festa-del-cicciolo-gonzaga (via @radarcremon
- a)
+DESCRIPTION:Festa dedicata ai ciccioli\, con dimostrazione di produzione\
+ , gara tra norcini\, prodotti locali e stand gastronomico. Info: https:/
+ /sagramap.com/evento/festa-del-cicciolo-gonzaga (via @radarcremona)
 URL:https://sagramap.com/evento/festa-del-cicciolo-gonzaga
 END:VEVENT
 END:VCALENDAR

@@ -4,17 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-301@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Magico Natale a Grazzano Visconti
 LOCATION:Grazzano Visconti Castello Medioevale\, Grazzano Visconti\, Piac
  enza
-DESCRIPTION:Inizieremo la nostra giornata con una visita guidata nel cuor
- e di Grazzano Visconti\, un borgo dall'atmosfera incantata nato per far 
- rivivere il fascino del Medioevo. Passeggiando t... Info: https://alleve
- nts.in/piacenza/magico-natale-a-grazzano-visconti/200030797785146 (via @
- radarcremona)
+DESCRIPTION:Gita natalizia in un borgo ispirato al Medioevo\, con visita 
+ guidata tra vicoli e architetture. Info: https://allevents.in/piacenza/m
+ agico-natale-a-grazzano-visconti/200030797785146 (via @radarcremona)
 URL:https://allevents.in/piacenza/magico-natale-a-grazzano-visconti/20003
  0797785146
 END:VEVENT

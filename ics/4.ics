@@ -4,15 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-4@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY:Sagra di Sant'Orsola
 LOCATION:Casaletto Ceredano\, Via Garibaldi\, Casaletto Ceredano
-DESCRIPTION:Sagra a carattere prevalentemente religioso arricchita da att
- ività finalizzate alla promozione delle tradizioni\, delle usanze e del
- la cultura locale. Info: https://sagramap.com/evento/sagra-di-santorsola
- -casaletto-ceredano (via @radarcremona)
+DESCRIPTION:Festa di paese a sfondo religioso\, con momenti dedicati a tr
+ adizioni\, usanze e cultura del territorio. Info: https://sagramap.com/e
+ vento/sagra-di-santorsola-casaletto-ceredano (via @radarcremona)
 URL:https://sagramap.com/evento/sagra-di-santorsola-casaletto-ceredano
 END:VEVENT
 END:VCALENDAR

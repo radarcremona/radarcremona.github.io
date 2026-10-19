@@ -4,17 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-296@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:SHARYBAND al "KIOSKO"\, Via Dei Pisoni 1\, Piacenza (PC)
 LOCATION:Via dei Pisoni\, 29122 Piacenza PC\, Italia\, Via dei Pisoni\, P
  iacenza
-DESCRIPTION:SHARYBAND@ 70/80:90 DISCO MUSIC PARTY!!!! Primissima stagiona
- le nella nostra casa piacentina!!! Questo Club ricorda l’inizio della 
- musica live con l’atmosfera davvero intima. Il pa... Info: https://all
- events.in/piacenza/sharyband-al-kiosko-via-dei-pisoni-1-piacenza-pc/2000
- 30809864821 (via @radarcremona)
+DESCRIPTION:Serata danzante in un locale intimo\, con musica dal vivo e s
+ uccessi di tre decenni. Info: https://allevents.in/piacenza/sharyband-al
+ -kiosko-via-dei-pisoni-1-piacenza-pc/200030809864821 (via @radarcremona)
 URL:https://allevents.in/piacenza/sharyband-al-kiosko-via-dei-pisoni-1-pi
  acenza-pc/200030809864821
 END:VEVENT

@@ -4,14 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-117@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261020
 SUMMARY:Terza di Ottobre
 LOCATION:Verolavecchia\, Via Vittorio Veneto\, Verolavecchia
-DESCRIPTION:Terza di Ottobre a Verolavecchia\, 15a edizione\, dal 16 al 1
- 9 ottobre 2026. Si mangia sul posto. Info: https://sagramap.com/evento/t
- erza-di-ottobre-verolavecchia (via @radarcremona)
+DESCRIPTION:Quattro giornate di festa a Verolavecchia\, con possibilità 
+ di mangiare sul posto\, giunte alla quindicesima edizione. Info: https:/
+ /sagramap.com/evento/terza-di-ottobre-verolavecchia (via @radarcremona)
 URL:https://sagramap.com/evento/terza-di-ottobre-verolavecchia
 END:VEVENT
 END:VCALENDAR

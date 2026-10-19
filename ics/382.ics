@@ -4,15 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-382@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Lode all’inviolato | Conversazione con Guidalberto Bormolini e 
  Carlo Guaitoli - IL RUMORE DEL LUTTO
 LOCATION:Casa della Musica\, Piazzale San Francesco\, Parma
-DESCRIPTION:Info: https://allevents.in/parma/lode-allinviolato-conversazi
- one-con-guidalberto-bormolini-e-carlo-guaitoli-il-rumore-del-lutto/20003
- 0492007108 (via @radarcremona)
+DESCRIPTION:Incontro di conversazione pubblica con due ospiti sul tema de
+ l lutto e del suo significato. Info: https://allevents.in/parma/lode-all
+ inviolato-conversazione-con-guidalberto-bormolini-e-carlo-guaitoli-il-ru
+ more-del-lutto/200030492007108 (via @radarcremona)
 URL:https://allevents.in/parma/lode-allinviolato-conversazione-con-guidal
  berto-bormolini-e-carlo-guaitoli-il-rumore-del-lutto/200030492007108
 END:VEVENT

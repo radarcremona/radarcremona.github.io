@@ -4,16 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-366@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:MASK.YOU - RABBIA
 LOCATION:V.Solferino\, 14\, Via Solferino 14\, Brescia
-DESCRIPTION:Gruppo di autocoscienza aperto a tutte le personeabout this e
- ventincontro di autocoscienza – aperto a tutte le persone! ️attenzio
- ne posti limitati️da dove nasce la rabbia tra i gen... Info: https://a
- llevents.in/brescia/maskyou-rabbia/100002003304324161 (via @radarcremona
- )
+DESCRIPTION:Incontro di autocoscienza aperto a tutti sul tema della rabbi
+ a nei rapporti tra i generi\, con posti limitati. Info: https://allevent
+ s.in/brescia/maskyou-rabbia/100002003304324161 (via @radarcremona)
 URL:https://allevents.in/brescia/maskyou-rabbia/100002003304324161
 END:VEVENT
 END:VCALENDAR

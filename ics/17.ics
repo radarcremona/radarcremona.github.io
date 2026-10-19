@@ -4,15 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-17@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Yoga & Spirit Festival - Full Moon Celebration
 LOCATION:Via Beduschi\, 49\, 49 Via Beduschi\, Casalmaggiore
-DESCRIPTION:Un festival di yoga\, meditazione e consapevolezza\, pensato 
- sia per chi pratica da tempo sia per chi si avvicina per la prima volta.
-  Info: https://www.eventbrite.com/e/yoga-spirit-festival-full-moon-celeb
- ration-tickets-1998370367564 (via @radarcremona)
+DESCRIPTION:Festival dedicato a yoga e meditazione\, adatto sia a pratica
+ nti esperti sia a chi comincia ora. Info: https://www.eventbrite.com/e/y
+ oga-spirit-festival-full-moon-celebration-tickets-1998370367564 (via @ra
+ darcremona)
 URL:https://www.eventbrite.com/e/yoga-spirit-festival-full-moon-celebrati
  on-tickets-1998370367564
 END:VEVENT

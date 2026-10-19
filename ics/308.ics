@@ -4,13 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-308@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:XL Gianluca Zeccardo + Flavio Zizzu
 LOCATION:El Viejo Almacen Papelero\, Strada Chiesanuova\, Mantova
-DESCRIPTION:Info: https://allevents.in/mantova/xl-gianluca-zeccardo-flavi
- o-zizzu/200030845721206 (via @radarcremona)
+DESCRIPTION:Serata di musica dal vivo con due artisti sul palco. Info: ht
+ tps://allevents.in/mantova/xl-gianluca-zeccardo-flavio-zizzu/20003084572
+ 1206 (via @radarcremona)
 URL:https://allevents.in/mantova/xl-gianluca-zeccardo-flavio-zizzu/200030
  845721206
 END:VEVENT

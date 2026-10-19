@@ -4,16 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-130@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Fiera di San Martino in Franciacorta
 LOCATION:Cazzago San Martino\, Parco la Collina - Cazzago San Martino\, C
  azzago San Martino
-DESCRIPTION:Fiera di San Martino in Franciacorta a Cazzago San Martino\, 
- il 7 novembre 2026. Sagra Contadina e Manifestazione del riuso. Info: ht
- tps://sagramap.com/evento/fiera-di-san-martino-in-franciacorta-cazzago-s
- an-martino (via @radarcremona)
+DESCRIPTION:Fiera tradizionale a Cazzago San Martino che unisce sagra con
+ tadina e mercato del riuso. Info: https://sagramap.com/evento/fiera-di-s
+ an-martino-in-franciacorta-cazzago-san-martino (via @radarcremona)
 URL:https://sagramap.com/evento/fiera-di-san-martino-in-franciacorta-cazz
  ago-san-martino
 END:VEVENT

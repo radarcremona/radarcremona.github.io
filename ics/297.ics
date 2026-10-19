@@ -4,16 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-297@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Lo Schiaccianoci - European Classical Ballet
 LOCATION:Teatro Politeama Piacenza\, Via San Siro\, Piacenza
-DESCRIPTION:Arriva a Piacenza Lo Schiaccianoci\, con la rinomata compagni
- a di danza European Classical Ballet Uno dei capolavori più amati della
-  storia del balletto prende vita in uno spettacol... Info: https://allev
- ents.in/piacenza/lo-schiaccianoci-european-classical-ballet/200030482099
- 811 (via @radarcremona)
+DESCRIPTION:Balletto classico di una compagnia internazionale\, con la ce
+ lebre storia natalizia su musiche immortali. Info: https://allevents.in/
+ piacenza/lo-schiaccianoci-european-classical-ballet/200030482099811 (via
+  @radarcremona)
 URL:https://allevents.in/piacenza/lo-schiaccianoci-european-classical-bal
  let/200030482099811
 END:VEVENT

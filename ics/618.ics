@@ -4,16 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-618@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:SUL TASTO
 LOCATION:Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele II 52\, Cre
  mona
-DESCRIPTION:Il Doré Quartet apre le stanze di Casa Ponchielli al reperto
- rio da camera ottocentesco: Catalani\, Bazzini\, Puccini e Verdi\, l'8 n
- ovembre. Info: https://www.teatroponchielli.it/spettacolo/sul-tasto/ (vi
- a @radarcremona)
+DESCRIPTION:Concerto da camera a Casa Ponchielli con un quartetto d'archi
+  e pagine ottocentesche di quattro compositori italiani. Info: https://w
+ ww.teatroponchielli.it/spettacolo/sul-tasto/ (via @radarcremona)
 URL:https://www.teatroponchielli.it/spettacolo/sul-tasto/
 END:VEVENT
 END:VCALENDAR

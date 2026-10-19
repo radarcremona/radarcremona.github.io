@@ -4,14 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-153@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261109
 SUMMARY:Sagra del Tartufo Nero di Fragno
 LOCATION:Calestano\, Calestano
-DESCRIPTION:Festa dedicata al Tartufo Nero di Fragno tra le colline di Ca
- lestano. Info: https://sagramap.com/evento/sagra-del-tartufo-nero-di-fra
- gno-calestano (via @radarcremona)
+DESCRIPTION:Festa gastronomica sulle colline di Calestano dedicata a un p
+ regiato tubero nero locale. Info: https://sagramap.com/evento/sagra-del-
+ tartufo-nero-di-fragno-calestano (via @radarcremona)
 URL:https://sagramap.com/evento/sagra-del-tartufo-nero-di-fragno-calestan
  o
 END:VEVENT

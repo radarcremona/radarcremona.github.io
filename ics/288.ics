@@ -4,17 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-288@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261101
 SUMMARY:VERA DEL PILAR STIGLIANO INTIMATE IMAGINARY JELMONI STUDIO GALLER
  Y
 LOCATION:JELMONI STUDIO GALLERY\, v.Mol.S.Nicolò 8\, Piacenza
-DESCRIPTION:"INTIMATE IMAGINARY" è una mostra personale di Vera Del Pila
- r Stigliano Include più dipinti. Vernice sabato 17 ottobre ore 17\,30. 
- Il progetto espositivo è presentato da Jelmoni Stu... Info: https://all
- events.in/piacenza/vera-del-pilar-stigliano-intimate-imaginary-jelmoni-s
- tudio-gallery-tickets/80008214663539 (via @radarcremona)
+DESCRIPTION:Mostra personale di pittura di un'artista\, ospitata in una g
+ alleria con inaugurazione serale. Info: https://allevents.in/piacenza/ve
+ ra-del-pilar-stigliano-intimate-imaginary-jelmoni-studio-gallery-tickets
+ /80008214663539 (via @radarcremona)
 URL:https://allevents.in/piacenza/vera-del-pilar-stigliano-intimate-imagi
  nary-jelmoni-studio-gallery-tickets/80008214663539
 END:VEVENT

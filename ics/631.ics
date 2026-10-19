@@ -4,15 +4,13 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-631@radarcremona
-DTSTAMP:20261019T142723Z
+DTSTAMP:20261019T143712Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261123
 SUMMARY:Festival della Mostarda
 LOCATION:Piazza Roma\, Cremona\, Cremona
-DESCRIPTION:A Cremona la mostarda protagonista dalla Festa del Salame all
- a Festa del Torrone! Organizzato dalla Camera di Commercio di Cremona-Ma
- ntova-Pavia\, in collaborazione con il Comune di... Info: https://www.tu
- rismocremona.it/it/evento/festival-della-mostarda-5 (via @radarcremona)
+DESCRIPTION:Info: https://www.turismocremona.it/it/evento/festival-della-
+ mostarda-5 (via @radarcremona)
 URL:https://www.turismocremona.it/it/evento/festival-della-mostarda-5
 END:VEVENT
 END:VCALENDAR
