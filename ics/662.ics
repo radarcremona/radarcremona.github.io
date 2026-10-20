@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-662@radarcremona
+DTSTAMP:20261020T062048Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Correggio e Parmigianino: la Sfida che Rese Parma Immortale
+LOCATION:Str. Giuseppe Garibaldi\, 16/a\, 43121 Parma PR\, Italy\, Davant
+ i Teatro Regio\, Parma
+DESCRIPTION:Visita guidata a Parma tra chiese affrescate\, per scoprire l
+ a rivalità artistica di due grandi maestri del Cinquecento. Info: https
+ ://www.eventbrite.co.uk/e/correggio-e-parmigianino-la-sfida-che-rese-par
+ ma-immortale-tickets-2003629889937 (via @radarcremona)
+URL:https://www.eventbrite.co.uk/e/correggio-e-parmigianino-la-sfida-che-
+ rese-parma-immortale-tickets-2003629889937
+END:VEVENT
+END:VCALENDAR

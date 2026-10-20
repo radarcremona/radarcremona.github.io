@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-647@radarcremona
+DTSTAMP:20261020T062048Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:Festa del Ringraziamento
+LOCATION:Borgo San Giacomo\, Piazza San Giacomo Snc\, Borgo San Giacomo
+DESCRIPTION:Più giorni di appuntamenti con convegno\, mostra\, spettacol
+ i teatrali e giochi per bambini\, per celebrare il ringraziamento. Info:
+  https://sagramap.com/evento/festa-del-ringraziamento-borgo-san-giacomo 
+ (via @radarcremona)
+URL:https://sagramap.com/evento/festa-del-ringraziamento-borgo-san-giacom
+ o
+END:VEVENT
+END:VCALENDAR

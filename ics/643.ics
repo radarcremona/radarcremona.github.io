@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-643@radarcremona
+DTSTAMP:20261020T062048Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:Festa del Ringraziamento
+LOCATION:Orzinuovi\, Via Abbazia 3\, Orzinuovi
+DESCRIPTION:Due giorni di celebrazioni a Orzinuovi per ringraziare dei ra
+ ccolti\, con ritrovo all'oratorio della frazione di Coniolo. Info: https
+ ://sagramap.com/evento/festa-del-ringraziamento-orzinuovi (via @radarcre
+ mona)
+URL:https://sagramap.com/evento/festa-del-ringraziamento-orzinuovi
+END:VEVENT
+END:VCALENDAR

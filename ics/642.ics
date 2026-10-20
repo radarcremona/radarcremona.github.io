@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-642@radarcremona
+DTSTAMP:20261020T062048Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:JEREMY PELT @50! // MANTOVAJAZZ 2026
+LOCATION:Teatro Bibiena\, Via Accademia 47\, Mantova
+DESCRIPTION:Appuntamento di MantovaJazz che rende omaggio al trombettista
+  Jeremy Pelt nel suo cinquantesimo compleanno. Info: https://allevents.i
+ n/mantova/jeremy-pelt-50-mantovajazz-2026/200030857725318 (via @radarcre
+ mona)
+URL:https://allevents.in/mantova/jeremy-pelt-50-mantovajazz-2026/20003085
+ 7725318
+END:VEVENT
+END:VCALENDAR

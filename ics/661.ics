@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-661@radarcremona
+DTSTAMP:20261020T062048Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:JOSS STONE - Merry Christmas\, Love - With Live Symphony Orchestr
+ a | Brescia\, Teatro Clerici
+LOCATION:Teatro Clerici\, via San Zeno 168\, Brescia
+DESCRIPTION:Concerto natalizio della cantante soul Joss Stone con orchest
+ ra sinfonica dal vivo al Teatro Clerici di Brescia. Info: https://alleve
+ nts.in/brescia/joss-stone-merry-christmas-love-with-live-symphony-orches
+ tra-brescia-teatro-clerici/200030854459527 (via @radarcremona)
+URL:https://allevents.in/brescia/joss-stone-merry-christmas-love-with-liv
+ e-symphony-orchestra-brescia-teatro-clerici/200030854459527
+END:VEVENT
+END:VCALENDAR

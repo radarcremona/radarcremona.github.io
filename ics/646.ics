@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-646@radarcremona
+DTSTAMP:20261020T062048Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Giornata del Ringraziamento
+LOCATION:Artogne\, Via Alberzoni SNC\, Artogne
+DESCRIPTION:Giornata dedicata a ringraziare per i raccolti e a far conosc
+ ere i prodotti del territorio. Info: https://sagramap.com/evento/giornat
+ a-del-ringraziamento-artogne (via @radarcremona)
+URL:https://sagramap.com/evento/giornata-del-ringraziamento-artogne
+END:VEVENT
+END:VCALENDAR

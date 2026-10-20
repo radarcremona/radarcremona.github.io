@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-660@radarcremona
+DTSTAMP:20261020T062048Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Hai pensato al titolo?
+LOCATION:Teatro Santa Giulia\, 4 Villaggio Prealpino Via Quinta\, Brescia
+DESCRIPTION:Spettacolo teatrale la cui descrizione non è disponibile\, p
+ roposto in una serata di prosa. Info: https://allevents.in/brescia/hai-p
+ ensato-al-titolo/100002000487201070 (via @radarcremona)
+URL:https://allevents.in/brescia/hai-pensato-al-titolo/100002000487201070
+END:VEVENT
+END:VCALENDAR

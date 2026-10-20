@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-659@radarcremona
+DTSTAMP:20261020T062048Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:I Due Quarti Acoustic Duo Live Cover 360
+LOCATION:Beatles Museum Club\, Presso Antica Birreria Wuhrer -\, Brescia
+DESCRIPTION:Serata di musica dal vivo con un duo acustico che propone cov
+ er di brani noti. Info: https://allevents.in/brescia/i-due-quarti-acoust
+ ic-duo-live-cover-360°/200030854380600 (via @radarcremona)
+URL:https://allevents.in/brescia/i-due-quarti-acoustic-duo-live-cover-360
+ °/200030854380600
+END:VEVENT
+END:VCALENDAR

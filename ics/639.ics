@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-639@radarcremona
+DTSTAMP:20261020T062048Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20270111
+SUMMARY:Il volto della luce
+LOCATION:Museo Diocesano\, piazza S.A.M. Zaccaria\, Cremona
+DESCRIPTION:Esposizione dedicata a un solo dipinto del Genovesino\, la te
+ la di Santa Lucia\, visitabile dal 4 dicembre al 10 gennaio. Info: https
+ ://www.turismocremona.it/it/evento/il-volto-della-luce (via @radarcremon
+ a)
+URL:https://www.turismocremona.it/it/evento/il-volto-della-luce
+END:VEVENT
+END:VCALENDAR

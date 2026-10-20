@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-87@radarcremona
+DTSTAMP:20261020T062048Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261209
+SUMMARY:Festa dell'Osso
+LOCATION:Castel d'Ario\, Piazzale Area Feste\, Castel d'Ario
+DESCRIPTION:Ventinovesima edizione a Castel d'Ario di una sagra invernale
+ \, con cibo da consumare sul posto. Info: https://sagramap.com/evento/fe
+ sta-dellosso-castel-dario (via @radarcremona)
+URL:https://sagramap.com/evento/festa-dellosso-castel-dario
+END:VEVENT
+END:VCALENDAR

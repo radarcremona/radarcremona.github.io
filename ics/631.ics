@@ -4,13 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-631@radarcremona
-DTSTAMP:20261019T143824Z
+DTSTAMP:20261020T062048Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261123
 SUMMARY:Festival della Mostarda
 LOCATION:Piazza Roma\, Cremona\, Cremona
-DESCRIPTION:Info: https://www.turismocremona.it/it/evento/festival-della-
- mostarda-5 (via @radarcremona)
+DESCRIPTION:Rassegna autunnale a Cremona che celebra la mostarda\, organi
+ zzata dalla Camera di Commercio con il Comune\, fino al 22 novembre. Inf
+ o: https://www.turismocremona.it/it/evento/festival-della-mostarda-5 (vi
+ a @radarcremona)
 URL:https://www.turismocremona.it/it/evento/festival-della-mostarda-5
 END:VEVENT
 END:VCALENDAR

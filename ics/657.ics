@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-657@radarcremona
+DTSTAMP:20261020T062048Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Visita Guidata di Brescello Tra Don Camillo e Peppone: Storie da 
+ un Set Leggendario
+LOCATION:Brescia BS\, Italia\, Brescia BS\, Brescia
+DESCRIPTION:Passeggiata guidata a Brescello tra piazze e vie che fecero d
+ a set ai celebri film su Peppone e don Camillo. Info: https://www.eventb
+ rite.it/e/visita-guidata-di-brescello-tra-don-camillo-e-peppone-storie-d
+ a-un-set-leggendario-tickets-2003097106367 (via @radarcremona)
+URL:https://www.eventbrite.it/e/visita-guidata-di-brescello-tra-don-camil
+ lo-e-peppone-storie-da-un-set-leggendario-tickets-2003097106367
+END:VEVENT
+END:VCALENDAR

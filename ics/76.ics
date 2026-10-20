@@ -4,13 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-76@radarcremona
-DTSTAMP:20261019T143824Z
+DTSTAMP:20261020T062048Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261102
 SUMMARY:Fiera del riso mantovano
 LOCATION:Mantova\, Mantova
-DESCRIPTION:Info: https://sagramap.com/evento/fiera-del-riso-mantovano-ma
- ntova (via @radarcremona)
+DESCRIPTION:Fiera a Mantova dedicata al riso locale\, con appuntamenti a 
+ tavola dal 13 ottobre al primo novembre. Info: https://sagramap.com/even
+ to/fiera-del-riso-mantovano-mantova (via @radarcremona)
 URL:https://sagramap.com/evento/fiera-del-riso-mantovano-mantova
 END:VEVENT
 END:VCALENDAR

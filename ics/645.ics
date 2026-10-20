@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-645@radarcremona
+DTSTAMP:20261020T062048Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Fiera di San Martino
+LOCATION:Gargnano\, Piazza Feltrinelli\, Gargnano
+DESCRIPTION:Cinquantaseiesima edizione della fiera dedicata al santo\, a 
+ Gargnano\, con possibilità di mangiare direttamente in loco. Info: http
+ s://sagramap.com/evento/fiera-di-san-martino-gargnano (via @radarcremona
+ )
+URL:https://sagramap.com/evento/fiera-di-san-martino-gargnano
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-640@radarcremona
+DTSTAMP:20261020T062048Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Patente Nautica Vela e Motore - Corso Propedeutico
+LOCATION:Via Musso 3\, Piacenza\, Emilia-Romagna\, Via Cornelio Musso\, P
+ iacenza
+DESCRIPTION:Incontro di presentazione di un corso preparatorio per chi vu
+ ole conseguire la patente nautica a vela e motore. Info: https://alleven
+ ts.in/piacenza/patente-nautica-vela-e-motore-corso-propedeutico/20003085
+ 4923610 (via @radarcremona)
+URL:https://allevents.in/piacenza/patente-nautica-vela-e-motore-corso-pro
+ pedeutico/200030854923610
+END:VEVENT
+END:VCALENDAR

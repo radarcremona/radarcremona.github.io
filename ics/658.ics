@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-658@radarcremona
+DTSTAMP:20261020T062048Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Francesca Bertazzo ORGAN trio
+LOCATION:via Brescia 165\, Nave\, Lombardia\, Via Brescia\, Brescia
+DESCRIPTION:Concerto di un trio jazz guidato da Francesca Bertazzo\, con 
+ l'organo come strumento protagonista. Info: https://allevents.in/brescia
+ /francesca-bertazzo-organ-trio/200030854380500 (via @radarcremona)
+URL:https://allevents.in/brescia/francesca-bertazzo-organ-trio/2000308543
+ 80500
+END:VEVENT
+END:VCALENDAR

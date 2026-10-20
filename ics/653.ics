@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-653@radarcremona
+DTSTAMP:20261020T062048Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Premio Ecomuseo del Botticino
+LOCATION:Paitone\, Piazza Pertini\, Paitone
+DESCRIPTION:Cerimonia a Paitone che assegna un riconoscimento legato all'
+ ecomuseo del territorio di Botticino. Info: https://sagramap.com/evento/
+ premio-ecomuseo-del-botticino-paitone (via @radarcremona)
+URL:https://sagramap.com/evento/premio-ecomuseo-del-botticino-paitone
+END:VEVENT
+END:VCALENDAR
