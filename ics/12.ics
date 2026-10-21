@@ -4,13 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-12@radarcremona
-DTSTAMP:20261020T062048Z
+DTSTAMP:20261021T062030Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Novembre in Tavola
 LOCATION:Cremona\, Piazza Stradivari\, Cremona
-DESCRIPTION:Info: https://sagramap.com/evento/novembre-in-tavola-cremona 
- (via @radarcremona)
+DESCRIPTION:Rassegna gastronomica d'autunno che valorizza i sapori delle 
+ campagne cremonesi e lombarde insieme alle cucine contadine. Info: https
+ ://sagramap.com/evento/novembre-in-tavola-cremona (via @radarcremona)
 URL:https://sagramap.com/evento/novembre-in-tavola-cremona
 END:VEVENT
 END:VCALENDAR

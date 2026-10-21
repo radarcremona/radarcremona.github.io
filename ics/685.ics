@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-685@radarcremona
+DTSTAMP:20261021T062030Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:GIULLARI live al Tortelli & Friends di MANTOVA
+LOCATION:Tortelli &amp\; Friends\, Via Alessandro Luzio\, Mantova
+DESCRIPTION:Concerto del gruppo Giullari\, che tornano a suonare dal vivo
+  in un locale di Mantova. Info: https://allevents.in/mantova/giullari-li
+ ve-al-tortelli-and-friends-di-mantova/200030862219619 (via @radarcremona
+ )
+URL:https://allevents.in/mantova/giullari-live-al-tortelli-and-friends-di
+ -mantova/200030862219619
+END:VEVENT
+END:VCALENDAR

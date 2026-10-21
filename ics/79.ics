@@ -4,13 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-79@radarcremona
-DTSTAMP:20261020T062048Z
+DTSTAMP:20261021T062030Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Festa delle Lumere
 LOCATION:Mantova\, Mantova
-DESCRIPTION:Info: https://sagramap.com/evento/festa-delle-lumere-mantova 
- (via @radarcremona)
+DESCRIPTION:Festa autunnale a Mantova con banchi di specialità alla zucc
+ a\, street food e musica tradizionale. Info: https://sagramap.com/evento
+ /festa-delle-lumere-mantova (via @radarcremona)
 URL:https://sagramap.com/evento/festa-delle-lumere-mantova
 END:VEVENT
 END:VCALENDAR

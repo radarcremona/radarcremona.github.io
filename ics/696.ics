@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-696@radarcremona
+DTSTAMP:20261021T062030Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Concerts by Candlelight - Parma
+LOCATION:Strada della Repubblica\, 57\, 43121 Parma PR\, Italia\, Strada 
+ della Repubblica\, Parma
+DESCRIPTION:Serie di concerti a lume di candela a Parma\, con musica di a
+ rtisti e generi molto diversi. Info: https://allevents.in/parma/concerts
+ -by-candlelight-parma/200030747279915 (via @radarcremona)
+URL:https://allevents.in/parma/concerts-by-candlelight-parma/200030747279
+ 915
+END:VEVENT
+END:VCALENDAR

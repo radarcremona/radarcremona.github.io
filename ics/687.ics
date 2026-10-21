@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-687@radarcremona
+DTSTAMP:20261021T062030Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:MilleMonti CALENDAR 2027
+LOCATION:Associazione Culturale C.AR.M.E.\, 61/1 Via delle Battaglie\, Br
+ escia
+DESCRIPTION:Appuntamento legato al mondo dello sport\, con un calendario 
+ pensato per l'anno 2027. Info: https://allevents.in/brescia/millemonti-c
+ alendar-2027/100002002723626278 (via @radarcremona)
+URL:https://allevents.in/brescia/millemonti-calendar-2027/100002002723626
+ 278
+END:VEVENT
+END:VCALENDAR

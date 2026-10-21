@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-692@radarcremona
+DTSTAMP:20261021T062030Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:VISITA GUIDATA AL CIMITERO MONUMENTALE DI BRESCIA: UN MUSEO A CIE
+ LO APERTO!
+LOCATION:Cimitero Monumentale di Brescia\, Via Milano\, Brescia
+DESCRIPTION:Visita accompagnata tra le tombe e i monumenti del cimitero c
+ ittadino di Brescia\, luogo ricco d'arte. Info: https://allevents.in/bre
+ scia/visita-guidata-al-cimitero-monumentale-di-brescia-un-museo-a-cielo-
+ aperto/200030862334358 (via @radarcremona)
+URL:https://allevents.in/brescia/visita-guidata-al-cimitero-monumentale-d
+ i-brescia-un-museo-a-cielo-aperto/200030862334358
+END:VEVENT
+END:VCALENDAR

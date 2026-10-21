@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-691@radarcremona
+DTSTAMP:20261021T062030Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:80s Never Die La Festa anni '80 Brescia • Lattepiù
+LOCATION:Lattepiulive\, Via Giuseppe Di Vittorio\, Brescia
+DESCRIPTION:Serata danzante a Brescia con musica e atmosfera degli anni O
+ ttanta\, per ballare e divertirsi. Info: https://allevents.in/brescia/80
+ s-never-die-★-la-festa-anni-80-★-brescia-•-lattepiù/2000308597319
+ 19 (via @radarcremona)
+URL:https://allevents.in/brescia/80s-never-die-★-la-festa-anni-80-★-b
+ rescia-•-lattepiù/200030859731919
+END:VEVENT
+END:VCALENDAR

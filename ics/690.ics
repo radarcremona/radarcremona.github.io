@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-690@radarcremona
+DTSTAMP:20261021T062030Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Candlelight: Ennio Morricone e altre colonne sonore | Brescia
+LOCATION:Auditorium Santa Giulia\, Via Giovanni Piamarta\, 4\, Brescia\, 
+ Via Giovanni Piamarta\, Brescia
+DESCRIPTION:Concerto a lume di candela a Brescia con musiche da film del 
+ celebre compositore italiano. Info: https://allevents.in/brescia/candlel
+ ight-ennio-morricone-e-altre-colonne-sonore-brescia/200030798073614 (via
+  @radarcremona)
+URL:https://allevents.in/brescia/candlelight-ennio-morricone-e-altre-colo
+ nne-sonore-brescia/200030798073614
+END:VEVENT
+END:VCALENDAR

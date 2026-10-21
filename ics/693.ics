@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-693@radarcremona
+DTSTAMP:20261021T062030Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:Ariel - La voce dell'oceano (Musical per tutte le età)
+LOCATION:Cinema Teatro Colonna\, Via Chiusure\, Brescia
+DESCRIPTION:Musical per famiglie in cui una sirena vive un'avventura sott
+ 'acqua fatta di amicizia\, sogni e coraggio. Info: https://allevents.in/
+ brescia/ariel-la-voce-delloceano-musical-per-tutte-le-età/2000308623355
+ 29 (via @radarcremona)
+URL:https://allevents.in/brescia/ariel-la-voce-delloceano-musical-per-tut
+ te-le-età/200030862335529
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-688@radarcremona
+DTSTAMP:20261021T062030Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Entre Tangueras incontro pomeridiano con Lucila Prego & Claudia C
+ avagnini
+LOCATION:Via Milano 90/F \, 25100 Brescia\, Italy\, Via Milano\, Brescia
+DESCRIPTION:Incontro nel pomeriggio dedicato al tango argentino\, con due
+  ospiti protagoniste del mondo tanguero. Info: https://allevents.in/bres
+ cia/entre-tangueras-incontro-pomeridiano-con-lucila-prego-and-claudia-ca
+ vagnini/200030843249853 (via @radarcremona)
+URL:https://allevents.in/brescia/entre-tangueras-incontro-pomeridiano-con
+ -lucila-prego-and-claudia-cavagnini/200030843249853
+END:VEVENT
+END:VCALENDAR

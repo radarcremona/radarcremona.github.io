@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-686@radarcremona
+DTSTAMP:20261021T062030Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:100 minuti di: IL CASO ALESSI
+LOCATION:Sala di lettura Libreria Serra Tarantola\, Porcellaga 4\, Bresci
+ a
+DESCRIPTION:Spettacolo o incontro dedicato a una vicenda legata al caso A
+ lessi\, raccontata in circa cento minuti. Info: https://allevents.in/bre
+ scia/100-minuti-di-il-caso-alessi/100002002197847660 (via @radarcremona)
+URL:https://allevents.in/brescia/100-minuti-di-il-caso-alessi/10000200219
+ 7847660
+END:VEVENT
+END:VCALENDAR
