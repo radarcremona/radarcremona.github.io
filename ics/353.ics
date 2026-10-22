@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-353@radarcremona
+DTSTAMP:20261022T062027Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Visita guidata alla mostra “Eros e Bellezza di Villa Torreggian
+ i: da Michelangelo a D’Annunzio”
+LOCATION:Via Giuseppe Garibaldi\, 45\, 25086 Rezzato BS\, Italia\, davant
+ i ingresso Villa\, Brescia
+DESCRIPTION:Visita accompagnata a una mostra che ripercorre il tema dell'
+ eros e della bellezza nell'arte\, tra Ottocento e Novecento. Info: https
+ ://allevents.in/brescia/visita-guidata-alla-mostra-eros-e-bellezza-di-vi
+ lla-torreggiani-da-michelangelo-a-dannunzio/100002001692043787 (via @rad
+ arcremona)
+URL:https://allevents.in/brescia/visita-guidata-alla-mostra-eros-e-bellez
+ za-di-villa-torreggiani-da-michelangelo-a-dannunzio/100002001692043787
+END:VEVENT
+END:VCALENDAR

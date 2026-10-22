@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-732@radarcremona
+DTSTAMP:20261022T062027Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:PLASMA PHOBIA
+LOCATION:Hotel Parma &amp\; Congressi (Parma\, Emilia-Romagna)\, Via Emil
+ ia Ovest\, Parma
+DESCRIPTION:Evento di tipo non meglio precisato\, presentato con un titol
+ o suggestivo e senza ulteriori indicazioni. Info: https://allevents.in/p
+ arma/plasma-phobia/200030784566801 (via @radarcremona)
+URL:https://allevents.in/parma/plasma-phobia/200030784566801
+END:VEVENT
+END:VCALENDAR

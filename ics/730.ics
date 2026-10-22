@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-730@radarcremona
+DTSTAMP:20261022T062027Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Oltrecultura FEST Brescia #7 con Giulio Tampalini
+LOCATION:VITA &amp\; VITA PRIVÈ BRESCIA\, 21 Piazzale Arnaldo\, Brescia
+DESCRIPTION:Appuntamento mensile di racconti e confronto con ospiti\, pen
+ sato per mettere in relazione persone e professioni\, seguito da un aper
+ itivo. Info: https://allevents.in/brescia/oltrecultura-fest-brescia-7-co
+ n-giulio-tampalini/100002003357631605 (via @radarcremona)
+URL:https://allevents.in/brescia/oltrecultura-fest-brescia-7-con-giulio-t
+ ampalini/100002003357631605
+END:VEVENT
+END:VCALENDAR

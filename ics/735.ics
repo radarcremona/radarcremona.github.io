@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-735@radarcremona
+DTSTAMP:20261022T062027Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:IL CANTICO DELLA TERRA. Lectio Magistralis di Stefano Mancuso | I
+ l Rumore del Lutto Festival
+LOCATION:Centro Studi e Archivio della Comunicazione - CSAC\, Via Viazza 
+ di Paradigna 1\, Parma
+DESCRIPTION:Lezione magistrale del noto botanico sul rapporto tra esseri 
+ umani e natura\, inserita in un festival. Info: https://allevents.in/par
+ ma/il-cantico-della-terra-lectio-magistralis-di-stefano-mancuso-il-rumor
+ e-del-lutto-festival/200030876092840 (via @radarcremona)
+URL:https://allevents.in/parma/il-cantico-della-terra-lectio-magistralis-
+ di-stefano-mancuso-il-rumore-del-lutto-festival/200030876092840
+END:VEVENT
+END:VCALENDAR

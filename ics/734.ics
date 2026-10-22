@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-734@radarcremona
+DTSTAMP:20261022T062027Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Gregorio Vivaldelli | “Serafico in ardore” - IL RUMORE DEL LU
+ TTO Festival
+LOCATION:San Francesco del Prato - Parma\, Piazzale San Francesco d'Assis
+ i\, Parma
+DESCRIPTION:Concerto del cantautore all'interno di un festival dedicato a
+ i temi del lutto e della perdita. Info: https://allevents.in/parma/grego
+ rio-vivaldelli-serafico-in-ardore-il-rumore-del-lutto-festival/200030441
+ 563831 (via @radarcremona)
+URL:https://allevents.in/parma/gregorio-vivaldelli-serafico-in-ardore-il-
+ rumore-del-lutto-festival/200030441563831
+END:VEVENT
+END:VCALENDAR

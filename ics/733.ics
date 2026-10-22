@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-733@radarcremona
+DTSTAMP:20261022T062027Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Circo nero Hallowblanc
+LOCATION:Redas\, Viale Marconi\, Parma
+DESCRIPTION:Spettacolo teatrale a tema Halloween\, con atmosfere circensi
+  e suggestioni cupe. Info: https://allevents.in/parma/circo-nero-hallowb
+ lanc/200030861691108 (via @radarcremona)
+URL:https://allevents.in/parma/circo-nero-hallowblanc/200030861691108
+END:VEVENT
+END:VCALENDAR

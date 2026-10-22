@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-729@radarcremona
+DTSTAMP:20261022T062027Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Equilibrio e complessità nella fisica moderna
+LOCATION:Università degli Studi di Brescia\, via San Faustino 74/b\, Bre
+ scia
+DESCRIPTION:Incontro con due fisici che raccontano il proprio lavoro di r
+ icerca sui sistemi complessi e sull'equilibrio. Info: https://allevents.
+ in/brescia/equilibrio-e-complessità-nella-fisica-moderna/10000200344669
+ 3993 (via @radarcremona)
+URL:https://allevents.in/brescia/equilibrio-e-complessità-nella-fisica-m
+ oderna/100002003446693993
+END:VEVENT
+END:VCALENDAR

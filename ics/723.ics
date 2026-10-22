@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-723@radarcremona
+DTSTAMP:20261022T062027Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Abigail Lapell in Cortemaggiore
+LOCATION:Teatro &quot\;E. Duse&quot\;\, Teatro "E. Duse"\, Cremona
+DESCRIPTION:Concerto dal vivo della cantautrice canadese in un teatro sto
+ rico\, fissato per la fine di novembre. Info: https://allevents.in/cremo
+ na/abigail-lapell-in-cortemaggiore/3300029958666036 (via @radarcremona)
+URL:https://allevents.in/cremona/abigail-lapell-in-cortemaggiore/33000299
+ 58666036
+END:VEVENT
+END:VCALENDAR

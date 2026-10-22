@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-88@radarcremona
+DTSTAMP:20261022T062027Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Mercatino di Natale
+LOCATION:Gazoldo degli Ippoliti\, Via Marconi\, Gazoldo degli Ippoliti
+DESCRIPTION:Mercatino stagionale con bancarelle e proposte a tema nataliz
+ io\, pensato per vivere l'atmosfera delle feste in città. Info: https:/
+ /sagramap.com/evento/mercatino-di-natale-gazoldo-degli-ippoliti (via @ra
+ darcremona)
+URL:https://sagramap.com/evento/mercatino-di-natale-gazoldo-degli-ippolit
+ i
+END:VEVENT
+END:VCALENDAR

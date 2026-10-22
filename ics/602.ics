@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-602@radarcremona
+DTSTAMP:20261022T062027Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:L’OPERA SI RIVELA | L’ITALIANA IN ALGERI
+LOCATION:Ridotto del Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele
+  II 52\, Cremona
+DESCRIPTION:Incontro di preparazione all'opera in cartellone al Teatro Po
+ nchielli\, per scoprirne la storia e i personaggi. Info: https://www.tea
+ troponchielli.it/spettacolo/lopera-si-rivela-litaliana-in-algeri/ (via @
+ radarcremona)
+URL:https://www.teatroponchielli.it/spettacolo/lopera-si-rivela-litaliana
+ -in-algeri/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-321@radarcremona
+DTSTAMP:20261022T062027Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Irama in Mantova
+LOCATION:PalaUnical\, PalaUnical\, Mantova
+DESCRIPTION:Concerto del cantante pop Irama\, con i suoi brani più noti\
+ , in programma a dicembre. Info: https://allevents.in/mantova/irama-in-m
+ antova/3300030339874715 (via @radarcremona)
+URL:https://allevents.in/mantova/irama-in-mantova/3300030339874715
+END:VEVENT
+END:VCALENDAR
