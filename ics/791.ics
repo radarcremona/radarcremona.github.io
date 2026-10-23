@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-791@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Canale Vernazza\, il racconto di un’acqua antica
+LOCATION:via Piave 2\, 42049 Sant'Ilario d'Enza\, Italy\, Via Piave\, Par
+ ma
+DESCRIPTION:Incontro dedicato alla storia di un antico canale d'acqua e a
+ l suo legame con il territorio. Info: https://allevents.in/parma/canale-
+ vernazza-il-racconto-di-unacqua-antica/200030785496139 (via @radarcremon
+ a)
+URL:https://allevents.in/parma/canale-vernazza-il-racconto-di-unacqua-ant
+ ica/200030785496139
+END:VEVENT
+END:VCALENDAR

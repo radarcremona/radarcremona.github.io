@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-758@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Il Pedagogo dell'infame - Compagnia Chierici - Teatro Filo\, Crem
+ ona
+LOCATION:Cinema FILO\, Piazza dei Filodrammatici\, Cremona
+DESCRIPTION:Serata di teatro con la compagnia Chierici\, in scena al Teat
+ ro Filo di Cremona. Info: https://allevents.in/cremona/il-pedagogo-delli
+ nfame-compagnia-chierici-teatro-filo-cremona/200030880781522 (via @radar
+ cremona)
+URL:https://allevents.in/cremona/il-pedagogo-dellinfame-compagnia-chieric
+ i-teatro-filo-cremona/200030880781522
+END:VEVENT
+END:VCALENDAR

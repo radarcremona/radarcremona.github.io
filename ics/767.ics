@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-767@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261225
+SUMMARY:Mercatino di Natale in Piazza Cavalli\, Piacenza
+LOCATION:Piacenza\, Piazza Cavalli\, Piacenza
+DESCRIPTION:Bancarelle natalizie nella piazza centrale di Piacenza\, atti
+ ve da fine novembre fino alla vigilia di Natale. Info: https://sagramap.
+ com/evento/mercatino-di-natale-in-piazza-cavalli-piacenza (via @radarcre
+ mona)
+URL:https://sagramap.com/evento/mercatino-di-natale-in-piazza-cavalli-pia
+ cenza
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-774@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Speciale Halloween 2026 “THE GHOST TOUR FANTASMI A TORINO”
+LOCATION:Via delle Orfane 7\, Via delle Orfane\, Lodi
+DESCRIPTION:Visita guidata animata a tema Halloween\, con racconti di sto
+ rie inquietanti e leggende cittadine a Torino. Info: https://allevents.i
+ n/lodi/speciale-halloween-2026-the-ghost-tour-fantasmi-a-torino/20003083
+ 9356251 (via @radarcremona)
+URL:https://allevents.in/lodi/speciale-halloween-2026-the-ghost-tour-fant
+ asmi-a-torino/200030839356251
+END:VEVENT
+END:VCALENDAR

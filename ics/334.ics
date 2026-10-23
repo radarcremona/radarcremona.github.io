@@ -4,17 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-334@radarcremona
-DTSTAMP:20261022T062027Z
+DTSTAMP:20261023T062051Z
 DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:Mercatini di Natale a Mantova 2026
-LOCATION:Piazza Virgiliana\, 46100 Mantua\, Italy\, Via Fratelli Cairoli\
- , Mantova
+DTEND;VALUE=DATE:20261228
+SUMMARY:Mercatini di Natale di Mantova
+LOCATION:Mantova\, Piazza Virgiliana\, Mantova
 DESCRIPTION:Mercatino natalizio nei fine settimana di fine anno\, allesti
- to nella centrale piazza Virgiliana di Mantova. Info: https://allevents.
- in/mantova/mercatini-di-natale-a-mantova-2026/200030787719800 (via @rada
- rcremona)
-URL:https://allevents.in/mantova/mercatini-di-natale-a-mantova-2026/20003
- 0787719800
+ to nella centrale piazza Virgiliana di Mantova. Info: https://sagramap.c
+ om/evento/mercatini-di-natale-di-mantova (via @radarcremona)
+URL:https://sagramap.com/evento/mercatini-di-natale-di-mantova
 END:VEVENT
 END:VCALENDAR

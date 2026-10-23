@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-769@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261209
+SUMMARY:Winterland di Castell'Arquato
+LOCATION:Castell'Arquato\, Piazza del Municipio\, Castell'Arquato
+DESCRIPTION:Appuntamento invernale a Castell'Arquato in tre giornate di f
+ esta\, con banchi di prodotti tipici locali. Info: https://sagramap.com/
+ evento/winterland-di-castellarquato (via @radarcremona)
+URL:https://sagramap.com/evento/winterland-di-castellarquato
+END:VEVENT
+END:VCALENDAR

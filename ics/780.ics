@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-780@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:J-AX – NON APRITE QUEL TEATRO
+LOCATION:Teatro Clerici\, Brescia
+DESCRIPTION:Spettacolo dal vivo del rapper J-Ax\, in tour con un titolo i
+ spirato al mondo del teatro. Info: https://allevents.in/brescia/j-ax-non
+ -aprite-quel-teatro/210007249695828 (via @radarcremona)
+URL:https://allevents.in/brescia/j-ax-non-aprite-quel-teatro/210007249695
+ 828
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-838@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261102
+SUMMARY:Giro d'Italia per la Pace
+LOCATION:Cremona
+DESCRIPTION:Percorso itinerante dedicato alla pace\, che segue le orme di
+  figure storiche e religiose impegnate per la riconciliazione. Info: htt
+ ps://www.comune.cremona.it/vivere-comune/eventi/giro-ditalia-per-pace (v
+ ia @radarcremona)
+URL:https://www.comune.cremona.it/vivere-comune/eventi/giro-ditalia-per-p
+ ace
+END:VEVENT
+END:VCALENDAR

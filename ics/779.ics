@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-779@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Pasti facile e di cura: come organizzare la spesa per avere sempr
+ e un pasto
+LOCATION:Inanna - Studio di Arte Ostetrica\, 85 Via San Zeno\, Brescia
+DESCRIPTION:Incontro pratico su come organizzare la spesa per cucinare pa
+ sti sani e semplici per tutta la famiglia. Info: https://www.eventbrite.
+ com/e/biglietti-pasti-facile-e-di-cura-come-organizzare-la-spesa-per-ave
+ re-sempre-un-pasto-2003656861610 (via @radarcremona)
+URL:https://www.eventbrite.com/e/biglietti-pasti-facile-e-di-cura-come-or
+ ganizzare-la-spesa-per-avere-sempre-un-pasto-2003656861610
+END:VEVENT
+END:VCALENDAR

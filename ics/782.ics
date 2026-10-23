@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-782@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:LEI. Ritratti di donne\, da Van Gogh a Modigliani e oltre
+LOCATION:Palazzo del Governatore\, 19 Piazza Giuseppe Garibaldi\, Parma
+DESCRIPTION:Mostra di ritratti femminili celebri\, che attraversa l'opera
+  di grandi pittori tra Ottocento e Novecento. Info: https://www.eventbri
+ te.it/e/lei-ritratti-di-donne-da-van-gogh-a-modigliani-e-oltre-tickets-2
+ 003584117029 (via @radarcremona)
+URL:https://www.eventbrite.it/e/lei-ritratti-di-donne-da-van-gogh-a-modig
+ liani-e-oltre-tickets-2003584117029
+END:VEVENT
+END:VCALENDAR

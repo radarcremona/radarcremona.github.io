@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-772@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Halloween con Delitto all'Antica Osteria Lungoladda di Corte Pala
+ sio (LO)
+LOCATION:Antica Osteria Lungoladda\, Casellario\, Lodi
+DESCRIPTION:Cena con delitto a tema Halloween in un'osteria del lodigiano
+ \, tra mistero\, giallo e convivialità. Info: https://allevents.in/lodi
+ /halloween-con-delitto-allantica-osteria-lungoladda-di-corte-palasio-lo/
+ 200030662926855 (via @radarcremona)
+URL:https://allevents.in/lodi/halloween-con-delitto-allantica-osteria-lun
+ goladda-di-corte-palasio-lo/200030662926855
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-775@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:5* DGGD100 dead graves gravel discovery
+LOCATION:Canottieri Adda Lodi 1891\, Via Sauro Nazario 16\, Lodi
+DESCRIPTION:Ultima pedalata gravel valida per il brevetto 2026\, tra le c
+ ampagne del nord lodigiano. Info: https://allevents.in/lodi/5-dggd100-de
+ ad-graves-gravel-discovery/200029597775520 (via @radarcremona)
+URL:https://allevents.in/lodi/5-dggd100-dead-graves-gravel-discovery/2000
+ 29597775520
+END:VEVENT
+END:VCALENDAR

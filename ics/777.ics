@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-777@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:Festa delle mele di Piancogno
+LOCATION:Piancogno\, PalaViBi\, Piancogno
+DESCRIPTION:Sagra autunnale a Piancogno dedicata alle mele\, con assaggi 
+ di dolci e specialità preparate con questo frutto. Info: https://sagram
+ ap.com/evento/festa-delle-mele-di-piancogno (via @radarcremona)
+URL:https://sagramap.com/evento/festa-delle-mele-di-piancogno
+END:VEVENT
+END:VCALENDAR

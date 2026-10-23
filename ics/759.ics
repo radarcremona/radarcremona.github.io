@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-759@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Sandro - Compagnia Teatro dell'Argine - Teatro Filo\, Cremona
+LOCATION:Cinema FILO\, Piazza Filodrammatici 4\, Cremona
+DESCRIPTION:Spettacolo della compagnia Teatro dell'Argine\, in programma 
+ al Teatro Filo di Cremona. Info: https://allevents.in/cremona/sandro-com
+ pagnia-teatro-dellargine-teatro-filo-cremona/200030880783230 (via @radar
+ cremona)
+URL:https://allevents.in/cremona/sandro-compagnia-teatro-dellargine-teatr
+ o-filo-cremona/200030880783230
+END:VEVENT
+END:VCALENDAR

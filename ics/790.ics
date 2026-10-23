@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-790@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Parma Mercato di Via Garibaldi
+LOCATION:Via Brigata Giuseppe Garibaldi\, 43123 Parma PR\, Italia\, Via B
+ rigata Giuseppe Garibaldi\, Parma
+DESCRIPTION:Mercato all'aperto lungo una via del centro di Parma\, con ba
+ nchi di vario genere. Info: https://allevents.in/parma/parma-mercato-di-
+ via-garibaldi/200030881567107 (via @radarcremona)
+URL:https://allevents.in/parma/parma-mercato-di-via-garibaldi/20003088156
+ 7107
+END:VEVENT
+END:VCALENDAR

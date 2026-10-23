@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-770@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Sagra della Lumaca e Mercatino di Natale di Bobbio
+LOCATION:Bobbio\, Piazza Duomo\, Bobbio
+DESCRIPTION:Giornata a Bobbio dedicata a una specialità gastronomica loc
+ ale\, con mercatino natalizio nelle vie del borgo. Info: https://sagrama
+ p.com/evento/sagra-della-lumaca-e-mercatino-di-natale-di-bobbio (via @ra
+ darcremona)
+URL:https://sagramap.com/evento/sagra-della-lumaca-e-mercatino-di-natale-
+ di-bobbio
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-773@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:DGGD100 2026 5 edizione
+LOCATION:Faustina Sporting Lodi\, 6-8 Via Giuseppe Piermarini\, Lodi
+DESCRIPTION:Quinta edizione di un'escursione in bicicletta gravel tra ter
+ ritori\, storie e tradizioni locali\, in programma l'8 novembre. Info: h
+ ttps://allevents.in/lodi/dggd100-2026-5°-edizione/100002003436591777 (v
+ ia @radarcremona)
+URL:https://allevents.in/lodi/dggd100-2026-5°-edizione/10000200343659177
+ 7
+END:VEVENT
+END:VCALENDAR

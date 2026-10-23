@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-792@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:HANS ZIMMER Tribute by Ensemble Symphony Orchestra
+LOCATION:Teatro Regio di Parma\, Parma
+DESCRIPTION:Concerto sinfonico in omaggio al celebre compositore di colon
+ ne sonore per il cinema\, con orchestra dal vivo. Info: https://allevent
+ s.in/parma/hans-zimmer-tribute-by-ensemble-symphony-orchestra/2100018260
+ 71602 (via @radarcremona)
+URL:https://allevents.in/parma/hans-zimmer-tribute-by-ensemble-symphony-o
+ rchestra/210001826071602
+END:VEVENT
+END:VCALENDAR

@@ -4,16 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-682@radarcremona
-DTSTAMP:20261022T062027Z
+DTSTAMP:20261023T062051Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261103
-SUMMARY:Vini di Vignaioli 2026 – 24 Edizione – Piacenza
-LOCATION:Laboratorio Aperto - Piacenza\, Piazza Sandro Casali\, Piacenza
+SUMMARY:Vini di Vignaioli
+LOCATION:Piacenza\, Laboratorio Aperto\, Piacenza
 DESCRIPTION:Salone di due giorni a Piacenza dedicato ai vini di piccoli p
  roduttori artigianali e naturali\, alla ventiquattresima edizione. Info:
-  https://allevents.in/piacenza/vini-di-vignaioli-2026-24°-edizione-piac
- enza/200030859916621 (via @radarcremona)
-URL:https://allevents.in/piacenza/vini-di-vignaioli-2026-24°-edizione-pi
- acenza/200030859916621
+  https://sagramap.com/evento/vini-di-vignaioli-piacenza (via @radarcremo
+ na)
+URL:https://sagramap.com/evento/vini-di-vignaioli-piacenza
 END:VEVENT
 END:VCALENDAR

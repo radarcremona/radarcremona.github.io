@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-757@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Sandro - Compagnia Teatro dell'Argine - Sala SOMS\, Torre de' Pic
+ enardi
+LOCATION:Via Brescia\, 26100 Cremona\, Italy\, Via Brescia\, Cremona
+DESCRIPTION:Spettacolo teatrale della compagnia Teatro dell'Argine\, ospi
+ tato nella sala SOMS di Torre de' Picenardi. Info: https://allevents.in/
+ cremona/sandro-compagnia-teatro-dellargine-sala-soms-torre-de-picenardi/
+ 200030880782125 (via @radarcremona)
+URL:https://allevents.in/cremona/sandro-compagnia-teatro-dellargine-sala-
+ soms-torre-de-picenardi/200030880782125
+END:VEVENT
+END:VCALENDAR

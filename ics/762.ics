@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-762@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Cremona - Incontro con papà Gianpietro
+LOCATION:Centro Commerciale CremonaPo\, via Castelleone 108\, Cremona
+DESCRIPTION:Incontro gratuito e aperto a tutti con un autore ed esperto\,
+  presso il centro commerciale CremonaPo. Info: https://allevents.in/crem
+ ona/cremona-incontro-con-papà-gianpietro/200030880784035 (via @radarcre
+ mona)
+URL:https://allevents.in/cremona/cremona-incontro-con-papà-gianpietro/20
+ 0030880784035
+END:VEVENT
+END:VCALENDAR

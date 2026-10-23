@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-786@radarcremona
+DTSTAMP:20261023T062051Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Mauro Grossi - ParmaJazz Frontiere Festival 2026
+LOCATION:Casa della Musica di Parma\, Piazzale San Francesco 1\, Parma
+DESCRIPTION:Concerto jazz di un musicista\, inserito nella rassegna Parma
+ Jazz Frontiere Festival 2026. Info: https://allevents.in/parma/mauro-gro
+ ssi-parmajazz-frontiere-festival-2026/200030881563553 (via @radarcremona
+ )
+URL:https://allevents.in/parma/mauro-grossi-parmajazz-frontiere-festival-
+ 2026/200030881563553
+END:VEVENT
+END:VCALENDAR
