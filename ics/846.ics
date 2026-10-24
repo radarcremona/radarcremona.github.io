@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-846@radarcremona
+DTSTAMP:20261024T062027Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:La Parma Noire: un tour nella cronaca nera del passato
+LOCATION:Piazza Giuseppe Garibaldi\, 43121 Parma PR\, Italia\, Davanti al
+  monumento di G. Garibaldi\, Parma
+DESCRIPTION:Tour a piedi per il centro di Parma sulle tracce di fatti osc
+ uri e leggende del passato. Info: https://www.eventbrite.co.uk/e/la-parm
+ a-noire-un-tour-nella-cronaca-nera-del-passato-tickets-2003821076782 (vi
+ a @radarcremona)
+URL:https://www.eventbrite.co.uk/e/la-parma-noire-un-tour-nella-cronaca-n
+ era-del-passato-tickets-2003821076782
+END:VEVENT
+END:VCALENDAR

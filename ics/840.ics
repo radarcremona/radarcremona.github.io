@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-840@radarcremona
+DTSTAMP:20261024T062027Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Fidenza Medievale: Storia\, Misteri e Curiosità lungo la Via Fra
+ ncigena
+LOCATION:Piazza Grandi\, 43036 Fidenza PR\, Italia\, presso il Torrione V
+ isconteo\, Fidenza
+DESCRIPTION:Passeggiata guidata a Fidenza alla scoperta del passato medie
+ vale e dei simboli nascosti lungo la Via Francigena. Info: https://www.e
+ ventbrite.it/e/fidenza-medievale-storia-misteri-e-curiosita-lungo-la-via
+ -francigena-tickets-2003510595123 (via @radarcremona)
+URL:https://www.eventbrite.it/e/fidenza-medievale-storia-misteri-e-curios
+ ita-lungo-la-via-francigena-tickets-2003510595123
+END:VEVENT
+END:VCALENDAR

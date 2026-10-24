@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-852@radarcremona
+DTSTAMP:20261024T062027Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Provaci ancora Omero
+LOCATION:Strada Cava in Vigatto\, 61\, 43124 Parma\, Italy\, Strada Cava 
+ in Vigatto\, Parma
+DESCRIPTION:Spettacolo teatrale ispirato al mondo classico e alla figura 
+ del poeta greco Omero. Info: https://allevents.in/parma/provaci-ancora-o
+ mero/200030790010201 (via @radarcremona)
+URL:https://allevents.in/parma/provaci-ancora-omero/200030790010201
+END:VEVENT
+END:VCALENDAR

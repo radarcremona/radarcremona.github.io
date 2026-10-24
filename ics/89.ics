@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-89@radarcremona
+DTSTAMP:20261024T062027Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Aspettando il Natale
+LOCATION:Pegognaga\, Piazza Matteotti\, Pegognaga
+DESCRIPTION:Seconda edizione di un evento natalizio a Pegognaga con spett
+ acoli dal vivo\, bancarelle e decorazioni per l'8 dicembre 2026. Info: h
+ ttps://sagramap.com/evento/aspettando-il-natale-pegognaga (via @radarcre
+ mona)
+URL:https://sagramap.com/evento/aspettando-il-natale-pegognaga
+END:VEVENT
+END:VCALENDAR

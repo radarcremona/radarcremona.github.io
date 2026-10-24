@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-850@radarcremona
+DTSTAMP:20261024T062027Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Notevole assenza
+LOCATION:Lenz Teatro\, Via Pasubio\, Parma
+DESCRIPTION:Proposta teatrale dal titolo evocativo\, da vivere dal vivo i
+ n sala insieme al pubblico. Info: https://allevents.in/parma/notevole-as
+ senza/200030668736510 (via @radarcremona)
+URL:https://allevents.in/parma/notevole-assenza/200030668736510
+END:VEVENT
+END:VCALENDAR

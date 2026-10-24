@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-539@radarcremona
+DTSTAMP:20261024T062027Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:XL Alessandro + Giò
+LOCATION:El Viejo Almacen Papelero\, Strada Chiesanuova 27/i\, Mantova
+DESCRIPTION:Spettacolo di danza con due interpreti\, proposto in una sera
+ ta dedicata al movimento e alla scena. Info: https://allevents.in/mantov
+ a/xl-alessandro-giò/200030791335712 (via @radarcremona)
+URL:https://allevents.in/mantova/xl-alessandro-giò/200030791335712
+END:VEVENT
+END:VCALENDAR

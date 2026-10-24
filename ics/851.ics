@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-851@radarcremona
+DTSTAMP:20261024T062027Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:THIS IS WHAT YOU ARE (20th Anniversary) - PARMA
+LOCATION:Teatro Regio di Parma\, Strada Giuseppe Garibaldi\, Parma
+DESCRIPTION:Serata a teatro a Parma che celebra un anniversario important
+ e di uno spettacolo\, a vent'anni dal debutto. Info: https://allevents.i
+ n/parma/this-is-what-you-are-20th-anniversary-parma/200030787007351 (via
+  @radarcremona)
+URL:https://allevents.in/parma/this-is-what-you-are-20th-anniversary-parm
+ a/200030787007351
+END:VEVENT
+END:VCALENDAR

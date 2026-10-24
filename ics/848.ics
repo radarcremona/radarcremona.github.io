@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-848@radarcremona
+DTSTAMP:20261024T062027Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Charlie Chaplin - Dietro il sorriso di un uomo
+LOCATION:Strada Cava in Vigatto\, 61\, 43124 Parma\, Italy\, Strada Cava 
+ in Vigatto\, Parma
+DESCRIPTION:Spettacolo teatrale dedicato alla figura di Charlie Chaplin e
+  al lato più intimo della sua vita. Info: https://allevents.in/parma/ch
+ arlie-chaplin-dietro-il-sorriso-di-un-uomo/200030789762041 (via @radarcr
+ emona)
+URL:https://allevents.in/parma/charlie-chaplin-dietro-il-sorriso-di-un-uo
+ mo/200030789762041
+END:VEVENT
+END:VCALENDAR
