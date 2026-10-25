@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-888@radarcremona
+DTSTAMP:20261025T072028Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Reggio Emilia segreta\, curiosa e misteriosa
+LOCATION:Piazza Antonio Fontanesi\, 8\, 42124 Reggio Emilia RE\, Italy\, 
+ Davanti al Caffe Fontanesi\, Reggio Emilia
+DESCRIPTION:Passeggiata guidata nel centro di Reggio Emilia tra aneddoti 
+ poco noti\, angoli insoliti e misteri irrisolti della città. Info: http
+ s://www.eventbrite.co.uk/e/reggio-emilia-segreta-curiosa-e-misteriosa-ti
+ ckets-2003817603393 (via @radarcremona)
+URL:https://www.eventbrite.co.uk/e/reggio-emilia-segreta-curiosa-e-mister
+ iosa-tickets-2003817603393
+END:VEVENT
+END:VCALENDAR

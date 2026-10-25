@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-882@radarcremona
+DTSTAMP:20261025T072028Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ATHENA LIVE CLUB 21 NOVEMBRE 2026 // MEGAMAX - MAX PEZZALI E 883 
+ TRIBUTE
+LOCATION:Via Zanotti 6/8\, 29028 Ponte dell'Olio\, Italy\, Via A. Zanotti
+ \, Piacenza
+DESCRIPTION:Serata live con una tribute band dedicata a Max Pezzali e agl
+ i 883\, sabato 21 novembre 2026. Info: https://allevents.in/piacenza/ath
+ ena-live-club-21-novembre-2026-megamax-max-pezzali-e-883-tribute/2000308
+ 34054616 (via @radarcremona)
+URL:https://allevents.in/piacenza/athena-live-club-21-novembre-2026-megam
+ ax-max-pezzali-e-883-tribute/200030834054616
+END:VEVENT
+END:VCALENDAR

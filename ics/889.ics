@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-889@radarcremona
+DTSTAMP:20261025T072028Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Visita alla Reggia di Rivalta: palazzo\, giardino frutteto e gran
+ de parco
+LOCATION:Palazzo Ducale di Rivalta\, 1 Via dei Combattenti\, Reggio Emili
+ a
+DESCRIPTION:Visita guidata alla residenza ducale di Rivalta\, con ingress
+ o alle sale interne e agli spazi verdi. Info: https://www.eventbrite.it/
+ e/visita-alla-reggia-di-rivalta-palazzo-giardino-frutteto-e-grande-parco
+ -registration-2002997210576 (via @radarcremona)
+URL:https://www.eventbrite.it/e/visita-alla-reggia-di-rivalta-palazzo-gia
+ rdino-frutteto-e-grande-parco-registration-2002997210576
+END:VEVENT
+END:VCALENDAR
