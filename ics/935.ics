@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-935@radarcremona
+DTSTAMP:20261026T072042Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Presentazione gratuita - corso di Biodanza
+LOCATION:CENTRO YOGA SHANTIVANAM\, Strada Nino Bixio\, Parma
+DESCRIPTION:Lezione di prova gratuita aperta a tutti per conoscere la Bio
+ danza e il suo corso settimanale. Info: https://allevents.in/parma/prese
+ ntazione-gratuita-corso-di-biodanza/200030881567007 (via @radarcremona)
+URL:https://allevents.in/parma/presentazione-gratuita-corso-di-biodanza/2
+ 00030881567007
+END:VEVENT
+END:VCALENDAR

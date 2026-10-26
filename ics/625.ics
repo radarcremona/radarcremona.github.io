@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-625@radarcremona
+DTSTAMP:20261026T072042Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261213
+SUMMARY:L’ITALIANA IN ALGERI
+LOCATION:Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele II 52\, Cre
+ mona
+DESCRIPTION:Allestimento di una celebre opera comica di Rossini\, con reg
+ ia di Cherstich\, in scena al Teatro Ponchielli. Info: https://www.teatr
+ oponchielli.it/spettacolo/litaliana-in-algeri/ (via @radarcremona)
+URL:https://www.teatroponchielli.it/spettacolo/litaliana-in-algeri/
+END:VEVENT
+END:VCALENDAR

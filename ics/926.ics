@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-926@radarcremona
+DTSTAMP:20261026T072042Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261127
+SUMMARY:V-Ray per 3ds Max | Corso Completo - Brescia
+LOCATION:4m group Brescia\, Via San Rocchino\, Brescia
+DESCRIPTION:Corso pratico che insegna a produrre immagini e animazioni re
+ alistiche usando V-Ray nel software 3ds Max. Info: https://www.eventbrit
+ e.it/e/v-ray-per-3ds-max-corso-completo-brescia-tickets-2003650442410 (v
+ ia @radarcremona)
+URL:https://www.eventbrite.it/e/v-ray-per-3ds-max-corso-completo-brescia-
+ tickets-2003650442410
+END:VEVENT
+END:VCALENDAR

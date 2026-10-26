@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-413@radarcremona
+DTSTAMP:20261026T072042Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261214
+SUMMARY:Barezzi Festival 2026
+LOCATION:Città di Parma\, Piazza Giuseppe Garibaldi\, Parma
+DESCRIPTION:Ventesima edizione di un festival musicale diffuso tra Parma\
+ , Busseto e Fidenza\, con artisti italiani e internazionali. Info: https
+ ://allevents.in/parma/barezzi-festival-2026/200029989648945 (via @radarc
+ remona)
+URL:https://allevents.in/parma/barezzi-festival-2026/200029989648945
+END:VEVENT
+END:VCALENDAR

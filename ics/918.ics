@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-918@radarcremona
+DTSTAMP:20261026T072042Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Nel silenzio del Monastero: alla scoperta dell'Abbazia di Poliron
+ e
+LOCATION:Piazza Matilde di Canossa\, 7\, 46027 San Benedetto Po MN\, Ital
+ ia\, Davanti Infopoint\, San Benedetto Po
+DESCRIPTION:Visita guidata a un antico complesso monastico di San Benedet
+ to Po\, con la sua abbazia e i chiostri. Info: https://www.eventbrite.it
+ /e/nel-silenzio-del-monastero-alla-scoperta-dellabbazia-di-polirone-tick
+ ets-2003815416853 (via @radarcremona)
+URL:https://www.eventbrite.it/e/nel-silenzio-del-monastero-alla-scoperta-
+ dellabbazia-di-polirone-tickets-2003815416853
+END:VEVENT
+END:VCALENDAR

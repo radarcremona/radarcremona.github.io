@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-931@radarcremona
+DTSTAMP:20261026T072042Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Wall
+LOCATION:Strada Cava in Vigatto\, 61\, 43124 Parma\, Italy\, Strada Cava 
+ in Vigatto\, Parma
+DESCRIPTION:Evento di tipo generico con un titolo breve\, di cui al momen
+ to non sono disponibili altre informazioni. Info: https://allevents.in/p
+ arma/wall/200030907846224 (via @radarcremona)
+URL:https://allevents.in/parma/wall/200030907846224
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-922@radarcremona
+DTSTAMP:20261026T072042Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Festa Sociale Annuale
+LOCATION:Ome\, Via Sant'Angela 4\, Ome
+DESCRIPTION:Dodicesima edizione di una festa associativa a Ome\, con poss
+ ibilità di mangiare sul posto. Info: https://sagramap.com/evento/festa-
+ sociale-annuale-ome (via @radarcremona)
+URL:https://sagramap.com/evento/festa-sociale-annuale-ome
+END:VEVENT
+END:VCALENDAR

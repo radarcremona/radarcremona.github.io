@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-927@radarcremona
+DTSTAMP:20261026T072042Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261127
+SUMMARY:Corona per 3ds Max - Brescia
+LOCATION:4m group Brescia\, Via San Rocchino\, Brescia
+DESCRIPTION:Corso dedicato a chi vuole imparare a creare immagini di sint
+ esi e animazioni con il motore Chaos Corona. Info: https://www.eventbrit
+ e.it/e/corona-per-3ds-max-brescia-tickets-2003650430374 (via @radarcremo
+ na)
+URL:https://www.eventbrite.it/e/corona-per-3ds-max-brescia-tickets-200365
+ 0430374
+END:VEVENT
+END:VCALENDAR

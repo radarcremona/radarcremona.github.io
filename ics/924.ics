@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-924@radarcremona
+DTSTAMP:20261026T072042Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Festa di Sant'Andrea
+LOCATION:Nuvolento\, Piazza Roma 19\, Nuvolento
+DESCRIPTION:Sagra di paese a Nuvolento con cibo da assaggiare\, banchi di
+  vendita e area espositiva. Info: https://sagramap.com/evento/festa-di-s
+ antandrea-nuvolento (via @radarcremona)
+URL:https://sagramap.com/evento/festa-di-santandrea-nuvolento
+END:VEVENT
+END:VCALENDAR

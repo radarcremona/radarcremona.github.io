@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-921@radarcremona
+DTSTAMP:20261026T072042Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Festa Patronale e Mercatini
+LOCATION:Coccaglio\, Zona Centro Storico\, Coccaglio
+DESCRIPTION:Festa del patrono con bancarelle di prodotti del territorio\,
+  lavori artigianali e oggetti creati dagli hobbisti. Info: https://sagra
+ map.com/evento/festa-patronale-e-mercatini-coccaglio (via @radarcremona)
+URL:https://sagramap.com/evento/festa-patronale-e-mercatini-coccaglio
+END:VEVENT
+END:VCALENDAR
