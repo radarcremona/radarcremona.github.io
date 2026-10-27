@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-951@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Sotto questo crollo - Collettivo Lubitsch - Teatro Filo\, Cremona
+LOCATION:Cinema FILO\, Piazza Filodrammatici 4\, Cremona
+DESCRIPTION:Spettacolo di teatro contemporaneo portato in scena da un col
+ lettivo teatrale a Cremona. Info: https://allevents.in/cremona/sotto-que
+ sto-crollo-collettivo-lubitsch-teatro-filo-cremona/200030880783633 (via 
+ @radarcremona)
+URL:https://allevents.in/cremona/sotto-questo-crollo-collettivo-lubitsch-
+ teatro-filo-cremona/200030880783633
+END:VEVENT
+END:VCALENDAR

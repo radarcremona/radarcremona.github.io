@@ -4,13 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-778@radarcremona
-DTSTAMP:20261026T072042Z
+DTSTAMP:20261027T072023Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261103
 SUMMARY:V-Ray per SketchUp | Corso Completo - Brescia
 LOCATION:4m group Brescia\, Via San Rocchino\, Brescia
-DESCRIPTION:Info: https://www.eventbrite.it/e/v-ray-per-sketchup-corso-co
- mpleto-brescia-tickets-2003650215732 (via @radarcremona)
+DESCRIPTION:Corso pratico per imparare a creare immagini realistiche di p
+ rogetti con un software di rendering. Info: https://www.eventbrite.it/e/
+ v-ray-per-sketchup-corso-completo-brescia-tickets-2003650215732 (via @ra
+ darcremona)
 URL:https://www.eventbrite.it/e/v-ray-per-sketchup-corso-completo-brescia
  -tickets-2003650215732
 END:VEVENT

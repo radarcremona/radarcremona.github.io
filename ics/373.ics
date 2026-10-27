@@ -4,9 +4,9 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-373@radarcremona
-DTSTAMP:20261026T072042Z
+DTSTAMP:20261027T072023Z
 DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261122
 SUMMARY:Parma vs Roma at Stadio Ennio Tardini
 LOCATION:Stadio Ennio Tardini\, 1 Viale Partigiani D'Italia\, Parma
 DESCRIPTION:Partita di campionato di calcio allo stadio di Parma contro l

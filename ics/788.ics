@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-788@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Glen Hansard in Parma
+LOCATION:Teatro Regio\, Teatro Regio\, Parma
+DESCRIPTION:Concerto dal vivo a Parma di un cantautore irlandese. Info: h
+ ttps://allevents.in/parma/glen-hansard-in-parma/3300030140038021 (via @r
+ adarcremona)
+URL:https://allevents.in/parma/glen-hansard-in-parma/3300030140038021
+END:VEVENT
+END:VCALENDAR

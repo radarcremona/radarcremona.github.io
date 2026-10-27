@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-960@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Fate il Nostro Gioco
+LOCATION:Teatro del Chiostro di San Giovanni\, Contrada San Giovanni 8\, 
+ Brescia
+DESCRIPTION:Spettacolo dal vivo che racconta la scienza con un tono legge
+ ro\, a metà tra lezione e show. Info: https://allevents.in/brescia/fate
+ -il-nostro-gioco/100002003204825558 (via @radarcremona)
+URL:https://allevents.in/brescia/fate-il-nostro-gioco/100002003204825558
+END:VEVENT
+END:VCALENDAR

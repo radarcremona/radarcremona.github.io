@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-957@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Brescia — Corso AromaTouch Technique con Laura Morandi
+LOCATION:Wellness Club Only for Women - Fitness Boutique per sole donne\,
+  48 Via Sant'Angela Merici\, Brescia
+DESCRIPTION:Corso di formazione a Brescia su una tecnica di benessere con
+  oli essenziali. Info: https://allevents.in/brescia/brescia-corso-aromat
+ ouch-technique-con-laura-morandi/100002003602943339 (via @radarcremona)
+URL:https://allevents.in/brescia/brescia-corso-aromatouch-technique-con-l
+ aura-morandi/100002003602943339
+END:VEVENT
+END:VCALENDAR

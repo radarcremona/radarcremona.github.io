@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-968@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Duchesse\, Badesse\, Streghe e Contesse: Storia delle Donne di Pa
+ rma
+LOCATION:Ponte Giuseppe Verdi\, 43125 Parma PR\, Italy\, Presso Cancello 
+ del Parco Ducale\, Parma
+DESCRIPTION:Visita guidata nel centro di Parma sulle storie di nobildonne
+ \, religiose e donne accusate di stregoneria. Info: https://www.eventbri
+ te.co.uk/e/duchesse-badesse-streghe-e-contesse-storia-delle-donne-di-par
+ ma-tickets-2001091793422 (via @radarcremona)
+URL:https://www.eventbrite.co.uk/e/duchesse-badesse-streghe-e-contesse-st
+ oria-delle-donne-di-parma-tickets-2001091793422
+END:VEVENT
+END:VCALENDAR

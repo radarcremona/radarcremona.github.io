@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-955@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:WEAPN Ep 3 Wellbeing Talk | Parliamo Della Perimenopausa (e Menop
+ ausa)
+LOCATION:Via Spalto S. Marco\, 31\, 31 Via Spalto San Marco\, Brescia
+DESCRIPTION:Incontro dedicato al benessere femminile\, con un confronto a
+ perto sui cambiamenti che arrivano a metà della vita. Info: https://all
+ events.in/brescia/weapn-ep-3-wellbeing-talk-parliamo-della-perimenopausa
+ -e-menopausa/100002003425697191 (via @radarcremona)
+URL:https://allevents.in/brescia/weapn-ep-3-wellbeing-talk-parliamo-della
+ -perimenopausa-e-menopausa/100002003425697191
+END:VEVENT
+END:VCALENDAR

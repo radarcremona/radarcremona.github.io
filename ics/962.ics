@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-962@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Siamo tutti figli
+LOCATION:Teatro Borsoni\, 83\, Brescia
+DESCRIPTION:Spettacolo teatrale costruito sulle testimonianze di chi ha v
+ issuto l'affido\, per raccontare una famiglia. Info: https://allevents.i
+ n/brescia/siamo-tutti-figli/100002003825689579 (via @radarcremona)
+URL:https://allevents.in/brescia/siamo-tutti-figli/100002003825689579
+END:VEVENT
+END:VCALENDAR

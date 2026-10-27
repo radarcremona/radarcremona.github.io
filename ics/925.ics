@@ -4,13 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-925@radarcremona
-DTSTAMP:20261026T072042Z
+DTSTAMP:20261027T072023Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Tra Profumi e Veleni: Alchimisti e Speziali di Brescia
 LOCATION:Ingresso Duomo Vecchio\, P.za Paolo VI\, Brescia
-DESCRIPTION:Info: https://www.eventbrite.it/e/tra-profumi-e-veleni-alchim
- isti-e-speziali-di-brescia-tickets-1995969981946 (via @radarcremona)
+DESCRIPTION:Visita guidata a Brescia tra botteghe antiche e farmacie stor
+ iche\, con racconti di erbe e rimedi. Info: https://www.eventbrite.it/e/
+ tra-profumi-e-veleni-alchimisti-e-speziali-di-brescia-tickets-1995969981
+ 946 (via @radarcremona)
 URL:https://www.eventbrite.it/e/tra-profumi-e-veleni-alchimisti-e-spezial
  i-di-brescia-tickets-1995969981946
 END:VEVENT

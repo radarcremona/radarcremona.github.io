@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-959@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:FESTIVAL DELLA PACE - CONCERTO PER LA PACE
+LOCATION:Duomo Vecchio\, Piazza Paolo VI\, Brescia
+DESCRIPTION:Serata musicale al pianoforte per la pace\, accompagnata da l
+ etture di un celebre intervento all'ONU. Info: https://allevents.in/bres
+ cia/festival-della-pace-concerto-per-la-pace/100002003766973959 (via @ra
+ darcremona)
+URL:https://allevents.in/brescia/festival-della-pace-concerto-per-la-pace
+ /100002003766973959
+END:VEVENT
+END:VCALENDAR

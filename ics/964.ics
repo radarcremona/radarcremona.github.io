@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-964@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Io sono scienza. Performance teatrale a cura di Progetti e Regie 
+ APS.
+LOCATION:Teatro Sant'Afra\, Via dell'Ortaglia 6\, Brescia
+DESCRIPTION:Performance teatrale che mette in dialogo scienza\, cultura e
+  società\, proposta da un'associazione di promozione sociale. Info: htt
+ ps://allevents.in/brescia/io-sono-scienza-performance-teatrale-a-cura-di
+ -progetti-e-regie-aps/100002003445610753 (via @radarcremona)
+URL:https://allevents.in/brescia/io-sono-scienza-performance-teatrale-a-c
+ ura-di-progetti-e-regie-aps/100002003445610753
+END:VEVENT
+END:VCALENDAR

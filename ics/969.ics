@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-969@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Il nuovo album di Valerio Cavalli
+LOCATION:Strada Cava in Vigatto\, 61\, 43124 Parma\, Italy\, Strada Cava 
+ in Vigatto\, Parma
+DESCRIPTION:Presentazione musicale di un nuovo disco di un artista\, con 
+ ascolto dal vivo. Info: https://allevents.in/parma/il-nuovo-album-di-val
+ erio-cavalli/200030907848335 (via @radarcremona)
+URL:https://allevents.in/parma/il-nuovo-album-di-valerio-cavalli/20003090
+ 7848335
+END:VEVENT
+END:VCALENDAR

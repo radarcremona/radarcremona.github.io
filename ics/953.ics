@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-953@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Open Lab -Meccanica
+LOCATION:IIS Janello Torriani\, 19 Via Seminario\, Cremona
+DESCRIPTION:Giornata di orientamento con laboratorio per ragazzi delle me
+ die e famiglie\, nell'indirizzo di meccanica di una scuola. Info: https:
+ //allevents.in/cremona/open-lab-meccanica/100001992908292350 (via @radar
+ cremona)
+URL:https://allevents.in/cremona/open-lab-meccanica/100001992908292350
+END:VEVENT
+END:VCALENDAR

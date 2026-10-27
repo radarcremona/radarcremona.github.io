@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-967@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Discover Parma’s treasures with a scavenger hunt by World City 
+ Trail!
+LOCATION:Parco Ducale\, 3 Largo Luca Ganzi\, Parma
+DESCRIPTION:Caccia al tesoro a Parma\, con enigmi da risolvere tra monume
+ nti e angoli nascosti. Info: https://www.eventbrite.sg/e/discover-parmas
+ -treasures-with-a-scavenger-hunt-by-world-city-trail-tickets-20015123112
+ 02 (via @radarcremona)
+URL:https://www.eventbrite.sg/e/discover-parmas-treasures-with-a-scavenge
+ r-hunt-by-world-city-trail-tickets-2001512311202
+END:VEVENT
+END:VCALENDAR

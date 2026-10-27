@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-966@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Delitto in Città: alla scoperta dei luoghi del romanzo
+LOCATION:Chiesa di Santa Maria del Carmine\, Contrada del Carmine\, Bresc
+ ia
+DESCRIPTION:Passeggiata per Brescia sulle tracce dei luoghi di un romanzo
+  giallo\, seguendo indizi. Info: https://allevents.in/brescia/delitto-in
+ -città-alla-scoperta-dei-luoghi-del-romanzo/100002003527749432 (via @ra
+ darcremona)
+URL:https://allevents.in/brescia/delitto-in-città-alla-scoperta-dei-luog
+ hi-del-romanzo/100002003527749432
+END:VEVENT
+END:VCALENDAR

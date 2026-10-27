@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-965@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Festival del Futuro Brescia
+LOCATION:Auditorium di San Barnaba\, 44 Corso Magenta\, Brescia
+DESCRIPTION:Incontro su scuola\, famiglie e imprese per capire come l'int
+ elligenza artificiale cambia il mondo digitale. Info: https://allevents.
+ in/brescia/festival-del-futuro-brescia/100002003280075633 (via @radarcre
+ mona)
+URL:https://allevents.in/brescia/festival-del-futuro-brescia/100002003280
+ 075633
+END:VEVENT
+END:VCALENDAR

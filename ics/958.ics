@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-958@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+SUMMARY:Brescia Balboa Series 4TH Edition December
+LOCATION:Via Genova 76/b\, 25125 Brescia\, Italy\, Via Genova\, Brescia
+DESCRIPTION:Appuntamento di danza a Brescia\, quarta edizione di una seri
+ e di eventi dedicati al ballo. Info: https://allevents.in/brescia/bresci
+ a-balboa-series-4th-edition-december/200030803440404 (via @radarcremona)
+URL:https://allevents.in/brescia/brescia-balboa-series-4th-edition-decemb
+ er/200030803440404
+END:VEVENT
+END:VCALENDAR

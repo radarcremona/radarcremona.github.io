@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-961@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:BRIX-IA Meet-Up – Decidere con l'IA: il modello JEV
+LOCATION:Fabbrica in Pedavena Brescia\, Via Sorbanella\, Brescia
+DESCRIPTION:Serata con aperitivo e networking per scoprire un metodo di s
+ celta basato sull'intelligenza artificiale. Info: https://allevents.in/b
+ rescia/brix-ia-meet-up-decidere-con-lia-il-modello-jev/10000200370199560
+ 7 (via @radarcremona)
+URL:https://allevents.in/brescia/brix-ia-meet-up-decidere-con-lia-il-mode
+ llo-jev/100002003701995607
+END:VEVENT
+END:VCALENDAR

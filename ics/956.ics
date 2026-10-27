@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-956@radarcremona
+DTSTAMP:20261027T072023Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:CRESCERE INSIEME - Radici\, Futuro e Comunità
+LOCATION:Teatro Grande\, 9/A Corso Giuseppe Zanardelli\, Brescia
+DESCRIPTION:Spettacolo teatrale che mette al centro tradizioni\, giovani 
+ generazioni e vita della comunità. Info: https://allevents.in/brescia/c
+ rescere-insieme-radici-futuro-e-comunità/100002003201331106 (via @radar
+ cremona)
+URL:https://allevents.in/brescia/crescere-insieme-radici-futuro-e-comunit
+ à/100002003201331106
+END:VEVENT
+END:VCALENDAR
