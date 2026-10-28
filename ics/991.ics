@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-991@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:EASY TO LOVE - Cinzia Roncelli Quartet - Concerto di musica Jazz
+LOCATION:Spazo Bacillo - Contaminazioni Artistiche\, via Selvagreca A725\
+ , Lodi
+DESCRIPTION:Concerto jazz in quartetto con voce solista\, tra repertorio 
+ americano classico e sonorità europee attuali. Info: https://allevents.
+ in/lodi/easy-to-love-cinzia-roncelli-quartet-concerto-di-musica-jazz/100
+ 002002079465576 (via @radarcremona)
+URL:https://allevents.in/lodi/easy-to-love-cinzia-roncelli-quartet-concer
+ to-di-musica-jazz/100002002079465576
+END:VEVENT
+END:VCALENDAR

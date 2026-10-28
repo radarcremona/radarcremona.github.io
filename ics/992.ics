@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-992@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:SCIENZA DA BRIVIDI
+LOCATION:311 Verona\, 21 Lungadige Galtarossa\, Verona
+DESCRIPTION:Attività scientifica per bambini con esperimenti e atmosfere
+  da brivido\, ispirata al mondo dei fantasmi. Info: https://www.eventbri
+ te.it/e/scienza-da-brividi-tickets-2001039638425 (via @radarcremona)
+URL:https://www.eventbrite.it/e/scienza-da-brividi-tickets-2001039638425
+END:VEVENT
+END:VCALENDAR

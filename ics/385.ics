@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-385@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Sébastien Tellier in Parma
+LOCATION:Teatro Regio\, Teatro Regio\, Parma
+DESCRIPTION:Concerto a Parma dell'artista francese di musica elettronica 
+ e pop. Info: https://allevents.in/parma/sébastien-tellier-in-parma/3300
+ 030333833356 (via @radarcremona)
+URL:https://allevents.in/parma/sébastien-tellier-in-parma/33000303338333
+ 56
+END:VEVENT
+END:VCALENDAR

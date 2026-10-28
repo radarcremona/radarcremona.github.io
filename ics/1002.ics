@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1002@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:Carlos Espinoza e Agustina Piaggio a Parma | Seminario e Gran Mil
+ onga con Show
+LOCATION:Mas Que Tango  - Parma\, Biomagic\, Parma
+DESCRIPTION:Appuntamento di tango argentino a Parma con seminario di ball
+ o e serata di milonga con spettacolo. Info: https://allevents.in/parma/c
+ arlos-espinoza-e-agustina-piaggio-a-parma-seminario-e-gran-milonga-con-s
+ how/200030788679620 (via @radarcremona)
+URL:https://allevents.in/parma/carlos-espinoza-e-agustina-piaggio-a-parma
+ -seminario-e-gran-milonga-con-show/200030788679620
+END:VEVENT
+END:VCALENDAR

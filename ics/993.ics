@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-993@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:MAMMA MIA CHE STORIA! Il musical
+LOCATION:Teatro Centro Lucia\, 15 Via Dante Alighieri\, Botticino Sera
+DESCRIPTION:Spettacolo teatrale musicale con canto e danza\, pensato per 
+ divertire e coinvolgere il pubblico. Info: https://www.eventbrite.it/e/m
+ amma-mia-che-storia-il-musical-tickets-2003699801043 (via @radarcremona)
+URL:https://www.eventbrite.it/e/mamma-mia-che-storia-il-musical-tickets-2
+ 003699801043
+END:VEVENT
+END:VCALENDAR

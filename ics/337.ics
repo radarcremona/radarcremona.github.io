@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-337@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Candlelight: Tributo a Cremonini
+LOCATION:Auditorium Santa Giulia\, Via Giovanni Piamarta\, Brescia
+DESCRIPTION:Serata di musica dal vivo dedicata alle canzoni di Cesare Cre
+ monini\, in versione tributo. Info: https://allevents.in/brescia/candlel
+ ight-tributo-a-cremonini/2700030764626042 (via @radarcremona)
+URL:https://allevents.in/brescia/candlelight-tributo-a-cremonini/27000307
+ 64626042
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1005@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY:Mercatino Regionale Francese - Parma
+LOCATION:Strada Giuseppe Garibaldi\, 43121 Parma PR\, Italia\, Strada Giu
+ seppe Garibaldi\, Parma
+DESCRIPTION:Mercato a Parma con bancarelle di prodotti tipici provenienti
+  dalle regioni della Francia. Info: https://allevents.in/parma/mercatino
+ -regionale-francese-parma/200030848919802 (via @radarcremona)
+URL:https://allevents.in/parma/mercatino-regionale-francese-parma/2000308
+ 48919802
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-997@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:L’algoritmo della bellezza. Ritmo ed equilibrio fra musica e sc
+ ienza
+LOCATION:Università degli Studi di Brescia\, Corso Goffredo Mameli\, Bre
+ scia
+DESCRIPTION:Concerto con approfondimento che mette in relazione musica e 
+ scienza attraverso ritmo ed equilibrio. Info: https://allevents.in/bresc
+ ia/lalgoritmo-della-bellezza-ritmo-ed-equilibrio-fra-musica-e-scienza/10
+ 0002003446565609 (via @radarcremona)
+URL:https://allevents.in/brescia/lalgoritmo-della-bellezza-ritmo-ed-equil
+ ibrio-fra-musica-e-scienza/100002003446565609
+END:VEVENT
+END:VCALENDAR

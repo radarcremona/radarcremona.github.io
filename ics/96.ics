@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-96@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Corso di cucina - A ciascun primo il suo pescato
+LOCATION:Smeg Store Guastalla\, 2c Viale Cappuccini\, Guastalla
+DESCRIPTION:Lezione di cucina dedicata a primi piatti di pesce\, adatti a
+ i menu delle festività. Info: https://www.eventbrite.it/e/corso-di-cuci
+ na-a-ciascun-primo-il-suo-pescato-tickets-2000412396327 (via @radarcremo
+ na)
+URL:https://www.eventbrite.it/e/corso-di-cucina-a-ciascun-primo-il-suo-pe
+ scato-tickets-2000412396327
+END:VEVENT
+END:VCALENDAR

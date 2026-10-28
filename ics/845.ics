@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-845@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:NNS UNKNOWN 2
+LOCATION:Social Club\, Via della Ziziola n.105\, Brescia
+DESCRIPTION:Appuntamento senza descrizione disponibile\, inserito tra gli
+  eventi vari del programma. Info: https://allevents.in/brescia/nns-unkno
+ wn-2/200030859734942 (via @radarcremona)
+URL:https://allevents.in/brescia/nns-unknown-2/200030859734942
+END:VEVENT
+END:VCALENDAR

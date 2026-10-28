@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-998@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Una storia cosmica di luce e oscurità: incontro con studentesse 
+ e studenti
+LOCATION:Camera di Commercio Industria Artigianato e Agricoltura di Bresc
+ ia\, 23 Via Luigi Einaudi\, Brescia
+DESCRIPTION:Incontro con studenti e studentesse dedicato al racconto scie
+ ntifico dell'universo\, tra luce e buio. Info: https://allevents.in/bres
+ cia/una-storia-cosmica-di-luce-e-oscurità-incontro-con-studentesse-e-st
+ udenti/100002003409671257 (via @radarcremona)
+URL:https://allevents.in/brescia/una-storia-cosmica-di-luce-e-oscurità-i
+ ncontro-con-studentesse-e-studenti/100002003409671257
+END:VEVENT
+END:VCALENDAR

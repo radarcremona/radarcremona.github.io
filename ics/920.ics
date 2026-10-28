@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-920@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Santa Lucia al Rabin
+LOCATION:Quartiere Rabin\, Porto Mantovano\, Mantova
+DESCRIPTION:Iniziativa per bambini in piazzetta\, dove si possono imbucar
+ e le letterine per Santa Lucia. Info: https://allevents.in/mantova/santa
+ -lucia-al-rabin/200030657039316 (via @radarcremona)
+URL:https://allevents.in/mantova/santa-lucia-al-rabin/200030657039316
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-996@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Fuori equilibrio: quando la materia si mette in movimento​
+LOCATION:Università Cattolica del Sacro Cuore\, Via Trieste 17\, Brescia
+DESCRIPTION:Incontro di divulgazione scientifica sul comportamento della 
+ materia quando si allontana dalla stabilità. Info: https://allevents.in
+ /brescia/fuori-equilibrio-quando-la-materia-si-mette-in-movimento​/100
+ 002003446905626 (via @radarcremona)
+URL:https://allevents.in/brescia/fuori-equilibrio-quando-la-materia-si-me
+ tte-in-movimento​/100002003446905626
+END:VEVENT
+END:VCALENDAR

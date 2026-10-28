@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-995@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Concerto jazz con musiche di Miles Davis e Richard Rodgers
+LOCATION:Teatro Sant'Afra\, Via dell'Ortaglia 6\, Brescia
+DESCRIPTION:Serata jazz con brani legati a due grandi autori del Novecent
+ o musicale. Info: https://allevents.in/brescia/concerto-jazz-con-musiche
+ -di-miles-davis-e-richard-rodgers/100002003446969818 (via @radarcremona)
+URL:https://allevents.in/brescia/concerto-jazz-con-musiche-di-miles-davis
+ -e-richard-rodgers/100002003446969818
+END:VEVENT
+END:VCALENDAR

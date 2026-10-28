@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-90@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Evento Natalizio
+LOCATION:Canneto sull'Oglio\, Piazza Matteotti 1\, Canneto sull'Oglio
+DESCRIPTION:Festa di dicembre a Canneto sull'Oglio\, giunta alla decima e
+ dizione\, con cibo da gustare sul posto. Info: https://sagramap.com/even
+ to/evento-natalizio-canneto-sulloglio (via @radarcremona)
+URL:https://sagramap.com/evento/evento-natalizio-canneto-sulloglio
+END:VEVENT
+END:VCALENDAR

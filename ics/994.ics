@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-994@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Concerto sinfonico/da camera con musiche di Joachim Raff e Johann
+ es Brahms
+LOCATION:Teatro Sant'Afra\, Via dell'Ortaglia 6\, Brescia
+DESCRIPTION:Concerto di musica classica che accosta pagine di due composi
+ tori dell'Ottocento tedesco. Info: https://allevents.in/brescia/concerto
+ -sinfonico-da-camera-con-musiche-di-joachim-raff-e-johannes-brahms/10000
+ 2003446752167 (via @radarcremona)
+URL:https://allevents.in/brescia/concerto-sinfonico-da-camera-con-musiche
+ -di-joachim-raff-e-johannes-brahms/100002003446752167
+END:VEVENT
+END:VCALENDAR

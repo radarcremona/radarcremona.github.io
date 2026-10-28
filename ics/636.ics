@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-636@radarcremona
+DTSTAMP:20261028T072048Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:BRUCE NAUMAN
+LOCATION:San Carlo Cremona\, via Bissolati\, Cremona
+DESCRIPTION:Mostra d'arte contemporanea dedicata all'artista americano\, 
+ primo capitolo di un progetto in tre tappe a Cremona. Info: https://www.
+ turismocremona.it/it/evento/bruce-nauman (via @radarcremona)
+URL:https://www.turismocremona.it/it/evento/bruce-nauman
+END:VEVENT
+END:VCALENDAR
