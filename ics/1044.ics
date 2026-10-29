@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1044@radarcremona
+DTSTAMP:20261029T072045Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Ritratti Viennesi
+LOCATION:Palazzo Manna Roncadelli\, via Tribunali\, Cremona
+DESCRIPTION:Concerto a Cremona dedicato alla musica viennese dell'epoca d
+ i Beethoven\, primo incontro di una rassegna. Info: https://www.turismoc
+ remona.it/it/evento/ritratti-viennesi (via @radarcremona)
+URL:https://www.turismocremona.it/it/evento/ritratti-viennesi
+END:VEVENT
+END:VCALENDAR

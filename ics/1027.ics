@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1027@radarcremona
+DTSTAMP:20261029T072045Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:La musica si fa solidarietà: 20 novembre SERATA GRUPPI
+LOCATION:Teatro alle Stimate\, 1 Via Carlo Montanari\, Verona
+DESCRIPTION:Serata di musica dal vivo a Verona con gruppi e cantanti\, a 
+ scopo benefico. Info: https://www.eventbrite.it/e/biglietti-la-musica-si
+ -fa-solidarieta-20-novembre-serata-gruppi-1999108685894 (via @radarcremo
+ na)
+URL:https://www.eventbrite.it/e/biglietti-la-musica-si-fa-solidarieta-20-
+ novembre-serata-gruppi-1999108685894
+END:VEVENT
+END:VCALENDAR

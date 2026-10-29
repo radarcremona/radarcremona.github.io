@@ -4,9 +4,9 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-401@radarcremona
-DTSTAMP:20261028T170958Z
+DTSTAMP:20261029T072045Z
 DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261108
 SUMMARY:Parma vs Bologna at Stadio Ennio Tardini
 LOCATION:Stadio Ennio Tardini\, 1 Viale Partigiani D'Italia\, Parma
 DESCRIPTION:Partita di calcio di campionato allo stadio Tardini\, con il 

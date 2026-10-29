@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1028@radarcremona
+DTSTAMP:20261029T072045Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Brescia Magica: tra Stregoneria\, Veggenza e Antichi Segreti Esot
+ erici
+LOCATION:Piazza Moretto\, 25121 Brescia BS\, Italia\, Sotto la Statua\, B
+ rescia
+DESCRIPTION:Passeggiata guidata nel centro di Brescia sulle tracce di str
+ eghe\, veggenti e vicende esoteriche del passato. Info: https://www.even
+ tbrite.it/e/brescia-magica-tra-stregoneria-veggenza-e-antichi-segreti-es
+ oterici-tickets-2001032011613 (via @radarcremona)
+URL:https://www.eventbrite.it/e/brescia-magica-tra-stregoneria-veggenza-e
+ -antichi-segreti-esoterici-tickets-2001032011613
+END:VEVENT
+END:VCALENDAR

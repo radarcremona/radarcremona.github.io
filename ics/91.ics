@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-91@radarcremona
+DTSTAMP:20261029T072045Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Aspettando Santa Lucia
+LOCATION:Pegognaga\, Piazza Matteotti\, Pegognaga
+DESCRIPTION:Festa natalizia con intrattenimento dal vivo\, bancarelle e d
+ ecorazioni\, in attesa della ricorrenza di Santa Lucia. Info: https://sa
+ gramap.com/evento/aspettando-santa-lucia-pegognaga (via @radarcremona)
+URL:https://sagramap.com/evento/aspettando-santa-lucia-pegognaga
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1030@radarcremona
+DTSTAMP:20261029T072045Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Bottomless Pit
+LOCATION:Artètipi Parma\, 50 Strada Nino Bixio\, Parma
+DESCRIPTION:Laboratorio di illustrazione guidato da un'artista\, aperto a
+  chi vuole sperimentare il disegno. Info: https://www.eventbrite.com/e/b
+ iglietti-bottomless-pit-2003451790236 (via @radarcremona)
+URL:https://www.eventbrite.com/e/biglietti-bottomless-pit-2003451790236
+END:VEVENT
+END:VCALENDAR
