@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1049@radarcremona
+DTSTAMP:20261030T072027Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Brescia Misteriosa: Sangue Blu\, Anime Nere\, quattro secoli di f
+ atti di sangue
+LOCATION:Corso Magenta\, 68\, 25121 Brescia BS\, Italia\, Sagrato della c
+ hiesa di Sant’Afra in Sant’Eufemia\, Brescia
+DESCRIPTION:Incontro sul passato oscuro di Brescia\, con storie di delitt
+ i e vicende cupe attraverso i secoli. Info: https://allevents.in/brescia
+ /brescia-misteriosa-sangue-blu-anime-nere-quattro-secoli-di-fatti-di-san
+ gue/100001997848874765 (via @radarcremona)
+URL:https://allevents.in/brescia/brescia-misteriosa-sangue-blu-anime-nere
+ -quattro-secoli-di-fatti-di-sangue/100001997848874765
+END:VEVENT
+END:VCALENDAR

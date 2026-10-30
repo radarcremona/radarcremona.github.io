@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1052@radarcremona
+DTSTAMP:20261030T072027Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Viaggio nel Belcanto
+LOCATION:Strada Cava in Vigatto\, 61\, 43124 Parma\, Italy\, Strada Cava 
+ in Vigatto\, Parma
+DESCRIPTION:Spettacolo d'opera dedicato al belcanto\, la grande tradizion
+ e del canto lirico italiano. Info: https://allevents.in/parma/viaggio-ne
+ l-belcanto/200030907845624 (via @radarcremona)
+URL:https://allevents.in/parma/viaggio-nel-belcanto/200030907845624
+END:VEVENT
+END:VCALENDAR

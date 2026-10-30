@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1045@radarcremona
+DTSTAMP:20261030T072027Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:fiera piacenza expo
+LOCATION:Piacenza\, Piacenza\, Piacenza
+DESCRIPTION:Appuntamento fieristico a Piacenza Expo\, con una segnalazion
+ e di un museo che cerca un esperto. Info: https://allevents.in/piacenza/
+ fiera-piacenza-expo/200030933657010 (via @radarcremona)
+URL:https://allevents.in/piacenza/fiera-piacenza-expo/200030933657010
+END:VEVENT
+END:VCALENDAR

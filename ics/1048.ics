@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1048@radarcremona
+DTSTAMP:20261030T072027Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Brescia Esoterica: Simboli\, Luoghi Segreti e Misteri Nascosti
+LOCATION:P.za del Foro\, 7\, 25121 Brescia BS\, Italia\, Davanti civico 7
+ \, Brescia
+DESCRIPTION:Incontro dedicato al lato nascosto di Brescia\, tra simboli a
+ ntichi\, luoghi poco noti e storie enigmatiche. Info: https://allevents.
+ in/brescia/brescia-esoterica-simboli-luoghi-segreti-e-misteri-nascosti/1
+ 00001998748441393 (via @radarcremona)
+URL:https://allevents.in/brescia/brescia-esoterica-simboli-luoghi-segreti
+ -e-misteri-nascosti/100001998748441393
+END:VEVENT
+END:VCALENDAR

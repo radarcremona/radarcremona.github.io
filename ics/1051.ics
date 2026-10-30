@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1051@radarcremona
+DTSTAMP:20261030T072027Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:HALLOWEEN PARTY
+LOCATION:Piazza delle Terramare\, Piazza delle Terramare\, Parma
+DESCRIPTION:Serata musicale a tema Halloween\, pensata per ballare e dive
+ rtirsi in compagnia. Info: https://allevents.in/parma/halloween-party/20
+ 0030788951403 (via @radarcremona)
+URL:https://allevents.in/parma/halloween-party/200030788951403
+END:VEVENT
+END:VCALENDAR
