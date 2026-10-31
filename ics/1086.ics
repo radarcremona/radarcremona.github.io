@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1086@radarcremona
+DTSTAMP:20261031T072029Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Green Hill 15 anni dopo
+LOCATION:Piazzetta San Giorgio\, Piazzetta San Giorgio\, Brescia
+DESCRIPTION:Proiezione di un documentario che ricorda la vicenda di Green
+  Hill a quindici anni di distanza. Info: https://allevents.in/brescia/gr
+ een-hill-15-anni-dopo/100002003812260412 (via @radarcremona)
+URL:https://allevents.in/brescia/green-hill-15-anni-dopo/1000020038122604
+ 12
+END:VEVENT
+END:VCALENDAR

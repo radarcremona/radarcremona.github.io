@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1083@radarcremona
+DTSTAMP:20261031T072029Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Speed Date Brescia - Vincenzo Capuano - nowmeet
+LOCATION:Pizzeria Vincenzo Capuano Brescia\, 7 Piazzale Cremona\, Brescia
+DESCRIPTION:Serata di speed date a Brescia per conoscere persone nuove\, 
+ in programma domenica 15 novembre. Info: https://allevents.in/brescia/sp
+ eed-date-brescia-vincenzo-capuano-nowmeet/100002004063103691 (via @radar
+ cremona)
+URL:https://allevents.in/brescia/speed-date-brescia-vincenzo-capuano-nowm
+ eet/100002004063103691
+END:VEVENT
+END:VCALENDAR

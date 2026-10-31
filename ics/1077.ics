@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1077@radarcremona
+DTSTAMP:20261031T072029Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Visita Guidata a Palazzo Te: lo scrigno dei Gonzaga
+LOCATION:Viale Te\, 13\, 46100 Mantova MN\, Italia\, Davanti ingresso Pal
+ azzo Te\, Mantova
+DESCRIPTION:Visita guidata al palazzo mantovano voluto dai Gonzaga\, tra 
+ affreschi illusionistici e la spettacolare Sala dei Giganti. Info: https
+ ://www.eventbrite.it/e/visita-guidata-a-palazzo-te-lo-scrigno-dei-gonzag
+ a-tickets-2003240602568 (via @radarcremona)
+URL:https://www.eventbrite.it/e/visita-guidata-a-palazzo-te-lo-scrigno-de
+ i-gonzaga-tickets-2003240602568
+END:VEVENT
+END:VCALENDAR

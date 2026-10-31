@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1078@radarcremona
+DTSTAMP:20261031T072029Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:L' ULTIMO GIORNO DEL CIRCO
+LOCATION:Teatro Zero Negativo\, Via Tre Bocche\, Bedizzole
+DESCRIPTION:Spettacolo teatrale inserito in una rassegna ospitata dal Tea
+ tro Zero Negativo\, con tema legato al mondo del circo. Info: https://ww
+ w.eventbrite.it/e/l-ultimo-giorno-del-circo-tickets-2003942796850 (via @
+ radarcremona)
+URL:https://www.eventbrite.it/e/l-ultimo-giorno-del-circo-tickets-2003942
+ 796850
+END:VEVENT
+END:VCALENDAR

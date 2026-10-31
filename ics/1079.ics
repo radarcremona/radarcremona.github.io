@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1079@radarcremona
+DTSTAMP:20261031T072029Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:GELOSIA
+LOCATION:V.Solferino\, 14\, 14 Via Solferino\, Brescia
+DESCRIPTION:Evento dal titolo Gelosia\, di cui non sono noti altri dettag
+ li\, probabilmente a tema culturale o di intrattenimento. Info: https://
+ allevents.in/brescia/gelosia/100002003974648118 (via @radarcremona)
+URL:https://allevents.in/brescia/gelosia/100002003974648118
+END:VEVENT
+END:VCALENDAR

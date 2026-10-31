@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1082@radarcremona
+DTSTAMP:20261031T072029Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:SMACK! #5 - La Cabina Armadio
+LOCATION:Spettro\, Via Arnaldo Soldini 51\, Brescia
+DESCRIPTION:Quinto appuntamento di una serie cabaret queer\, con una visi
+ ta tra misteri e costumi nascosti nell'armadio. Info: https://allevents.
+ in/brescia/smack-5-la-cabina-armadio/100002004013478260 (via @radarcremo
+ na)
+URL:https://allevents.in/brescia/smack-5-la-cabina-armadio/10000200401347
+ 8260
+END:VEVENT
+END:VCALENDAR

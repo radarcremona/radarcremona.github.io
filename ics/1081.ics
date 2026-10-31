@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1081@radarcremona
+DTSTAMP:20261031T072029Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Festival Franciacorta a Brescia - Wine Experience
+LOCATION:Associazione Culturale C.AR.M.E.\, 61/1 Via delle Battaglie\, Br
+ escia
+DESCRIPTION:Degustazione di oltre duecento etichette di Franciacorta a Br
+ escia\, accompagnate da prodotti da forno. Info: https://allevents.in/br
+ escia/festival-franciacorta-a-brescia-wine-experience/100002003295125648
+  (via @radarcremona)
+URL:https://allevents.in/brescia/festival-franciacorta-a-brescia-wine-exp
+ erience/100002003295125648
+END:VEVENT
+END:VCALENDAR
