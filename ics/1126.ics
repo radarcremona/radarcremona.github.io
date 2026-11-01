@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1126@radarcremona
+DTSTAMP:20261101T072033Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261207
+SUMMARY:Pompieri in Festa
+LOCATION:Vezza d'Oglio\, Via del Piano\, Vezza d'Oglio
+DESCRIPTION:Festa popolare dedicata ai vigili del fuoco\, in programma a 
+ Vezza d'Oglio tra fine novembre e inizio dicembre 2026. Info: https://sa
+ gramap.com/evento/pompieri-in-festa-vezza-doglio (via @radarcremona)
+URL:https://sagramap.com/evento/pompieri-in-festa-vezza-doglio
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1125@radarcremona
+DTSTAMP:20261101T072033Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Marché de NOEL - 3 Edizione a Roncoferraro MN c/o Villa Cavriani
+LOCATION:Villa Cavriani\, Via Garolda\, Mantova
+DESCRIPTION:Mercatino natalizio in una villa storica di Roncoferraro\, co
+ n articoli artigianali e atmosfera delle feste\, alla terza edizione. In
+ fo: https://allevents.in/mantova/marché-de-noel-3°-edizione-a-roncofer
+ raro-mn-c-o-villa-cavriani/200030844721831 (via @radarcremona)
+URL:https://allevents.in/mantova/marché-de-noel-3°-edizione-a-roncoferr
+ aro-mn-c-o-villa-cavriani/200030844721831
+END:VEVENT
+END:VCALENDAR

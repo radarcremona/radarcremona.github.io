@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1111@radarcremona
+DTSTAMP:20261101T072033Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261113
+SUMMARY:Laser HUB
+LOCATION:Piacenza Expo\, 11 Via Tirotti\, Piacenza
+DESCRIPTION:Fiera dedicata alle tecnologie laser\, pensata come punto di 
+ ritrovo per aziende e operatori del settore. Info: https://www.eventbrit
+ e.it/e/biglietti-laser-hub-1992747046058 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-laser-hub-1992747046058
+END:VEVENT
+END:VCALENDAR

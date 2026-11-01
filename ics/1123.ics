@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1123@radarcremona
+DTSTAMP:20261101T072033Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Visita Guidata al Palazzo Ducale di Mantova
+LOCATION:Piazza Sordello\, 40\, 46100 Mantova MN\, Italia\, Davanti Ingre
+ sso Palazzo Ducale\, Mantova
+DESCRIPTION:Visita accompagnata nella grande residenza dei Gonzaga a Mant
+ ova\, tra appartamenti nobiliari\, affreschi e opere d'arte. Info: https
+ ://www.eventbrite.co.uk/e/visita-guidata-al-palazzo-ducale-di-mantova-ti
+ ckets-2001022033769 (via @radarcremona)
+URL:https://www.eventbrite.co.uk/e/visita-guidata-al-palazzo-ducale-di-ma
+ ntova-tickets-2001022033769
+END:VEVENT
+END:VCALENDAR

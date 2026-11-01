@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1108@radarcremona
+DTSTAMP:20261101T072033Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Visita Guidata al Complesso Monumentale della Pilotta
+LOCATION:Piazza della Pilotta\, 5\, 43121 Parma PR\, Italia\, Sotto i vol
+ toni\, Parma
+DESCRIPTION:Visita guidata a Parma tra collezioni d'arte\, grandi pittori
+  e lo storico teatro in legno dei Farnese. Info: https://www.eventbrite.
+ co.uk/e/visita-guidata-al-complesso-monumentale-della-pilotta-tickets-19
+ 99782824260 (via @radarcremona)
+URL:https://www.eventbrite.co.uk/e/visita-guidata-al-complesso-monumental
+ e-della-pilotta-tickets-1999782824260
+END:VEVENT
+END:VCALENDAR

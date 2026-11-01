@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1109@radarcremona
+DTSTAMP:20261101T072033Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Open Lab Liceo delle Scienze Applicate secondo turno
+LOCATION:IIS Janello Torriani\, 19 Via Seminario\, Cremona
+DESCRIPTION:Giornata di porte aperte al liceo per ragazzi delle medie e f
+ amiglie\, con laboratori pratici e lezioni dimostrative. Info: https://a
+ llevents.in/cremona/open-lab-liceo-delle-scienze-applicate-secondo-turno
+ /100001993810366478 (via @radarcremona)
+URL:https://allevents.in/cremona/open-lab-liceo-delle-scienze-applicate-s
+ econdo-turno/100001993810366478
+END:VEVENT
+END:VCALENDAR

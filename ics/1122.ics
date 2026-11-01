@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1122@radarcremona
+DTSTAMP:20261101T072033Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:"Il Mondo Che Ci Meritiamo" - RELEASE PARTY
+LOCATION:Associazione 21\, 24 Via San Fereolo\, Lodi
+DESCRIPTION:Serata di presentazione del primo singolo di Andrea Castrigna
+ no\, con ascolto in anteprima prima dell'uscita ufficiale. Info: https:/
+ /allevents.in/lodi/il-mondo-che-ci-meritiamo-release-party/1000020038953
+ 25863 (via @radarcremona)
+URL:https://allevents.in/lodi/il-mondo-che-ci-meritiamo-release-party/100
+ 002003895325863
+END:VEVENT
+END:VCALENDAR

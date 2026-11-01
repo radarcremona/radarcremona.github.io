@@ -4,16 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1084@radarcremona
-DTSTAMP:20261031T072029Z
+DTSTAMP:20261101T072033Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Festival Franciacorta a Brescia - Banco d'assaggio
 LOCATION:Museo Diocesano di Brescia\, 13 Via Gasparo da Salò\, Brescia
 DESCRIPTION:Assaggi di vini Franciacorta di cinquantaquattro cantine\, co
  n due masterclass di approfondimento al Museo Diocesano di Brescia. Info
- : https://allevents.in/brescia/festival-franciacorta-a-brescia-banco-das
- saggio/100002003296074486 (via @radarcremona)
-URL:https://allevents.in/brescia/festival-franciacorta-a-brescia-banco-da
- ssaggio/100002003296074486
+ : https://www.eventbrite.com/e/biglietti-festival-franciacorta-a-brescia
+ -banco-dassaggio-2003296074486 (via @radarcremona)
+URL:https://www.eventbrite.com/e/biglietti-festival-franciacorta-a-bresci
+ a-banco-dassaggio-2003296074486
 END:VEVENT
 END:VCALENDAR
