@@ -4,13 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1124@radarcremona
-DTSTAMP:20261101T072033Z
+DTSTAMP:20261102T072041Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Il Lago dei Cigni - European Classical Ballet
 LOCATION:Teatro Sociale di Mantova\, Piazza Felice Cavallotti\, Mantova
-DESCRIPTION:Info: https://allevents.in/mantova/il-lago-dei-cigni-european
- -classical-ballet/200030857725113 (via @radarcremona)
+DESCRIPTION:Spettacolo di danza classica con un celebre balletto ottocent
+ esco\, portato a Mantova da una compagnia europea. Info: https://alleven
+ ts.in/mantova/il-lago-dei-cigni-european-classical-ballet/20003085772511
+ 3 (via @radarcremona)
 URL:https://allevents.in/mantova/il-lago-dei-cigni-european-classical-bal
  let/200030857725113
 END:VEVENT

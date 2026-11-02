@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1196@radarcremona
+DTSTAMP:20261102T072041Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Spiedo di Sant'Andrea
+LOCATION:Iseo\, Viale Repubblica\, Iseo
+DESCRIPTION:Appuntamento gastronomico ad Iseo dedicato allo spiedo\, giun
+ to alla diciassettesima edizione. Info: https://sagramap.com/evento/spie
+ do-di-santandrea-iseo (via @radarcremona)
+URL:https://sagramap.com/evento/spiedo-di-santandrea-iseo
+END:VEVENT
+END:VCALENDAR

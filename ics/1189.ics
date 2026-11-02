@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1189@radarcremona
+DTSTAMP:20261102T072041Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Apericommander @ The Lab
+LOCATION:The Lab - Drink&amp\;Play\, 12 Via Guido Rossa\, Lodi
+DESCRIPTION:Serata dedicata a Magic nel formato Commander\, da vivere tra
+  una partita\, un cocktail e qualcosa da mangiare. Info: https://alleven
+ ts.in/lodi/apericommander-the-lab/100001337178329379 (via @radarcremona)
+URL:https://allevents.in/lodi/apericommander-the-lab/100001337178329379
+END:VEVENT
+END:VCALENDAR

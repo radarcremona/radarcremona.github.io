@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1197@radarcremona
+DTSTAMP:20261102T072041Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Festa Santa Cecilia
+LOCATION:Paitone\, Piazza Pertini\, Paitone
+DESCRIPTION:Festa patronale a Paitone in onore della santa dei musicisti\
+ , con possibilità di mangiare sul posto. Info: https://sagramap.com/eve
+ nto/festa-santa-cecilia-paitone (via @radarcremona)
+URL:https://sagramap.com/evento/festa-santa-cecilia-paitone
+END:VEVENT
+END:VCALENDAR

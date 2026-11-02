@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1188@radarcremona
+DTSTAMP:20261102T072041Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Role Knight - la k è muta @ The Lab
+LOCATION:The Lab - Drink&amp\;Play\, 12 Via Guido Rossa\, Lodi
+DESCRIPTION:Serata di giochi di ruolo da tavolo aperta a chi vuole incont
+ rare altri appassionati. Info: https://allevents.in/lodi/role-knight-la-
+ k-è-muta-the-lab/10000859984947127 (via @radarcremona)
+URL:https://allevents.in/lodi/role-knight-la-k-è-muta-the-lab/1000085998
+ 4947127
+END:VEVENT
+END:VCALENDAR

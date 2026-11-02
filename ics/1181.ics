@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1181@radarcremona
+DTSTAMP:20261102T072041Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Open Lab Liceo Scientifico Sportivo secondo turno
+LOCATION:IIS Janello Torriani\, 19 Via Seminario\, Cremona
+DESCRIPTION:Giornata di orientamento per ragazzi delle medie e famiglie\,
+  con visita della scuola e attività di laboratorio. Info: https://allev
+ ents.in/cremona/open-lab-liceo-scientifico-sportivo-secondo-turno/100001
+ 993809050542 (via @radarcremona)
+URL:https://allevents.in/cremona/open-lab-liceo-scientifico-sportivo-seco
+ ndo-turno/100001993809050542
+END:VEVENT
+END:VCALENDAR

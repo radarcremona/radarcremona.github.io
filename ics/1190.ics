@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1190@radarcremona
+DTSTAMP:20261102T072041Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20270201
+SUMMARY:Natale a Poggio
+LOCATION:Poggio Rusco\, Poggio Rusco
+DESCRIPTION:Villaggio natalizio a Poggio Rusco con pattinaggio sul ghiacc
+ io e presepe vivente\, aperto per diverse settimane. Info: https://sagra
+ map.com/evento/natale-a-poggio-poggio-rusco (via @radarcremona)
+URL:https://sagramap.com/evento/natale-a-poggio-poggio-rusco
+END:VEVENT
+END:VCALENDAR

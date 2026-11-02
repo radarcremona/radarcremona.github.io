@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1182@radarcremona
+DTSTAMP:20261102T072041Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261207
+SUMMARY:Aspettando il Natale a Vigoleno
+LOCATION:Vernasca\, Vigoleno\, Vernasca
+DESCRIPTION:Weekend di avvicinamento alle feste a Vigoleno\, con un merca
+ tino di prodotti fatti a mano. Info: https://sagramap.com/evento/aspetta
+ ndo-il-natale-a-vigoleno-vernasca (via @radarcremona)
+URL:https://sagramap.com/evento/aspettando-il-natale-a-vigoleno-vernasca
+END:VEVENT
+END:VCALENDAR

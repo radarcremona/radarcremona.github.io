@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1186@radarcremona
+DTSTAMP:20261102T072041Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261119
+SUMMARY:Fiera Autunnale di Codogno
+LOCATION:Codogno\, Via Vittorio Emanuele II\, Codogno
+DESCRIPTION:Storico appuntamento autunnale di Codogno con bancarelle e fe
+ sta cittadina\, giunto alla duecentotrentacinquesima edizione. Info: htt
+ ps://sagramap.com/evento/fiera-autunnale-di-codogno (via @radarcremona)
+URL:https://sagramap.com/evento/fiera-autunnale-di-codogno
+END:VEVENT
+END:VCALENDAR

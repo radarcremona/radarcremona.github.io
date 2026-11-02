@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1179@radarcremona
+DTSTAMP:20261102T072041Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261105
+SUMMARY:Fiera di San Carlo
+LOCATION:Casalmaggiore\, Piazza Garibaldi\, Casalmaggiore
+DESCRIPTION:Storica fiera di Casalmaggiore che festeggia il centenario\, 
+ ospitata nella piazza centrale per diversi giorni. Info: https://sagrama
+ p.com/evento/fiera-di-san-carlo-casalmaggiore (via @radarcremona)
+URL:https://sagramap.com/evento/fiera-di-san-carlo-casalmaggiore
+END:VEVENT
+END:VCALENDAR

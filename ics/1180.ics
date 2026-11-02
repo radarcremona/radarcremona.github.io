@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1180@radarcremona
+DTSTAMP:20261102T072041Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Festa di Santa Lucia di Robecco d'Oglio
+LOCATION:Robecco d'Oglio\, Robecco d'Oglio
+DESCRIPTION:Quarta edizione della festa dedicata alla santa della luce\, 
+ che si svolge a Robecco d'Oglio. Info: https://sagramap.com/evento/festa
+ -di-santa-lucia-di-robecco-doglio (via @radarcremona)
+URL:https://sagramap.com/evento/festa-di-santa-lucia-di-robecco-doglio
+END:VEVENT
+END:VCALENDAR

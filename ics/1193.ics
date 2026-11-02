@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1193@radarcremona
+DTSTAMP:20261102T072041Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:E’ sempre possibile chiudere la parete addominale nell' addome 
+ complesso?" Casi clinici e discussion
+LOCATION:Hotel La Favorita Mantova\, Via S.Cognetti De Martiis\, Mantova
+DESCRIPTION:Workshop formativo di due giorni per chirurghi\, con esperti 
+ nazionali che analizzano casi clinici sulla chirurgia addominale. Info: 
+ https://allevents.in/mantova/e-sempre-possibile-chiudere-la-parete-addom
+ inale-nell-addome-complesso-casi-clinici-e-discussion/200030908406804 (v
+ ia @radarcremona)
+URL:https://allevents.in/mantova/e-sempre-possibile-chiudere-la-parete-ad
+ dominale-nell-addome-complesso-casi-clinici-e-discussion/200030908406804
+END:VEVENT
+END:VCALENDAR

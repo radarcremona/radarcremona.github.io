@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1192@radarcremona
+DTSTAMP:20261102T072041Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Monologhi d'autore
+LOCATION:Teatro Ristori\, 7 Via Teatro Ristori\, Verona
+DESCRIPTION:Giornata dedicata alla letteratura\, tra letture di autori di
+  una casa editrice e un laboratorio di scrittura. Info: https://www.even
+ tbrite.it/e/biglietti-monologhi-dautore-2003654997033 (via @radarcremona
+ )
+URL:https://www.eventbrite.it/e/biglietti-monologhi-dautore-2003654997033
+END:VEVENT
+END:VCALENDAR

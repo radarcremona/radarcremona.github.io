@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1185@radarcremona
+DTSTAMP:20261102T072041Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:GIANMARCO CARROCCIA – EMOZIONI TOUR | PIACENZA Teatro Politeama
+  11 Dicembre 2026
+LOCATION:Teatro Politeama Piacenza\, Via San Siro\, Piacenza
+DESCRIPTION:Concerto teatrale a Piacenza che ripercorre il repertorio di 
+ una storica coppia della canzone italiana. Info: https://allevents.in/pi
+ acenza/gianmarco-carroccia-emozioni-tour-piacenza-teatro-politeama-11-di
+ cembre-2026/200030814487028 (via @radarcremona)
+URL:https://allevents.in/piacenza/gianmarco-carroccia-emozioni-tour-piace
+ nza-teatro-politeama-11-dicembre-2026/200030814487028
+END:VEVENT
+END:VCALENDAR

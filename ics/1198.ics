@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1198@radarcremona
+DTSTAMP:20261102T072041Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Fiera di Sant'Andrea
+LOCATION:Concesio\, Via Sant'Andrea X\, Concesio
+DESCRIPTION:Tradizionale fiera di paese a Concesio dedicata al santo patr
+ ono\, con cibo da gustare in loco. Info: https://sagramap.com/evento/fie
+ ra-di-santandrea-concesio (via @radarcremona)
+URL:https://sagramap.com/evento/fiera-di-santandrea-concesio
+END:VEVENT
+END:VCALENDAR

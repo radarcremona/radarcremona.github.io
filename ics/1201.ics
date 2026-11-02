@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1201@radarcremona
+DTSTAMP:20261102T072041Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Visita Guidata al Castello di Torrechiara: Fortezza inespugnabile
+  e nido d’amore\, tra Storia e Leggende
+LOCATION:Str. del Castello\, 43013 Langhirano PR\, Italia\, di fronte all
+ a chiesa di San Lorenzo\, Provincia di Parma
+DESCRIPTION:Visita guidata a una fortezza medievale del Parmense\, tra vi
+ cende di potere\, storie d'amore e leggende. Info: https://www.eventbrit
+ e.co.uk/e/visita-guidata-al-castello-di-torrechiara-fortezza-inespugnabi
+ le-e-nido-damore-tra-storia-e-leggende-tickets-1999782903497 (via @radar
+ cremona)
+URL:https://www.eventbrite.co.uk/e/visita-guidata-al-castello-di-torrechi
+ ara-fortezza-inespugnabile-e-nido-damore-tra-storia-e-leggende-tickets-1
+ 999782903497
+END:VEVENT
+END:VCALENDAR
