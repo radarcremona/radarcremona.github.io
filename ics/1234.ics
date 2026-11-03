@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1234@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:XL Speciale 8 Dicembre dalle 12!
+LOCATION:El Viejo Almacen Papelero\, Strada Chiesanuova 27/i\, Mantova
+DESCRIPTION:Pomeriggio di musica con due dj in un locale\, dal primo pome
+ riggio fino a sera. Info: https://allevents.in/mantova/xl-speciale-8-dic
+ embre-dalle-12/200030956599450 (via @radarcremona)
+URL:https://allevents.in/mantova/xl-speciale-8-dicembre-dalle-12/20003095
+ 6599450
+END:VEVENT
+END:VCALENDAR

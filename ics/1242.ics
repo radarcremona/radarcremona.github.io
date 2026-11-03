@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1242@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Free #4 Mavarta Music Live
+LOCATION:via Piave 2\, 42049 Sant'Ilario d'Enza\, Italy\, Via Piave\, Par
+ ma
+DESCRIPTION:Serata di musica dal vivo\, quarto appuntamento di una serie 
+ a ingresso libero. Info: https://allevents.in/parma/free-4-mavarta-music
+ -live/200030958798644 (via @radarcremona)
+URL:https://allevents.in/parma/free-4-mavarta-music-live/200030958798644
+END:VEVENT
+END:VCALENDAR

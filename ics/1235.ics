@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1235@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:IL POVERO PIERO E IL CARO ESTINTO
+LOCATION:Porto Mantovano\, Porto Mantovano\, Mantova
+DESCRIPTION:Commedia brillante in cui due famiglie bizzarre si ritrovano 
+ coinvolte in una serie di equivoci. Info: https://allevents.in/mantova/i
+ l-povero-piero-e-il-caro-estinto/200030960854810 (via @radarcremona)
+URL:https://allevents.in/mantova/il-povero-piero-e-il-caro-estinto/200030
+ 960854810
+END:VEVENT
+END:VCALENDAR

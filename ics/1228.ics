@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1228@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:II River Gravel
+LOCATION:Via Roma 17\, 29029 Rivergaro\, Italy\, Via Roma\, Piacenza
+DESCRIPTION:Giro in bicicletta gravel in Val Trebbia\, con traccia gps e 
+ possibilità di provare bici. Info: https://allevents.in/piacenza/ii-riv
+ er-gravel/200030955534017 (via @radarcremona)
+URL:https://allevents.in/piacenza/ii-river-gravel/200030955534017
+END:VEVENT
+END:VCALENDAR

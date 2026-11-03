@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1225@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:La Magia del Natale • Proposte Creative
+LOCATION:Via Roma\, 29010 San Pietro in Cerro PC\, Italia\, Via Melchiorr
+ e Gioia\, Cremona
+DESCRIPTION:Info: https://allevents.in/cremona/la-magia-del-natale-•-pr
+ oposte-creative/200030960165604 (via @radarcremona)
+URL:https://allevents.in/cremona/la-magia-del-natale-•-proposte-creativ
+ e/200030960165604
+END:VEVENT
+END:VCALENDAR

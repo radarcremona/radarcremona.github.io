@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1244@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:GREEK EAT FEST A PARMA
+LOCATION:Piazza Ghiaia\, Piazza Ghiaia\, Parma
+DESCRIPTION:Due giorni a Parma dedicati alla cucina greca\, con assaggi\,
+  musica tradizionale e atmosfera mediterranea. Info: https://allevents.i
+ n/parma/greek-eat-fest-a-parma/200030954823050 (via @radarcremona)
+URL:https://allevents.in/parma/greek-eat-fest-a-parma/200030954823050
+END:VEVENT
+END:VCALENDAR

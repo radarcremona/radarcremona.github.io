@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1245@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261115
+SUMMARY:SUNER - Blak Saagan + Tinder Youth @ Arci CDC Parma
+LOCATION:Arci CDC Parma\, Viale Mentana\, Parma
+DESCRIPTION:Tappa parmense di un festival itinerante nei circoli Arci\, c
+ on più gruppi musicali dal vivo. Info: https://allevents.in/parma/suner
+ -blak-saagan-tinder-youth-arci-cdc-parma/200030958800455 (via @radarcrem
+ ona)
+URL:https://allevents.in/parma/suner-blak-saagan-tinder-youth-arci-cdc-pa
+ rma/200030958800455
+END:VEVENT
+END:VCALENDAR

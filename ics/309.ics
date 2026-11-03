@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-309@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261221
+SUMMARY:Chicho y Juana Seminar (December 2026)
+LOCATION:El Viejo Almacen Papelero\, Strada Chiesanuova 27/i\, Mantova
+DESCRIPTION:Seminario di approfondimento dedicato a una coppia di insegna
+ nti\, in programma a dicembre. Info: https://allevents.in/mantova/chicho
+ -y-juana-seminar-december-2026/200030791335509 (via @radarcremona)
+URL:https://allevents.in/mantova/chicho-y-juana-seminar-december-2026/200
+ 030791335509
+END:VEVENT
+END:VCALENDAR

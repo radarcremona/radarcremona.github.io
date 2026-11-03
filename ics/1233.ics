@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1233@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:TEMPLARI - Lodi
+LOCATION:Aula Magna Liceo Classico Pietro Verri\, Lodi\, Lodi
+DESCRIPTION:Una storica medievista racconta i Cavalieri del Tempio in una
+  narrazione divulgativa dedicata agli appassionati del Medioevo. Info: h
+ ttps://allevents.in/lodi/templari-lodi/200030955445600 (via @radarcremon
+ a)
+URL:https://allevents.in/lodi/templari-lodi/200030955445600
+END:VEVENT
+END:VCALENDAR

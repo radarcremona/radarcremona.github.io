@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1240@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:2º memorial Dario Balestra
+LOCATION:Vertigo Parma\, Strada Manara 54/A\, Parma
+DESCRIPTION:Evento sportivo in ricordo di Dario Balestra\, giunto alla se
+ conda edizione. Info: https://allevents.in/parma/2º-memorial-dario-bale
+ stra/200030960801625 (via @radarcremona)
+URL:https://allevents.in/parma/2º-memorial-dario-balestra/20003096080162
+ 5
+END:VEVENT
+END:VCALENDAR

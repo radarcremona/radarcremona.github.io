@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-570@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:THE SPIRIT OF GOSPEL CHRISTMAS
+LOCATION:Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele II 52\, Cre
+ mona
+DESCRIPTION:Concerto di musica gospel a tema natalizio. Info: https://www
+ .teatroponchielli.it/spettacolo/the-spirit-of-gospel-christmas/ (via @ra
+ darcremona)
+URL:https://www.teatroponchielli.it/spettacolo/the-spirit-of-gospel-chris
+ tmas/
+END:VEVENT
+END:VCALENDAR

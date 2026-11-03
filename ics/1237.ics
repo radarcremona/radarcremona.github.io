@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1237@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:TEMPLARI - Brescia
+LOCATION:Teatro Sant'afra\, vicolo dell'ortaglia 6\, Brescia
+DESCRIPTION:Una storica medievista racconta i Cavalieri del Tempio in una
+  narrazione divulgativa dedicata agli appassionati del Medioevo. Info: h
+ ttps://allevents.in/brescia/templari-brescia/200030959658611 (via @radar
+ cremona)
+URL:https://allevents.in/brescia/templari-brescia/200030959658611
+END:VEVENT
+END:VCALENDAR

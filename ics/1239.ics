@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1239@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:FUCKSIA LIVE BENEFIT PER LA PALESTINA @CDC
+LOCATION:V.le Mentana\, 31/A\, Parma\, Emilia-Romagna\, Viale Mentana\, P
+ arma
+DESCRIPTION:Serata di musica dal vivo a scopo benefico per la Palestina\,
+  ospitata in un circolo di Parma. Info: https://allevents.in/parma/fucks
+ ia-live-benefit-per-la-palestina-cdc/200030960002902 (via @radarcremona)
+URL:https://allevents.in/parma/fucksia-live-benefit-per-la-palestina-cdc/
+ 200030960002902
+END:VEVENT
+END:VCALENDAR

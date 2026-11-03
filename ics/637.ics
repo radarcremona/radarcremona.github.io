@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-637@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:STRADIVARI Memorialday
+LOCATION:Auditorium G. Arvedi\, Museo del Violino\, piazza Marconi\, Crem
+ ona
+DESCRIPTION:Serata del festival cremonese con violino\, clarinetto e pian
+ oforte su musiche di Ives\, Menotti\, Stravinsky\, Gershwin e Bartók. I
+ nfo: https://www.turismocremona.it/it/evento/stradivari-memorialday-2 (v
+ ia @radarcremona)
+URL:https://www.turismocremona.it/it/evento/stradivari-memorialday-2
+END:VEVENT
+END:VCALENDAR

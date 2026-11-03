@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1138@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261104
+SUMMARY:Crack the codes of Parma with our thrilling outdoor escape game!
+LOCATION:Parco Ducale\, 3 Largo Luca Ganzi\, Parma
+DESCRIPTION:Gioco a squadre all'aperto per le vie di Parma\, tra indovine
+ lli da risolvere e angoli da scoprire. Info: https://allevents.in/parma/
+ crack-the-codes-of-parma-with-our-thrilling-outdoor-escape-game/10000125
+ 7972532709 (via @radarcremona)
+URL:https://allevents.in/parma/crack-the-codes-of-parma-with-our-thrillin
+ g-outdoor-escape-game/100001257972532709
+END:VEVENT
+END:VCALENDAR

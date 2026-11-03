@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1276@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Perché ci caschiamo? La psicologia della truffa
+LOCATION:Comando Polizia Locale\, piazza Libertà\, Cremona
+DESCRIPTION:Incontro dedicato alla psicologia dietro i raggiri\, nell'amb
+ ito di un progetto per proteggere le persone anziane. Info: https://www.
+ comune.cremona.it/vivere-comune/eventi/perche-ci-caschiamo-psicologia-de
+ lla-truffa (via @radarcremona)
+URL:https://www.comune.cremona.it/vivere-comune/eventi/perche-ci-caschiam
+ o-psicologia-della-truffa
+END:VEVENT
+END:VCALENDAR

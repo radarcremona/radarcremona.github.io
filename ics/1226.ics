@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1226@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:14 Novembre FitnessWalk Piacenza Parco della Galleana
+LOCATION:Parcheggio adiacente ingresso del &quot\;Parco della Galleana&qu
+ ot\; in Via Giuseppe Manfredi\, 91\, 29122 Piacenza PC\, Via Giuseppe Ma
+ nfredi\, Piacenza
+DESCRIPTION:Camminata di gruppo a Piacenza che unisce allenamento\, socia
+ lità e movimento all'aperto in un parco cittadino. Info: https://alleve
+ nts.in/piacenza/14-novembre-fitnesswalk-piacenza-parco-della-galleana/20
+ 0030956108446 (via @radarcremona)
+URL:https://allevents.in/piacenza/14-novembre-fitnesswalk-piacenza-parco-
+ della-galleana/200030956108446
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1241@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Barezzi Off - Santamarea Live - The Hub
+LOCATION:Via A. Zerbini 10/E\, 43125 Parma\, Italy\, Via Alfredo Zerbini\
+ , Parma
+DESCRIPTION:Concerto dal vivo di un gruppo musicale all'interno di una ra
+ ssegna parmense dedicata alla musica emergente. Info: https://allevents.
+ in/parma/barezzi-off-santamarea-live-the-hub/200030955177142 (via @radar
+ cremona)
+URL:https://allevents.in/parma/barezzi-off-santamarea-live-the-hub/200030
+ 955177142
+END:VEVENT
+END:VCALENDAR

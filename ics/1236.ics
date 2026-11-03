@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1236@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:CONCERTO SOLIDALE DI NATALE
+LOCATION:Auditorium di San Barnaba\, 44 Corso Magenta\, Brescia
+DESCRIPTION:Serata benefica a Brescia con musica\, cultura e una lotteria
+  a favore di iniziative di solidarietà. Info: https://www.eventbrite.it
+ /e/registrazione-concerto-solidale-di-natale-2003701989589 (via @radarcr
+ emona)
+URL:https://www.eventbrite.it/e/registrazione-concerto-solidale-di-natale
+ -2003701989589
+END:VEVENT
+END:VCALENDAR

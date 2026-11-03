@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-327@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Arisa in Mantova
+LOCATION:PalaUnical Teatro\, PalaUnical Teatro\, Mantova
+DESCRIPTION:Concerto della cantante Arisa al PalaUnical di Mantova\, con 
+ i suoi brani più noti. Info: https://allevents.in/mantova/arisa-in-mant
+ ova/3300030148232847 (via @radarcremona)
+URL:https://allevents.in/mantova/arisa-in-mantova/3300030148232847
+END:VEVENT
+END:VCALENDAR

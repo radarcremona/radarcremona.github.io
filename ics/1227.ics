@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1227@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:HARDCORE for PALESTINE
+LOCATION:Cooperativa Popolare Infrangibile 1946\, via Alessandria 16\, Pi
+ acenza
+DESCRIPTION:Serata di musica hardcore a sostegno della popolazione palest
+ inese\, con il ricavato devoluto a un'organizzazione di aiuto. Info: htt
+ ps://allevents.in/piacenza/hardcore-for-palestine/200030961168105 (via @
+ radarcremona)
+URL:https://allevents.in/piacenza/hardcore-for-palestine/200030961168105
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1243@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Jaime Dolce’s Innersole + P.O.G. + KOVOT
+LOCATION:V.le Mentana\, 31/A\, 43121 Parma\, Italy\, Viale Mentana\, Parm
+ a
+DESCRIPTION:Serata di concerti con tre gruppi musicali sul palco. Info: h
+ ttps://allevents.in/parma/jaime-dolces-innersole-pog-kovot/2000309587995
+ 48 (via @radarcremona)
+URL:https://allevents.in/parma/jaime-dolces-innersole-pog-kovot/200030958
+ 799548
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1229@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:MEDICINA DI GENERE
+LOCATION:Cooperativa Popolare Infrangibile 1946\, Via Alessandria\, Piace
+ nza
+DESCRIPTION:Ciclo mensile di incontri sulla salute con attenzione alle di
+ fferenze di genere\, in vista di due date simbolo. Info: https://alleven
+ ts.in/piacenza/medicina-di-genere/200030961096739 (via @radarcremona)
+URL:https://allevents.in/piacenza/medicina-di-genere/200030961096739
+END:VEVENT
+END:VCALENDAR

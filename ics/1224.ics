@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1224@radarcremona
+DTSTAMP:20261103T072032Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Concerto del Coro Vôs de Mont di Marco Maiero
+LOCATION:Auditorium G. Arvedi\, Piazza G.Marconi 5\, Cremona
+DESCRIPTION:Concerto di un coro di montagna\, con biglietti da prenotare 
+ tramite la sezione del Cai di Cremona. Info: https://allevents.in/cremon
+ a/concerto-del-coro-vôs-de-mont-di-marco-maiero/200030960166614 (via @r
+ adarcremona)
+URL:https://allevents.in/cremona/concerto-del-coro-vôs-de-mont-di-marco-
+ maiero/200030960166614
+END:VEVENT
+END:VCALENDAR
