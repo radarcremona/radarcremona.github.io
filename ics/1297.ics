@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1297@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:BUON COMPLEANNO COUNTRY STAR !!
+LOCATION:Via Chiese 21\, Tripoli\, 46030 Mantua\, Italy\, Polisportiva la
+  Stella Asd\, Mantova
+DESCRIPTION:Serata country con cena e dopocena danzante per festeggiare u
+ n compleanno\, con il dj Robby ospite. Info: https://allevents.in/mantov
+ a/buon-compleanno-country-star/200030962896225 (via @radarcremona)
+URL:https://allevents.in/mantova/buon-compleanno-country-star/20003096289
+ 6225
+END:VEVENT
+END:VCALENDAR

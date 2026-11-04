@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-170@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Corso di cucina: Natale è...
+LOCATION:Smeg Store Reggio Emilia\, 5M Via Gramsci\, Reggio Emilia
+DESCRIPTION:Corso di cucina per imparare a preparare piatti da servire a 
+ tavola durante le feste natalizie. Info: https://www.eventbrite.it/e/cor
+ so-di-cucina-natale-e-tickets-2000418240808 (via @radarcremona)
+URL:https://www.eventbrite.it/e/corso-di-cucina-natale-e-tickets-20004182
+ 40808
+END:VEVENT
+END:VCALENDAR

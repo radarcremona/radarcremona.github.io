@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1333@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261130
+SUMMARY:Il suono di Stradivari – audizioni con strumenti storici
+LOCATION:Auditorium Giovanni Arvedi\, Piazza Marconi\, Cremona
+DESCRIPTION:Concerto di solisti che fanno ascoltare dal vivo celebri viol
+ ini storici della grande liuteria cremonese. Info: https://www.comune.cr
+ emona.it/vivere-comune/eventi/suono-stradivari-audizioni-strumenti-stori
+ ci-25 (via @radarcremona)
+URL:https://www.comune.cremona.it/vivere-comune/eventi/suono-stradivari-a
+ udizioni-strumenti-storici-25
+END:VEVENT
+END:VCALENDAR

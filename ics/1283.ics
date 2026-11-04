@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1283@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Stage al mattino - Informatica
+LOCATION:Via Matilde di Canossa\, 21\, 21 Via Matilde di Canossa\, Crema
+DESCRIPTION:Mattinata di prova guidata per conoscere da vicino il percors
+ o scolastico di informatica. Info: https://www.eventbrite.it/e/stage-al-
+ mattino-informatica-tickets-2004044448894 (via @radarcremona)
+URL:https://www.eventbrite.it/e/stage-al-mattino-informatica-tickets-2004
+ 044448894
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1277@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Stage al pomeriggio - Informatica
+LOCATION:Via Matilde di Canossa\, 21\, 21 Via Matilde di Canossa\, Crema
+DESCRIPTION:Pomeriggio di prova guidata per conoscere da vicino il percor
+ so scolastico di informatica. Info: https://www.eventbrite.it/e/stage-al
+ -pomeriggio-informatica-tickets-2004042555230 (via @radarcremona)
+URL:https://www.eventbrite.it/e/stage-al-pomeriggio-informatica-tickets-2
+ 004042555230
+END:VEVENT
+END:VCALENDAR

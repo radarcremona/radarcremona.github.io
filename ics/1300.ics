@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1300@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:FATFLOW PRESENT: William Pascal Live @Arci CDC
+LOCATION:V.le Mentana\, 31/A\, Parma\, Emilia-Romagna\, Viale Mentana\, P
+ arma
+DESCRIPTION:Serata di musica dal vivo con un artista ospite\, organizzata
+  in un circolo culturale. Info: https://allevents.in/parma/fatflow-prese
+ nt-william-pascal-live-arci-cdc/200030960284001 (via @radarcremona)
+URL:https://allevents.in/parma/fatflow-present-william-pascal-live-arci-c
+ dc/200030960284001
+END:VEVENT
+END:VCALENDAR

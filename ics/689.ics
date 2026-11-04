@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-689@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:The Jazz Room: un viaggio nel cuore di New Orleans
+LOCATION:Auditorium di San Barnaba\, Corso Magenta\, Brescia
+DESCRIPTION:Serata di musica jazz dal vivo ispirata alle sonorità e all'
+ atmosfera della tradizione di New Orleans. Info: https://allevents.in/br
+ escia/the-jazz-room-un-viaggio-nel-cuore-di-new-orleans/2700030048632820
+  (via @radarcremona)
+URL:https://allevents.in/brescia/the-jazz-room-un-viaggio-nel-cuore-di-ne
+ w-orleans/2700030048632820
+END:VEVENT
+END:VCALENDAR

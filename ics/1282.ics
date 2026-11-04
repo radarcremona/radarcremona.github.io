@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1282@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Open Lab -Chimica
+LOCATION:IIS Janello Torriani\, 19 Via Seminario\, Cremona
+DESCRIPTION:Giornata di orientamento in cui studenti e docenti presentano
+  l'indirizzo di chimica con attività pratiche in laboratorio. Info: htt
+ ps://www.eventbrite.it/e/open-lab-chimica-tickets-1992908796859 (via @ra
+ darcremona)
+URL:https://www.eventbrite.it/e/open-lab-chimica-tickets-1992908796859
+END:VEVENT
+END:VCALENDAR

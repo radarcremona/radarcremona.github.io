@@ -4,17 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1222@radarcremona
-DTSTAMP:20261103T072032Z
+DTSTAMP:20261104T072043Z
 DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:Cremona che Incanta 2026 Mercatini di Natale
-LOCATION:piazza del comune\, 26100 Cremona\, Italy\, Piazza del Comune\, 
- Cremona
+DTEND;VALUE=DATE:20270107
+SUMMARY:CREMONA CHE INCANTA
+LOCATION:Centro città\, Cremona\, Cremona
 DESCRIPTION:Mercatini natalizi nella piazza centrale di Cremona\, con cas
- ette in legno\, per tutto il periodo delle feste. Info: https://allevent
- s.in/cremona/cremona-che-incanta-2026-mercatini-di-natale/20003095589883
- 4 (via @radarcremona)
-URL:https://allevents.in/cremona/cremona-che-incanta-2026-mercatini-di-na
- tale/200030955898834
+ ette in legno\, per tutto il periodo delle feste. Info: https://www.turi
+ smocremona.it/it/evento/cremona-che-incanta (via @radarcremona)
+URL:https://www.turismocremona.it/it/evento/cremona-che-incanta
 END:VEVENT
 END:VCALENDAR

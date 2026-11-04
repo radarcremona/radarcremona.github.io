@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-92@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:In Cerca di Babbo Natale
+LOCATION:Canneto sull'Oglio\, Piazza Matteotti 1\, Canneto sull'Oglio
+DESCRIPTION:Decima edizione di una festa natalizia a Canneto sull'Oglio d
+ edicata a Babbo Natale\, con cibo sul posto. Info: https://sagramap.com/
+ evento/in-cerca-di-babbo-natale-canneto-sulloglio (via @radarcremona)
+URL:https://sagramap.com/evento/in-cerca-di-babbo-natale-canneto-sullogli
+ o
+END:VEVENT
+END:VCALENDAR

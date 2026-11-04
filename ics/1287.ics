@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1287@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Respiro di libertà
+LOCATION:Dé Corner Garage\, via Cesare Battisti 5\, Soncino
+DESCRIPTION:Iniziativa di benessere e solidarietà per la giornata contro
+  la violenza sulle donne. Info: https://www.eventbrite.com/e/respiro-di-
+ liberta-tickets-2003957421593 (via @radarcremona)
+URL:https://www.eventbrite.com/e/respiro-di-liberta-tickets-2003957421593
+END:VEVENT
+END:VCALENDAR

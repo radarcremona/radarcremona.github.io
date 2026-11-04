@@ -4,9 +4,9 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1130@radarcremona
-DTSTAMP:20261103T072032Z
+DTSTAMP:20261104T072043Z
 DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261218
 SUMMARY:Tandem Linguistici
 LOCATION:Informagiovani Brescia\, 78 Via Moretto\, Brescia
 DESCRIPTION:Serata di scambio linguistico con cinque tavoli di conversazi

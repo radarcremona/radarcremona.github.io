@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1296@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Inner Warmth - Oasi Experience
+LOCATION:Villa dei Cipressi Wine Resort\, 10/a Via Montecorno\, Sona
+DESCRIPTION:Giornata di ritiro a contatto con la natura per dedicarsi al 
+ benessere di corpo e mente. Info: https://www.eventbrite.it/e/inner-warm
+ th-oasi-experience-tickets-2003813907338 (via @radarcremona)
+URL:https://www.eventbrite.it/e/inner-warmth-oasi-experience-tickets-2003
+ 813907338
+END:VEVENT
+END:VCALENDAR

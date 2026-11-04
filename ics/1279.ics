@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1279@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:AGOPUNTURA\, verso la MEDICINA INTEGRATA
+LOCATION:Centro UNIQUE\, 55/C Via Egidio Gorra\, Piacenza
+DESCRIPTION:Incontro informativo su un approccio complementare alla salut
+ e\, che avvicina la tradizione orientale alla ricerca scientifica attual
+ e. Info: https://www.eventbrite.it/e/biglietti-agopuntura-verso-la-medic
+ ina-integrata-2004060344438 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-agopuntura-verso-la-medicina-in
+ tegrata-2004060344438
+END:VEVENT
+END:VCALENDAR

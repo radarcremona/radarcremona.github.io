@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1298@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:BABBO NATALE VA IN PENSIONE
+LOCATION:Teatro Zero Negativo\, Via Tre Bocche\, Bedizzole
+DESCRIPTION:Spettacolo teatrale pensato per bambini e famiglie\, con un S
+ anta Claus che si prepara a lasciare il lavoro. Info: https://www.eventb
+ rite.it/e/babbo-natale-va-in-pensione-tickets-2003477849179 (via @radarc
+ remona)
+URL:https://www.eventbrite.it/e/babbo-natale-va-in-pensione-tickets-20034
+ 77849179
+END:VEVENT
+END:VCALENDAR

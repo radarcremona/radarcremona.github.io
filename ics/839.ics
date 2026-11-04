@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-839@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:IL CIELO DENTRO
+LOCATION:Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele II 52\, Cre
+ mona
+DESCRIPTION:Serata musicale di beneficenza al Teatro Ponchielli\, a soste
+ gno del reparto Area Donna dell'ospedale di Cremona. Info: https://www.t
+ eatroponchielli.it/spettacolo/il-cielo-dentro/ (via @radarcremona)
+URL:https://www.teatroponchielli.it/spettacolo/il-cielo-dentro/
+END:VEVENT
+END:VCALENDAR

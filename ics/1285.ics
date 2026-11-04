@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1285@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Giornata Aperta 2026 CHIMICA
+LOCATION:Via Matilde di Canossa\, 21\, 21 Via Matilde di Canossa\, Crema
+DESCRIPTION:Giornata di scuola aperta per scoprire da vicino il corso di 
+ chimica dell'istituto Galilei. Info: https://www.eventbrite.it/e/giornat
+ a-aperta-2026-chimica-tickets-2004039808013 (via @radarcremona)
+URL:https://www.eventbrite.it/e/giornata-aperta-2026-chimica-tickets-2004
+ 039808013
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1286@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Inaugurazione Carteni Triumph Piacenza | Special Preview
+LOCATION:CARTENI Triumph Piacenza\, 107b Via Emilia Pavese\, Piacenza
+DESCRIPTION:Evento di apertura di una concessionaria di moto a Piacenza\,
+  con anteprima di due modelli Triumph. Info: https://www.eventbrite.it/e
+ /inaugurazione-carteni-triumph-piacenza-special-preview-tickets-20042111
+ 63542 (via @radarcremona)
+URL:https://www.eventbrite.it/e/inaugurazione-carteni-triumph-piacenza-sp
+ ecial-preview-tickets-2004211163542
+END:VEVENT
+END:VCALENDAR

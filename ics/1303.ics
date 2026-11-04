@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1303@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:International Meeting Over Dinner in Parma - Recurrent Link - Reg
+ istration on website
+LOCATION:Parme\, Borgo Collegio Maria Luigia\, Parma
+DESCRIPTION:Cena a Parma pensata per persone di vari paesi che desiderano
+  conoscersi e fare nuove amicizie. Info: https://allevents.in/parma/inte
+ rnational-meeting-over-dinner-in-parma-recurrent-link-registration-on-we
+ bsite/200030881568918 (via @radarcremona)
+URL:https://allevents.in/parma/international-meeting-over-dinner-in-parma
+ -recurrent-link-registration-on-website/200030881568918
+END:VEVENT
+END:VCALENDAR

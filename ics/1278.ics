@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1278@radarcremona
+DTSTAMP:20261104T072043Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:CREA LA TUA GHIRLANDA NATALIZIA CON ALICE!
+LOCATION:Cascina La Bassa\, 3 Via Cavour\, Padernello
+DESCRIPTION:Laboratorio domenicale a Cascina La Bassa in cui costruire a 
+ mano una ghirlanda di Natale. Info: https://www.eventbrite.com/e/bigliet
+ ti-crea-la-tua-ghirlanda-natalizia-con-alice-2004281752676 (via @radarcr
+ emona)
+URL:https://www.eventbrite.com/e/biglietti-crea-la-tua-ghirlanda-natalizi
+ a-con-alice-2004281752676
+END:VEVENT
+END:VCALENDAR
