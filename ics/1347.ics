@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1347@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:WE INSIST! LIVE\, il valore dell’ensemble
+LOCATION:Der Mast\, 17 Via Giosuè Carducci\, Brescia
+DESCRIPTION:Concerto dal vivo che mette al centro il lavoro e l'intesa di
+  un gruppo musicale. Info: https://allevents.in/brescia/we-insist-live-i
+ l-valore-dellensemble/100002003656035138 (via @radarcremona)
+URL:https://allevents.in/brescia/we-insist-live-il-valore-dellensemble/10
+ 0002003656035138
+END:VEVENT
+END:VCALENDAR

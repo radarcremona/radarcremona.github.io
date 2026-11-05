@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1342@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261116
+SUMMARY:NAPOLEONE LA GLORIA\, LA CADUTA\, LA LEGGENDA
+LOCATION:Sala Granata\, 22 Via Solferino\, Lodi
+DESCRIPTION:Esperienza immersiva in realtà virtuale che racconta ascesa 
+ e declino dell'imperatore francese\, adatta a tutte le età. Info: https
+ ://allevents.in/lodi/napoleone-la-gloria-la-caduta-la-leggenda/100002003
+ 136463084 (via @radarcremona)
+URL:https://allevents.in/lodi/napoleone-la-gloria-la-caduta-la-leggenda/1
+ 00002003136463084
+END:VEVENT
+END:VCALENDAR

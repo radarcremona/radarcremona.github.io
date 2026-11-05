@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1335@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261123
+SUMMARY:Scopri la storia del Teatro Ponchielli
+LOCATION:Teatro Ponchielli\, 52 Corso Vittorio Emanuele II\, Cremona
+DESCRIPTION:Visita guidata speciale nel teatro cittadino per conoscerne i
+ l passato\, durante una festa locale. Info: https://allevents.in/cremona
+ /scopri-la-storia-del-teatro-ponchielli/100002003652535671 (via @radarcr
+ emona)
+URL:https://allevents.in/cremona/scopri-la-storia-del-teatro-ponchielli/1
+ 00002003652535671
+END:VEVENT
+END:VCALENDAR

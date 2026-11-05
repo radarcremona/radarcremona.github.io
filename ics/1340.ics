@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1340@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Un discorso sull’Acqua
+LOCATION:Teatro Trieste Trentaquattro\, 34 Via Trieste\, Piacenza
+DESCRIPTION:Evento teatrale con intervento parlato e laboratorio\, dedica
+ to a una riflessione sull'esperienza femminile. Info: https://allevents.
+ in/piacenza/un-discorso-sullacqua/100002004380434837 (via @radarcremona)
+URL:https://allevents.in/piacenza/un-discorso-sullacqua/10000200438043483
+ 7
+END:VEVENT
+END:VCALENDAR

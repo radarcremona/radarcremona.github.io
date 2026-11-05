@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-316@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:XL Roberto Zambelloni
+LOCATION:El Viejo Almacen Papelero\, Strada Chiesanuova 27/i\, Mantova
+DESCRIPTION:Serata musicale dal vivo con un artista indicato nel titolo. 
+ Info: https://allevents.in/mantova/xl-roberto-zambelloni/200030791064754
+  (via @radarcremona)
+URL:https://allevents.in/mantova/xl-roberto-zambelloni/200030791064754
+END:VEVENT
+END:VCALENDAR

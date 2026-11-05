@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1344@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:CLUB FANTASIA – LISTENING SESSION
+LOCATION:Il Boccio\, Viale Te\, Mantova
+DESCRIPTION:Sessione di ascolto musicale collegata a un evento culturale 
+ più ampio. Info: https://allevents.in/mantova/club-fantasia-listening-s
+ ession/100002003593297488 (via @radarcremona)
+URL:https://allevents.in/mantova/club-fantasia-listening-session/10000200
+ 3593297488
+END:VEVENT
+END:VCALENDAR

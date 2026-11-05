@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1355@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261126
+SUMMARY:Bunkervik
+LOCATION:Bunkervik. Il Rifugio delle idee.\, 6 B Via Federico Odorici\, B
+ rescia
+DESCRIPTION:Visita su prenotazione a uno spazio espositivo ricavato in un
+  vecchio rifugio della guerra. Info: https://allevents.in/brescia/bunker
+ vik/100001999703469909 (via @radarcremona)
+URL:https://allevents.in/brescia/bunkervik/100001999703469909
+END:VEVENT
+END:VCALENDAR

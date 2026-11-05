@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-311@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Lucilla in Mantova
+LOCATION:Palabam\, Palabam\, Mantova
+DESCRIPTION:Concerto dal vivo a Mantova\, con un artista indicato nel tit
+ olo. Info: https://allevents.in/mantova/lucilla-in-mantova/3300030439851
+ 623 (via @radarcremona)
+URL:https://allevents.in/mantova/lucilla-in-mantova/3300030439851623
+END:VEVENT
+END:VCALENDAR

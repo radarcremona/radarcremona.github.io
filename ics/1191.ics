@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1191@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20270107
+SUMMARY:Natale a Quistello
+LOCATION:Quistello\, Quistello
+DESCRIPTION:Lunga rassegna natalizia giunta alla quarantatreesima edizion
+ e\, tra festività di fine anno e inizio gennaio. Info: https://sagramap
+ .com/evento/natale-a-quistello (via @radarcremona)
+URL:https://sagramap.com/evento/natale-a-quistello
+END:VEVENT
+END:VCALENDAR

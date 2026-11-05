@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1352@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Houdini\, oltre la leggenda. Incontro con Alex Rusconi
+LOCATION:Netea25\, via del brolo 34/A\, Brescia
+DESCRIPTION:Incontro con un autore per scoprire la vera storia del celebr
+ e illusionista. Info: https://allevents.in/brescia/houdini-oltre-la-legg
+ enda-incontro-con-alex-rusconi/100002004091859701 (via @radarcremona)
+URL:https://allevents.in/brescia/houdini-oltre-la-leggenda-incontro-con-a
+ lex-rusconi/100002004091859701
+END:VEVENT
+END:VCALENDAR

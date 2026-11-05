@@ -4,13 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1246@radarcremona
-DTSTAMP:20261104T072043Z
+DTSTAMP:20261105T072050Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Festa del Raccolto Urbano 2026
 LOCATION:Via Cremona\, 43126 Parma PR\, Italia\, Via Cremona\, Parma
-DESCRIPTION:Info: https://allevents.in/parma/festa-del-raccolto-urbano-20
- 26/200030951984644 (via @radarcremona)
+DESCRIPTION:Giornata cittadina per valorizzare i frutti urbani\, con atte
+ nzione a comunità\, ambiente e cibo accessibile. Info: https://allevent
+ s.in/parma/festa-del-raccolto-urbano-2026/200030951984644 (via @radarcre
+ mona)
 URL:https://allevents.in/parma/festa-del-raccolto-urbano-2026/20003095198
  4644
 END:VEVENT

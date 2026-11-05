@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-621@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:NATALE IN CASA PONCHIELLI
+LOCATION:Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele II 52\, Cre
+ mona
+DESCRIPTION:Info: https://www.teatroponchielli.it/spettacolo/natale-in-ca
+ sa-ponchielli/ (via @radarcremona)
+URL:https://www.teatroponchielli.it/spettacolo/natale-in-casa-ponchielli/
+END:VEVENT
+END:VCALENDAR

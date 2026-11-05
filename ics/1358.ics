@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1358@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261122
+SUMMARY:NOVEMBER SWING!!! con Lucio Vallisneri
+LOCATION:Via Meazza 23/a\, Parma\, Emilia-Romagna\, Via Giuseppe Meazza\,
+  Parma
+DESCRIPTION:Serata di musica e ballo swing con un musicista ospite\, a no
+ vembre. Info: https://allevents.in/parma/november-swing-con-lucio-vallis
+ neri/200030969205816 (via @radarcremona)
+URL:https://allevents.in/parma/november-swing-con-lucio-vallisneri/200030
+ 969205816
+END:VEVENT
+END:VCALENDAR

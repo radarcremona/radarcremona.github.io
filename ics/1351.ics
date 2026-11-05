@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1351@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Meet Up DBM Brescia
+LOCATION:Spazio AGORÀ Brescia\, 83 Via della Ziziola\, Brescia
+DESCRIPTION:Ritrovo informale per chi fa parte della community DBM e vive
+  a Brescia. Info: https://allevents.in/brescia/meet-up-dbm-brescia/10000
+ 2003908138185 (via @radarcremona)
+URL:https://allevents.in/brescia/meet-up-dbm-brescia/100002003908138185
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1334@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Bookclub sulla Fiaba
+LOCATION:Strada Gasparina\, Strada Gasparina\, Ghedi
+DESCRIPTION:Incontro pomeridiano per bambini dedicato alle fiabe\, con le
+ tture\, compagnia e una merenda leggera. Info: https://www.eventbrite.it
+ /e/biglietti-bookclub-sulla-fiaba-2002946933195 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-bookclub-sulla-fiaba-2002946933
+ 195
+END:VEVENT
+END:VCALENDAR

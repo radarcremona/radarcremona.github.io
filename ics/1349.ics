@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1349@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Serata di Presentazione Gratuita: RIVOLUZIONA IL TUO BENESSERE CO
+ N L'ENERGIA DEL PRANIC HEALING
+LOCATION:Il Sogno dell'Anima Aps\, Bar Petit\, Brescia
+DESCRIPTION:Serata gratuita di presentazione su una pratica di benessere 
+ basata sull'energia. Info: https://allevents.in/brescia/serata-di-presen
+ tazione-gratuita-rivoluziona-il-tuo-benessere-con-lenergia-del-pranic-he
+ aling/200030955626526 (via @radarcremona)
+URL:https://allevents.in/brescia/serata-di-presentazione-gratuita-rivoluz
+ iona-il-tuo-benessere-con-lenergia-del-pranic-healing/200030955626526
+END:VEVENT
+END:VCALENDAR

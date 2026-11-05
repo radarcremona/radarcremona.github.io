@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1361@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:The transition music between two eras
+LOCATION:Fondazione Museo Glauco Lombardi\, 15 Strada Giuseppe Garibaldi\
+ , Parma
+DESCRIPTION:Concerto in un museo dove voce di contralto e fortepiano illu
+ strano il cambio di gusto musicale tra Settecento e neoclassicismo. Info
+ : https://allevents.in/parma/the-transition-music-between-two-eras/10000
+ 1998965961000 (via @radarcremona)
+URL:https://allevents.in/parma/the-transition-music-between-two-eras/1000
+ 01998965961000
+END:VEVENT
+END:VCALENDAR

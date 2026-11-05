@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1337@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Save the Story
+LOCATION:Cinema Teatro Filo\, Piazza Filodrammatici\, Cremona
+DESCRIPTION:Spettacolo di improvvisazione teatrale in cui il pubblico sug
+ gerisce le storie\, a favore di un canile. Info: https://allevents.in/cr
+ emona/save-the-story/100002002913834195 (via @radarcremona)
+URL:https://allevents.in/cremona/save-the-story/100002002913834195
+END:VEVENT
+END:VCALENDAR

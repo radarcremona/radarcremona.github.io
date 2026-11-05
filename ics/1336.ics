@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1336@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Scopri il palcoscenico del Teatro Ponchielli
+LOCATION:Teatro Ponchielli\, 52 Corso Vittorio Emanuele II\, Cremona
+DESCRIPTION:Visita che porta il pubblico dietro le quinte e sul palco di 
+ un teatro storico. Info: https://allevents.in/cremona/scopri-il-palcosce
+ nico-del-teatro-ponchielli/100002003756799527 (via @radarcremona)
+URL:https://allevents.in/cremona/scopri-il-palcoscenico-del-teatro-ponchi
+ elli/100002003756799527
+END:VEVENT
+END:VCALENDAR

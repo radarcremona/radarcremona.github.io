@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1350@radarcremona
+DTSTAMP:20261105T072050Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Check Up fisico ed Animico con il dr. MAZZONI
+LOCATION:Il Sogno dell'Anima Aps\, Bar Petit\, Brescia
+DESCRIPTION:Appuntamento dedicato alla salute e al benessere con un contr
+ ollo guidato da un medico. Info: https://allevents.in/brescia/check-up-f
+ isico-ed-animico-con-il-dr-mazzoni/200030959656759 (via @radarcremona)
+URL:https://allevents.in/brescia/check-up-fisico-ed-animico-con-il-dr-maz
+ zoni/200030959656759
+END:VEVENT
+END:VCALENDAR
