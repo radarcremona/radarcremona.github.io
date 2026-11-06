@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1422@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:RIFTBOUND - Summoner Skirmish
+LOCATION:Funside Reggio Emilia\, 1/c Piazza della Vittoria\, Reggio Emili
+ a
+DESCRIPTION:Torneo locale di gioco competitivo di carte Riftbound\, che r
+ appresenta il livello più alto delle sfide cittadine. Info: https://www
+ .eventbrite.it/e/biglietti-riftbound-summoner-skirmish-1998894256530 (vi
+ a @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-riftbound-summoner-skirmish-199
+ 8894256530
+END:VEVENT
+END:VCALENDAR

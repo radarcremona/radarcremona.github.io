@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1424@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Bugnion - Brevetti e IP: strategie di tutela dentro e fuori la fi
+ era
+LOCATION:Bugnion - Ufficio consulenza Marchi e Brevetti\, 1/A Largo Miche
+ le Novaro\, Parma
+DESCRIPTION:Incontro dedicato alla tutela di brevetti e proprietà intell
+ ettuale per chi lavora con l'innovazione\, in ambito fieristico. Info: h
+ ttps://www.eventbrite.it/e/bugnion-brevetti-e-ip-strategie-di-tutela-den
+ tro-e-fuori-la-fiera-tickets-1999383328357 (via @radarcremona)
+URL:https://www.eventbrite.it/e/bugnion-brevetti-e-ip-strategie-di-tutela
+ -dentro-e-fuori-la-fiera-tickets-1999383328357
+END:VEVENT
+END:VCALENDAR

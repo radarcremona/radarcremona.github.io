@@ -4,16 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1360@radarcremona
-DTSTAMP:20261105T072050Z
+DTSTAMP:20261106T072034Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:REMIRA MARKET A PARMA presso La Galleria 14 Novembre
 LOCATION:La Galleria\, 7B Via Emilia Est\, Parma
 DESCRIPTION:Mercatino autunnale di oggetti unici\, vintage e di seconda m
- ano\, per dare nuova vita alle cose. Info: https://allevents.in/parma/re
- mira-market-a-parma-presso-la-galleria-14-novembre/100002002085465522 (v
- ia @radarcremona)
-URL:https://allevents.in/parma/remira-market-a-parma-presso-la-galleria-1
- 4-novembre/100002002085465522
+ ano\, per dare nuova vita alle cose. Info: https://www.eventbrite.it/e/r
+ egistrazione-remira-market-a-parma-presso-la-galleria-14-novembre-200208
+ 5465522 (via @radarcremona)
+URL:https://www.eventbrite.it/e/registrazione-remira-market-a-parma-press
+ o-la-galleria-14-novembre-2002085465522
 END:VEVENT
 END:VCALENDAR

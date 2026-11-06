@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1410@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:Fiera del disco Brescia 7/8 novembre 2026
+LOCATION:Brescia\, Italy\, Brescia\, Brescia
+DESCRIPTION:Mercatino di dischi a Brescia\, all'Hangar68\, con un negozio
+  online che porta le sue novità e propone ritiri sul posto. Info: https
+ ://allevents.in/brescia/fiera-del-disco-brescia-7-8-novembre-2026/200030
+ 976150248 (via @radarcremona)
+URL:https://allevents.in/brescia/fiera-del-disco-brescia-7-8-novembre-202
+ 6/200030976150248
+END:VEVENT
+END:VCALENDAR

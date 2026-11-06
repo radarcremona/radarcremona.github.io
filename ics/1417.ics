@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1417@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Visit Allodi - percorso "Storico"
+LOCATION:Cattedrale di Parma\, 7 Piazza Duomo\, Parma
+DESCRIPTION:Camminata culturale nel centro storico di Parma per ripercorr
+ erne la lunga storia e gli interventi dell'azienda Allodi. Info: https:/
+ /www.eventbrite.it/e/visit-allodi-percorso-storico-tickets-2002945569115
+  (via @radarcremona)
+URL:https://www.eventbrite.it/e/visit-allodi-percorso-storico-tickets-200
+ 2945569115
+END:VEVENT
+END:VCALENDAR

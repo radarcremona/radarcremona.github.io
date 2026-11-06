@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1420@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Visit ParmaCotto - Chi siamo
+LOCATION:Parmacotto Spa\, 2A Via Felice da Mareto Padre Molga\, Parma
+DESCRIPTION:Occasione per il pubblico di entrare nella sede del marchio P
+ armacotto e conoscere l'azienda. Info: https://www.eventbrite.it/e/visit
+ -parmacotto-chi-siamo-tickets-1999382029472 (via @radarcremona)
+URL:https://www.eventbrite.it/e/visit-parmacotto-chi-siamo-tickets-199938
+ 2029472
+END:VEVENT
+END:VCALENDAR

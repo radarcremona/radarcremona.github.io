@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1411@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:FOREVER YOUNG - 80'S PARTY
+LOCATION:Via Giosuè Carducci\, 17/e\, 25126 Brescia\, Italy\, Via Giosu
+ è Carducci\, Brescia
+DESCRIPTION:Serata di musica anni Ottanta che trasforma il pubblico in un
+ a pista da ballo\, ultima data prima della pausa estiva. Info: https://a
+ llevents.in/brescia/forever-young-80s-party/200030976592810 (via @radarc
+ remona)
+URL:https://allevents.in/brescia/forever-young-80s-party/200030976592810
+END:VEVENT
+END:VCALENDAR

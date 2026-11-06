@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1416@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Visit Crown Holdings - ris. studenti
+LOCATION:Crown Packaging Manufacturing Italy S.r.l.\, 100/A Strada Ugozzo
+ lo\, Parma
+DESCRIPTION:Visita riservata agli studenti per conoscere la produzione di
+  lattine e le persone che ci lavorano. Info: https://www.eventbrite.it/e
+ /visit-crown-holdings-ris-studenti-tickets-1999781394985 (via @radarcrem
+ ona)
+URL:https://www.eventbrite.it/e/visit-crown-holdings-ris-studenti-tickets
+ -1999781394985
+END:VEVENT
+END:VCALENDAR

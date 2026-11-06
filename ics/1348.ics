@@ -4,9 +4,9 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1348@radarcremona
-DTSTAMP:20261105T072050Z
+DTSTAMP:20261106T072034Z
 DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261112
 SUMMARY:Sex Education
 LOCATION:Piastra Pendolina\, via ragazzi del '99 n.5\, Brescia
 DESCRIPTION:Appuntamento legato a un titolo di spettacolo o proiezione\, 

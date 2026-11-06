@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1428@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Tech Drinks @Parma
+LOCATION:Caffeina\, 90 Via La Spezia\, Parma
+DESCRIPTION:Incontro informale a Parma per chi lavora nella tecnologia\, 
+ da vivere con un drink in mano. Info: https://allevents.in/parma/tech-dr
+ inks-parma/100002004008956736 (via @radarcremona)
+URL:https://allevents.in/parma/tech-drinks-parma/100002004008956736
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1427@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:UBIQUITI UNISPHERE EXPERIENCE: scopri l'ecosistema Ubiquiti a Par
+ ma
+LOCATION:Grand Hotel di Parma| UNA ESPERIENZE\, 4 Strada del Quartiere\, 
+ Parma
+DESCRIPTION:Evento di presentazione dei prodotti Ubiquiti per reti\, tele
+ camere e controllo degli accessi gestiti in modo unificato. Info: https:
+ //www.eventbrite.it/e/ubiquiti-unisphere-experience-scopri-lecosistema-u
+ biquiti-a-parma-tickets-2004342791244 (via @radarcremona)
+URL:https://www.eventbrite.it/e/ubiquiti-unisphere-experience-scopri-leco
+ sistema-ubiquiti-a-parma-tickets-2004342791244
+END:VEVENT
+END:VCALENDAR

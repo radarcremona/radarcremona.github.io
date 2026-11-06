@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1421@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Visit CEPIM - Alla scoperta dell’Interporto di Parma
+LOCATION:CEPIM - Interporto Parma\, 1 Piazzale Europa\, Bianconese
+DESCRIPTION:Incontro formativo sulla logistica seguito da un giro in pull
+ man dentro l'Interporto di Parma e le sue strutture. Info: https://www.e
+ ventbrite.it/e/visit-cepim-alla-scoperta-dellinterporto-di-parma-tickets
+ -2003051388624 (via @radarcremona)
+URL:https://www.eventbrite.it/e/visit-cepim-alla-scoperta-dellinterporto-
+ di-parma-tickets-2003051388624
+END:VEVENT
+END:VCALENDAR

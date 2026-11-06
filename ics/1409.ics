@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1409@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Be Kind Rewind - 3 Edizione
+LOCATION:UAU Brescia\, Via Milano\, Brescia
+DESCRIPTION:Terza edizione di un appuntamento dal titolo Be Kind Rewind\,
+  di cui il testo non fornisce altri dettagli. Info: https://allevents.in
+ /brescia/be-kind-rewind-3°-edizione/100001999113156265 (via @radarcremo
+ na)
+URL:https://allevents.in/brescia/be-kind-rewind-3°-edizione/100001999113
+ 156265
+END:VEVENT
+END:VCALENDAR

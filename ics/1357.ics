@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1357@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Visita al Cimitero monumentale della Villetta di Parma tra Curios
+ ità\, Segreti e Stoire Noire
+LOCATION:Viale della Villetta\, 29\, 43125 Parma PR\, Italia\, Davanti al
+ l'ingresso del Cimitero Monumentale\, Parma
+DESCRIPTION:Visita guidata in un cimitero monumentale\, tra aneddoti\, mi
+ steri e racconti dal lato oscuro. Info: https://allevents.in/parma/visit
+ a-al-cimitero-monumentale-della-villetta-di-parma-tra-curiosità-segreti
+ -e-stoire-noire/100002000964395371 (via @radarcremona)
+URL:https://allevents.in/parma/visita-al-cimitero-monumentale-della-ville
+ tta-di-parma-tra-curiosità-segreti-e-stoire-noire/100002000964395371
+END:VEVENT
+END:VCALENDAR

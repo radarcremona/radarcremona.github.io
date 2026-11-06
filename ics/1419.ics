@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1419@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Visit ACMI - riservato studenti
+LOCATION:Sacmi Beverage S.p.A.\, 1 Via Enzo Ferrari\, Zona Industriale
+DESCRIPTION:Visita riservata agli studenti nell'area produttiva di un'azi
+ enda di macchine per bevande appartenente al gruppo Omnia Technologies. 
+ Info: https://www.eventbrite.it/e/biglietti-visit-acmi-riservato-student
+ i-2002944777748 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-visit-acmi-riservato-studenti-2
+ 002944777748
+END:VEVENT
+END:VCALENDAR

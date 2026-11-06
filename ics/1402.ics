@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1402@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Visita guidata all'ABBADIA CERRETO e all'antico mulino delle sali
+ ne
+LOCATION:Abbadia Cerreto - Antica Abbazia Cistercense e Mulino delle Sali
+ ne\, Piazza della Vittoria\, Lodi
+DESCRIPTION:Visita guidata a un antico complesso monastico e a un mulino 
+ storico nel borgo lodigiano di Abbadia Cerreto. Info: https://allevents.
+ in/lodi/visita-guidata-allabbadia-cerreto-e-allantico-mulino-delle-salin
+ e/200030976812407 (via @radarcremona)
+URL:https://allevents.in/lodi/visita-guidata-allabbadia-cerreto-e-allanti
+ co-mulino-delle-saline/200030976812407
+END:VEVENT
+END:VCALENDAR

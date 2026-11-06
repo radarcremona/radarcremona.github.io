@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1418@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Visit Sidel
+LOCATION:Sidel\, 241 Via La Spezia\, Parma
+DESCRIPTION:Visita organizzata presso lo stabilimento dell'azienda Sidel\
+ , di cui il testo non indica altri dettagli. Info: https://www.eventbrit
+ e.it/e/visit-sidel-tickets-2003072610098 (via @radarcremona)
+URL:https://www.eventbrite.it/e/visit-sidel-tickets-2003072610098
+END:VEVENT
+END:VCALENDAR

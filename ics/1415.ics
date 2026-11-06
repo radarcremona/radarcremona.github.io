@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1415@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Visit Food Farm 4.0
+LOCATION:FOOD FARM 4.0\, 1 Via Senerchia\, Parma
+DESCRIPTION:Visita a un'azienda agroalimentare\, pensata soprattutto per 
+ la formazione degli studenti delle scuole superiori di Parma. Info: http
+ s://www.eventbrite.it/e/biglietti-visit-food-farm-40-1999780934608 (via 
+ @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-visit-food-farm-40-199978093460
+ 8
+END:VEVENT
+END:VCALENDAR

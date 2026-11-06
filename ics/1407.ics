@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1407@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:"E CHE CI VUOLE"
+LOCATION:Teatro Zero Negativo\, Via Tre Bocche\, Bedizzole
+DESCRIPTION:Rappresentazione teatrale pensata per i giovani\, nel giorno 
+ dedicato al ricordo di chi ha perso la vita sulle strade. Info: https://
+ www.eventbrite.it/e/e-che-ci-vuole-tickets-2004282898102 (via @radarcrem
+ ona)
+URL:https://www.eventbrite.it/e/e-che-ci-vuole-tickets-2004282898102
+END:VEVENT
+END:VCALENDAR

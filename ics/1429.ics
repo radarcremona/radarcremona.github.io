@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1429@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Cena sociale
+LOCATION:Pedale Veloce\, Parma\, Parma
+DESCRIPTION:Cena in compagnia organizzata per i soci o i partecipanti di 
+ un gruppo\, senza ulteriori dettagli. Info: https://allevents.in/parma/c
+ ena-sociale/200030974443706 (via @radarcremona)
+URL:https://allevents.in/parma/cena-sociale/200030974443706
+END:VEVENT
+END:VCALENDAR

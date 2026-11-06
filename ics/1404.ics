@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1404@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:CODEGHIN GRAVEL
+LOCATION:Ristorante da Nicolis\, Via del Lazzareto\, Verona
+DESCRIPTION:Giornata in bicicletta su percorsi sterrati\, organizzata da 
+ Km Experience dopo l'esperienza della precedente edizione in altra local
+ ità. Info: https://www.eventbrite.it/e/codeghin-gravel-tickets-20042886
+ 61340 (via @radarcremona)
+URL:https://www.eventbrite.it/e/codeghin-gravel-tickets-2004288661340
+END:VEVENT
+END:VCALENDAR

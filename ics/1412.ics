@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1412@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Parma nascosta: il Barocco segreto lungo Strada San Michele
+LOCATION:Piazza Giuseppe Garibaldi\, 43121 Parma PR\, Italia\, sotto i Po
+ rtici del Grano\, Parma
+DESCRIPTION:Passeggiata culturale a Parma tra chiese e palazzi barocchi l
+ ungo l'antica strada oggi chiamata Via Repubblica. Info: https://www.eve
+ ntbrite.it/e/parma-nascosta-il-barocco-segreto-lungo-strada-san-michele-
+ tickets-2003630649208 (via @radarcremona)
+URL:https://www.eventbrite.it/e/parma-nascosta-il-barocco-segreto-lungo-s
+ trada-san-michele-tickets-2003630649208
+END:VEVENT
+END:VCALENDAR

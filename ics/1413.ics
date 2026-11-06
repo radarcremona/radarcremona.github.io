@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1413@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Visit Raytec Vision - Visita guidata nel mondo della qualità ali
+ mentare
+LOCATION:Via Rudolf Diesel\, 2\, 2 Via Rudolf Diesel\, Parma
+DESCRIPTION:Visita aziendale che porta dietro le quinte del controllo qua
+ lità alimentare\, con sale di prova\, produzione e aperitivo conclusivo
+ . Info: https://www.eventbrite.it/e/biglietti-visit-raytec-vision-visita
+ -guidata-nel-mondo-della-qualita-alimentare-2003050699563 (via @radarcre
+ mona)
+URL:https://www.eventbrite.it/e/biglietti-visit-raytec-vision-visita-guid
+ ata-nel-mondo-della-qualita-alimentare-2003050699563
+END:VEVENT
+END:VCALENDAR

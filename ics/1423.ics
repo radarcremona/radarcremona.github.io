@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1423@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Workshop Addobbi natalizi tema Pan di Stelle
+LOCATION:Modalastminute.com\, 24 Borgo Regale\, Parma
+DESCRIPTION:Laboratorio in presenza\, rilassato e adatto a tutti\, per re
+ alizzare decorazioni natalizie ispirate ai biscotti Pan di Stelle. Info:
+  https://www.eventbrite.it/e/biglietti-workshop-addobbi-natalizi-tema-pa
+ n-di-stelle-2004166250205 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-workshop-addobbi-natalizi-tema-
+ pan-di-stelle-2004166250205
+END:VEVENT
+END:VCALENDAR

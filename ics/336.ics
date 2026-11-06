@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-336@radarcremona
+DTSTAMP:20261106T072034Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Brescia - Fabio Concato in concerto - Altro di Me Tour 2026
+LOCATION:Teatro Clerici\, Via San Zeno 168\, 25124 Brescia BS\, Via San Z
+ eno\, Brescia
+DESCRIPTION:Serata musicale dal vivo a Brescia con il cantautore Fabio Co
+ ncato\, nell'ambito della tournée 2026. Info: https://allevents.in/bres
+ cia/brescia-fabio-concato-in-concerto-altro-di-me-tour-2026/200029939099
+ 755 (via @radarcremona)
+URL:https://allevents.in/brescia/brescia-fabio-concato-in-concerto-altro-
+ di-me-tour-2026/200029939099755
+END:VEVENT
+END:VCALENDAR
