@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1448@radarcremona
+DTSTAMP:20261107T072032Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Adolescenti
+LOCATION:Teatro Ristori\, 7 Via Teatro Ristori\, Verona
+DESCRIPTION:Spettacolo teatrale che guarda al mondo dei ragazzi e al ruol
+ o educativo degli adulti. Info: https://www.eventbrite.it/e/biglietti-ad
+ olescenti-1993016400705 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-adolescenti-1993016400705
+END:VEVENT
+END:VCALENDAR

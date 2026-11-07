@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1457@radarcremona
+DTSTAMP:20261107T072032Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:7 CHAKRAS WARM UP PARMA
+LOCATION:El Dorado Disco Club\, 227 Via Marco Emilio Lepido\, San Prosper
+ o
+DESCRIPTION:Evento sonoro a Parma il 21 novembre\, con tre diverse esperi
+ enze musicali legate al benessere. Info: https://www.eventbrite.com/e/7-
+ chakras-warm-up-parma-tickets-2004315837625 (via @radarcremona)
+URL:https://www.eventbrite.com/e/7-chakras-warm-up-parma-tickets-20043158
+ 37625
+END:VEVENT
+END:VCALENDAR

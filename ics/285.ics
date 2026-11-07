@@ -4,16 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-285@radarcremona
-DTSTAMP:20261106T072034Z
+DTSTAMP:20261107T072032Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Business Etiquette Masterclass | Modulo 4 — Business Dining
 LOCATION:Corso G.Garibaldi\, 13\, 13 Corso G.Garibaldi\, Piacenza
 DESCRIPTION:Lezione di un corso sul galateo professionale\, dedicata al c
  omportamento corretto a tavola durante pranzi e cene di lavoro. Info: ht
- tps://allevents.in/piacenza/business-etiquette-masterclass-modulo-4-busi
- ness-dining/100001993623890724 (via @radarcremona)
-URL:https://allevents.in/piacenza/business-etiquette-masterclass-modulo-4
- -business-dining/100001993623890724
+ tps://www.eventbrite.it/e/business-etiquette-masterclass-modulo-4-busine
+ ss-dining-tickets-1993623890724 (via @radarcremona)
+URL:https://www.eventbrite.it/e/business-etiquette-masterclass-modulo-4-b
+ usiness-dining-tickets-1993623890724
 END:VEVENT
 END:VCALENDAR

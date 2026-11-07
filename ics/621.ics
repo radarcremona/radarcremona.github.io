@@ -4,14 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-621@radarcremona
-DTSTAMP:20261106T072034Z
+DTSTAMP:20261107T072032Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:NATALE IN CASA PONCHIELLI
 LOCATION:Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele II 52\, Cre
  mona
-DESCRIPTION:Info: https://www.teatroponchielli.it/spettacolo/natale-in-ca
- sa-ponchielli/ (via @radarcremona)
+DESCRIPTION:Concerto natalizio dei Solisti di Pavia che conclude la stagi
+ one musicale di Casa Ponchielli il 20 dicembre. Info: https://www.teatro
+ ponchielli.it/spettacolo/natale-in-casa-ponchielli/ (via @radarcremona)
 URL:https://www.teatroponchielli.it/spettacolo/natale-in-casa-ponchielli/
 END:VEVENT
 END:VCALENDAR

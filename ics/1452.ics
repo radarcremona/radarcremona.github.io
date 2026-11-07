@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1452@radarcremona
+DTSTAMP:20261107T072032Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Sunday Run 8/11
+LOCATION:Via Antonio Schivardi\, 84\, 25123 Brescia BS\, Italia\, Via Ant
+ onio Schivardi\, Brescia
+DESCRIPTION:Uscita di corsa domenicale aperta a chi ama allenarsi in comp
+ agnia. Info: https://allevents.in/brescia/sunday-run-8-11/20003097788671
+ 6 (via @radarcremona)
+URL:https://allevents.in/brescia/sunday-run-8-11/200030977886716
+END:VEVENT
+END:VCALENDAR
