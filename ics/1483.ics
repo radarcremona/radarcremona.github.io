@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1483@radarcremona
+DTSTAMP:20261108T072026Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Wherewolf @ The Lab
+LOCATION:The Lab - Drink&amp\;Play\, 12 Via Guido Rossa\, Lodi
+DESCRIPTION:Serata di gioco di ruolo a squadre fatta di mistero\, bluff e
+  deduzione\, ambientata in un locale di Lodi. Info: https://allevents.in
+ /lodi/wherewolf-the-lab/10000856254860337 (via @radarcremona)
+URL:https://allevents.in/lodi/wherewolf-the-lab/10000856254860337
+END:VEVENT
+END:VCALENDAR

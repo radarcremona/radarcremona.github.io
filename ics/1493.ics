@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1493@radarcremona
+DTSTAMP:20261108T072026Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:MAI PIU’ EOS\, LA FIERA DELLE ARMI
+LOCATION:Auditorium Toscanini parma\, Via Cuneo\, Parma
+DESCRIPTION:Iniziativa di protesta contro la fiera dedicata alle armi\, p
+ romossa da chi ne chiede la cancellazione. Info: https://allevents.in/pa
+ rma/mai-piu-eos-la-fiera-delle-armi/200030974444516 (via @radarcremona)
+URL:https://allevents.in/parma/mai-piu-eos-la-fiera-delle-armi/2000309744
+ 44516
+END:VEVENT
+END:VCALENDAR

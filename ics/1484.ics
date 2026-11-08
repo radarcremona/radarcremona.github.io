@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1484@radarcremona
+DTSTAMP:20261108T072026Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261209
+SUMMARY:ERE da Nadal Dal MUT
+LOCATION:Berzo Demo\, Frazione Abitato di Monte\, Berzo Demo
+DESCRIPTION:Manifestazione locale a Berzo Demo curata da un'associazione 
+ del territorio\, con carattere di festa popolare. Info: https://sagramap
+ .com/evento/ere-da-nadal-dal-mut-berzo-demo (via @radarcremona)
+URL:https://sagramap.com/evento/ere-da-nadal-dal-mut-berzo-demo
+END:VEVENT
+END:VCALENDAR

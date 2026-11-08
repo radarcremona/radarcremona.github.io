@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1486@radarcremona
+DTSTAMP:20261108T072026Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Rischi epidemici e pandemici: cause e implicazioni per la societ
+ à
+LOCATION:Università degli Studi di Brescia\, via San Faustino 74/b\, Bre
+ scia
+DESCRIPTION:Incontro pubblico che affronta le origini delle epidemie e de
+ lle pandemie e le conseguenze per la collettività. Info: https://alleve
+ nts.in/brescia/rischi-epidemici-e-pandemici-cause-e-implicazioni-per-la-
+ società/100002003446814353 (via @radarcremona)
+URL:https://allevents.in/brescia/rischi-epidemici-e-pandemici-cause-e-imp
+ licazioni-per-la-società/100002003446814353
+END:VEVENT
+END:VCALENDAR

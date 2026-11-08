@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1492@radarcremona
+DTSTAMP:20261108T072026Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Modelli di governance\, ruoli e trasparenza per gestire le nuove 
+ tecnologie
+LOCATION:Laboratorio Aperto di Parma\, 5 Vicolo delle Asse\, Parma
+DESCRIPTION:Incontro di approfondimento su come organizzare responsabilit
+ à\, regole e chiarezza nell'uso delle tecnologie emergenti. Info: https
+ ://allevents.in/parma/modelli-di-governance-ruoli-e-trasparenza-per-gest
+ ire-le-nuove-tecnologie/100002003961234999 (via @radarcremona)
+URL:https://allevents.in/parma/modelli-di-governance-ruoli-e-trasparenza-
+ per-gestire-le-nuove-tecnologie/100002003961234999
+END:VEVENT
+END:VCALENDAR

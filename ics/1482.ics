@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1482@radarcremona
+DTSTAMP:20261108T072026Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:COSE DI JAZZ - Giovanni Mazzarino Racconto musicale con ascolti g
+ uidati
+LOCATION:Spazio Bacillo - Contaminazioni Artistiche\, via Selvagreca A725
+ \, Lodi
+DESCRIPTION:Serata di jazz dal vivo con un pianista siciliano\, tra racco
+ nto e ascolto guidato dei brani. Info: https://allevents.in/lodi/cose-di
+ -jazz-giovanni-mazzarino-racconto-musicale-con-ascolti-guidati/100002002
+ 099757269 (via @radarcremona)
+URL:https://allevents.in/lodi/cose-di-jazz-giovanni-mazzarino-racconto-mu
+ sicale-con-ascolti-guidati/100002002099757269
+END:VEVENT
+END:VCALENDAR
