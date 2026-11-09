@@ -4,9 +4,9 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1335@radarcremona
-DTSTAMP:20261108T072026Z
+DTSTAMP:20261109T072039Z
 DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261123
 SUMMARY:Scopri la storia del Teatro Ponchielli
 LOCATION:Teatro Ponchielli\, 52 Corso Vittorio Emanuele II\, Cremona
 DESCRIPTION:Visita guidata speciale nel teatro cittadino per conoscerne i

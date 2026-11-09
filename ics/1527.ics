@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1527@radarcremona
+DTSTAMP:20261109T072039Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261118
+SUMMARY:Tour Guidato allo Stadio Giovanni Zini di Cremona
+LOCATION:Stadio Giovanni Zini\, 19 Via Persico\, Cremona
+DESCRIPTION:Visita guidata esclusiva dentro lo stadio della squadra citta
+ dina\, organizzata insieme a un progetto di promozione turistica. Info: 
+ https://allevents.in/cremona/tour-guidato-allo-stadio-giovanni-zini-di-c
+ remona/100002004476040797 (via @radarcremona)
+URL:https://allevents.in/cremona/tour-guidato-allo-stadio-giovanni-zini-d
+ i-cremona/100002004476040797
+END:VEVENT
+END:VCALENDAR

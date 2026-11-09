@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1555@radarcremona
+DTSTAMP:20261109T072039Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Depositi aperti | Visite guidate al Museo di Casa Cervi
+LOCATION:Via Fratelli Cervi\, 9\, 42043 Gattatico\, Italy\, Via Fratelli 
+ Cervi\, Parma
+DESCRIPTION:Visite guidate al museo di una famiglia storica\, con accesso
+  a spazi solitamente non aperti. Info: https://allevents.in/parma/deposi
+ ti-aperti-visite-guidate-al-museo-di-casa-cervi/200031009139918 (via @ra
+ darcremona)
+URL:https://allevents.in/parma/depositi-aperti-visite-guidate-al-museo-di
+ -casa-cervi/200031009139918
+END:VEVENT
+END:VCALENDAR

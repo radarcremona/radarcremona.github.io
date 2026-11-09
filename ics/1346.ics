@@ -4,15 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1346@radarcremona
-DTSTAMP:20261108T072026Z
+DTSTAMP:20261109T072039Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:TRANSUMANZA URBANA
 LOCATION:Piazza Leon Battista Alberti\, Piazza Leon Battista Alberti\, Ma
  ntova
 DESCRIPTION:Camminata poetica gratuita tra le tappe del festival\, sulle 
- orme degli animali simbolo delle edizioni passate. Info: https://alleven
- ts.in/mantova/transumanza-urbana/100002003393848932 (via @radarcremona)
-URL:https://allevents.in/mantova/transumanza-urbana/100002003393848932
+ orme degli animali simbolo delle edizioni passate. Info: https://www.eve
+ ntbrite.it/e/transumanza-urbana-tickets-2003393848932 (via @radarcremona
+ )
+URL:https://www.eventbrite.it/e/transumanza-urbana-tickets-2003393848932
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1544@radarcremona
+DTSTAMP:20261109T072039Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Operare nel mercato vincolato (NPL) dopo la Secondary Market Dire
+ ctive
+LOCATION:Rima Arredamenti Verona\, 21 Via C. Battisti\, Pozzo
+DESCRIPTION:Appuntamento formativo per professionisti del settore immobil
+ iare sul tema dei crediti deteriorati\, con un relatore esperto. Info: h
+ ttps://www.eventbrite.it/e/operare-nel-mercato-vincolato-npl-dopo-la-sec
+ ondary-market-directive-tickets-2004475493159 (via @radarcremona)
+URL:https://www.eventbrite.it/e/operare-nel-mercato-vincolato-npl-dopo-la
+ -secondary-market-directive-tickets-2004475493159
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1540@radarcremona
+DTSTAMP:20261109T072039Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:BASTA FAVOLE! Proiezione docufilm
+LOCATION:CINEMA CARBONE\, Via Guglielmo Oberdan\, Mantova
+DESCRIPTION:Proiezione di un documentario che racconta come è nato e cre
+ sciuto il teatro rivolto a bambini e ragazzi. Info: https://www.eventbri
+ te.it/e/basta-favole-proiezione-docufilm-tickets-2003287738553 (via @rad
+ arcremona)
+URL:https://www.eventbrite.it/e/basta-favole-proiezione-docufilm-tickets-
+ 2003287738553
+END:VEVENT
+END:VCALENDAR

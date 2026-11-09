@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1549@radarcremona
+DTSTAMP:20261109T072039Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:UNA NOTTE UN MUSEO | Museo Dolci di Brescia
+LOCATION:Museo Dolci - Fondazione Dolci\, 163 Via Raffaello Sanzio\, Bres
+ cia
+DESCRIPTION:Visite multisensoriali al buio nel museo\, con degustazioni p
+ er scoprire opere\, storia e tradizioni del territorio. Info: https://al
+ levents.in/brescia/una-notte-un-museo-museo-dolci-di-brescia/10000200089
+ 1806255 (via @radarcremona)
+URL:https://allevents.in/brescia/una-notte-un-museo-museo-dolci-di-bresci
+ a/100002000891806255
+END:VEVENT
+END:VCALENDAR

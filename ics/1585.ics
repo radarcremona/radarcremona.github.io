@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1585@radarcremona
+DTSTAMP:20261109T072039Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261123
+SUMMARY:Pinocchio e la musica
+LOCATION:Palazzo del Comune\, Piazza del Comune\, Cremona
+DESCRIPTION:Spettacolo che unisce teatro\, arti visive e musica attorno a
+ lla celebre storia del burattino di legno. Info: https://www.comune.crem
+ ona.it/vivere-comune/eventi/pinocchio-musica (via @radarcremona)
+URL:https://www.comune.cremona.it/vivere-comune/eventi/pinocchio-musica
+END:VEVENT
+END:VCALENDAR

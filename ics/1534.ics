@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1534@radarcremona
+DTSTAMP:20261109T072039Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Il Musical - Più Bella Cosa Non C'è - 13/12/2026 Castellucchio
+LOCATION:Teatro Soms\, Piazza Pasotti 26\, Castellucchio
+DESCRIPTION:Spettacolo musicale messo in scena da una compagnia formata d
+ a gruppi di diversi oratori. Info: https://www.eventbrite.it/e/biglietti
+ -il-musical-piu-bella-cosa-non-ce-13122026-castellucchio-2004057680470 (
+ via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-il-musical-piu-bella-cosa-non-c
+ e-13122026-castellucchio-2004057680470
+END:VEVENT
+END:VCALENDAR

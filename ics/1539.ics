@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1539@radarcremona
+DTSTAMP:20261109T072039Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:RESPIRA Biglietti Pubblico - Rassegna di Danza
+LOCATION:TEATRO & CINEMA SMERALDO\, Piazza San Rocco\, Valeggio sul Minci
+ o
+DESCRIPTION:Prenotazione dei posti per assistere a una rassegna di danza 
+ in un teatro\, in una domenica di novembre. Info: https://www.eventbrite
+ .com/e/respira-biglietti-pubblico-rassegna-di-danza-tickets-200435764366
+ 8 (via @radarcremona)
+URL:https://www.eventbrite.com/e/respira-biglietti-pubblico-rassegna-di-d
+ anza-tickets-2004357643668
+END:VEVENT
+END:VCALENDAR

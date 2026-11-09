@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1554@radarcremona
+DTSTAMP:20261109T072039Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:PARMA COMICS & GAMES
+LOCATION:Fiere di Parma\, Palacassa Parma\, Parma
+DESCRIPTION:Fiera dedicata al mondo dei fumetti e dei giochi\, in program
+ ma a Parma. Info: https://allevents.in/parma/parma-comics-and-games/2000
+ 30784534114 (via @radarcremona)
+URL:https://allevents.in/parma/parma-comics-and-games/200030784534114
+END:VEVENT
+END:VCALENDAR

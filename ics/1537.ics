@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1537@radarcremona
+DTSTAMP:20261109T072039Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:TEEN KITCHEN TABLE
+LOCATION:Palazzo Te\, Viale Te\, Mantova
+DESCRIPTION:Incontro di dialogo e ascolto in cui i ragazzi parlano da esp
+ erti e gli adulti ascoltano. Info: https://www.eventbrite.it/e/teen-kitc
+ hen-table-tickets-2003398788707 (via @radarcremona)
+URL:https://www.eventbrite.it/e/teen-kitchen-table-tickets-2003398788707
+END:VEVENT
+END:VCALENDAR

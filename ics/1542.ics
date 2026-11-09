@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1542@radarcremona
+DTSTAMP:20261109T072039Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:PROGETTO TEACH ME: CONCERTO GOSPEL SOLIDALE
+LOCATION:Teatro S.Teresa\, 23 Via Molinara\, Verona
+DESCRIPTION:Concerto gospel benefico di pomeriggio\, con raccolta a favor
+ e dei bambini bisognosi di una città indiana. Info: https://www.eventbr
+ ite.it/e/registrazione-progetto-teach-me-concerto-gospel-solidale-200416
+ 7195031 (via @radarcremona)
+URL:https://www.eventbrite.it/e/registrazione-progetto-teach-me-concerto-
+ gospel-solidale-2004167195031
+END:VEVENT
+END:VCALENDAR

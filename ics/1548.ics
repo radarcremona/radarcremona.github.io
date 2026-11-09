@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1548@radarcremona
+DTSTAMP:20261109T072039Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:50 anni CCDC - Cattolicesimo Democratico tra radici e futuro
+LOCATION:Via della Pace\, 10\, 10 Via della Pace\, Brescia
+DESCRIPTION:Incontro per celebrare l'anniversario di un'associazione e di
+ scutere del cattolicesimo democratico\, tra storia e prospettive future.
+  Info: https://allevents.in/brescia/50-anni-ccdc-cattolicesimo-democrati
+ co-tra-radici-e-futuro/100002004475928461 (via @radarcremona)
+URL:https://allevents.in/brescia/50-anni-ccdc-cattolicesimo-democratico-t
+ ra-radici-e-futuro/100002004475928461
+END:VEVENT
+END:VCALENDAR

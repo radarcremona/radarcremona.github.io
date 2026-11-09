@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1533@radarcremona
+DTSTAMP:20261109T072039Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:SPUNTI(NI) CRITICI
+LOCATION:Il Boccio\, 29 Viale Te\, Mantova
+DESCRIPTION:Momento di confronto aperto al pubblico\, per discutere insie
+ me degli spettacoli visti e prolungarne il ricordo. Info: https://www.ev
+ entbrite.it/e/spuntini-critici-tickets-2003501058599 (via @radarcremona)
+URL:https://www.eventbrite.it/e/spuntini-critici-tickets-2003501058599
+END:VEVENT
+END:VCALENDAR
