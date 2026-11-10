@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1598@radarcremona
+DTSTAMP:20261110T072034Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:L'ARTE COME VIA ALLO SPIRITO
+LOCATION:Via Alfredo Zerbini\, 10\, 10 Via Alfredo Zerbini\, Parma
+DESCRIPTION:Incontro dedicato al rapporto tra espressione artistica e dim
+ ensione spirituale. Info: https://allevents.in/parma/larte-come-via-allo
+ -spirito/100002004503419688 (via @radarcremona)
+URL:https://allevents.in/parma/larte-come-via-allo-spirito/10000200450341
+ 9688
+END:VEVENT
+END:VCALENDAR

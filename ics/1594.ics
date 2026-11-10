@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1594@radarcremona
+DTSTAMP:20261110T072034Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Corso Origami Brescia
+LOCATION:Via S. Faustino\, 63\, 63 Via San Faustino\, Brescia
+DESCRIPTION:Laboratorio di piegatura della carta a Brescia per adulti e r
+ agazzi dagli otto anni. Info: https://www.eventbrite.it/e/corso-origami-
+ brescia-tickets-2004119120238 (via @radarcremona)
+URL:https://www.eventbrite.it/e/corso-origami-brescia-tickets-20041191202
+ 38
+END:VEVENT
+END:VCALENDAR

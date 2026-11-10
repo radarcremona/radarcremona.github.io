@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1425@radarcremona
+DTSTAMP:20261110T072034Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Afro Dizzy December To Remember Party
+LOCATION:Via Roma\, 28\, 28 Via Roma\, Colorno
+DESCRIPTION:Serata di musica afro in clima natalizio\, organizzata dal co
+ llettivo Afro Dizzy per stare insieme e divertirsi. Info: https://www.ev
+ entbrite.com/e/afro-dizzy-december-to-remember-party-tickets-20032290590
+ 41 (via @radarcremona)
+URL:https://www.eventbrite.com/e/afro-dizzy-december-to-remember-party-ti
+ ckets-2003229059041
+END:VEVENT
+END:VCALENDAR

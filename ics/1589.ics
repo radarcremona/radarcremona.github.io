@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1589@radarcremona
+DTSTAMP:20261110T072034Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261221
+SUMMARY:Natale con Gusto
+LOCATION:Iseo\, Zona Centro Storico\, Iseo
+DESCRIPTION:Evento natalizio a Iseo\, giunto alla seconda edizione\, con 
+ proposte gastronomiche da gustare sul posto. Info: https://sagramap.com/
+ evento/natale-con-gusto-iseo (via @radarcremona)
+URL:https://sagramap.com/evento/natale-con-gusto-iseo
+END:VEVENT
+END:VCALENDAR

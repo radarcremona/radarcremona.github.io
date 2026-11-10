@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1590@radarcremona
+DTSTAMP:20261110T072034Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Prepariamo il Natale
+LOCATION:Toscolano Maderno\, Lungolago di Maderno\, Toscolano Maderno
+DESCRIPTION:Giornata di festa prima di Natale tra piatti tipici\, concert
+ i dal vivo e bancarelle di prodotti locali. Info: https://sagramap.com/e
+ vento/prepariamo-il-natale-toscolano-maderno (via @radarcremona)
+URL:https://sagramap.com/evento/prepariamo-il-natale-toscolano-maderno
+END:VEVENT
+END:VCALENDAR

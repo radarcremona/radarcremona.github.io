@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1619@radarcremona
+DTSTAMP:20261110T072034Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:L’AZZARDO AL TEMPO DELL’INTELLIGENZA ARTIFICIALE
+LOCATION:Ridotto del Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele
+  II 52\, Cremona
+DESCRIPTION:Spettacolo del Teatro Ponchielli di Cremona che affronta il g
+ ioco d'azzardo nell'epoca dell'intelligenza artificiale. Info: https://w
+ ww.teatroponchielli.it/spettacolo/lazzardo-al-tempo-dellintelligenza-art
+ ificiale/ (via @radarcremona)
+URL:https://www.teatroponchielli.it/spettacolo/lazzardo-al-tempo-dellinte
+ lligenza-artificiale/
+END:VEVENT
+END:VCALENDAR

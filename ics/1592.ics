@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1592@radarcremona
+DTSTAMP:20261110T072034Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Mercatini di Natale
+LOCATION:Verolavecchia\, Piazza G.verdi\, Verolavecchia
+DESCRIPTION:Mercatino natalizio a Verolavecchia in una giornata di dicemb
+ re\, con possibilità di mangiare sul posto. Info: https://sagramap.com/
+ evento/mercatini-di-natale-verolavecchia (via @radarcremona)
+URL:https://sagramap.com/evento/mercatini-di-natale-verolavecchia
+END:VEVENT
+END:VCALENDAR

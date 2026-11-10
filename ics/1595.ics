@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1595@radarcremona
+DTSTAMP:20261110T072034Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Filosofia
+LOCATION:Via Trieste\, 8\, 8 Via Trieste\, Brescia
+DESCRIPTION:Incontro a tema filosofico\, occasione di riflessione e confr
+ onto aperta a chi ama le grandi domande. Info: https://allevents.in/bres
+ cia/filosofia/100002003961605106 (via @radarcremona)
+URL:https://allevents.in/brescia/filosofia/100002003961605106
+END:VEVENT
+END:VCALENDAR
