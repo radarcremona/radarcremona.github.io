@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1551@radarcremona
+DTSTAMP:20261111T072033Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Le Officine Reggiane: una storia di archeologia industriale
+LOCATION:Viale B. Ramazzini\, 42122 Reggio Emilia RE\, Italy\, Sotto al c
+ arro ponte\, Reggio Emilia
+DESCRIPTION:Visita guidata all'ex area industriale di Reggio Emilia\, ogg
+ i Parco Innovazione\, per ripercorrerne la storia del lavoro. Info: http
+ s://www.eventbrite.co.uk/e/le-officine-reggiane-una-storia-di-archeologi
+ a-industriale-tickets-2004314479563 (via @radarcremona)
+URL:https://www.eventbrite.co.uk/e/le-officine-reggiane-una-storia-di-arc
+ heologia-industriale-tickets-2004314479563
+END:VEVENT
+END:VCALENDAR

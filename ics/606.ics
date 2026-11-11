@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-606@radarcremona
+DTSTAMP:20261111T072033Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:IL PIPISTRELLO
+LOCATION:Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele II 52\, Cre
+ mona
+DESCRIPTION:Operetta di Strauss al Teatro Ponchielli di Cremona\, con Cor
+ rado Abbati\, tra balli\, intrighi e scambi di identità. Info: https://
+ www.teatroponchielli.it/spettacolo/il-pipistrello-abbati-2026-2/ (via @r
+ adarcremona)
+URL:https://www.teatroponchielli.it/spettacolo/il-pipistrello-abbati-2026
+ -2/
+END:VEVENT
+END:VCALENDAR

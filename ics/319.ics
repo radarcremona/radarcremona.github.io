@@ -4,16 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-319@radarcremona
-DTSTAMP:20261110T072034Z
+DTSTAMP:20261111T072033Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:LE TUE MANI POSSONO MOLTO DI PIÙ – PRANOTERAPIA A MANTOVA
-LOCATION:Mantova\, Via Camillo Benso Conte di Cavour 86\, Mantova
+SUMMARY:LE TUE MANI POSSONO MOLTO DI PIÙ - PRANOTERAPIA A MANTOVA
+LOCATION:Haree Center\, 86 Via Camillo Benso Cavour\, Mantova
 DESCRIPTION:Giornata di presentazione di un percorso formativo olistico d
  edicato alla pranoterapia\, per chi vuole scoprire questa pratica. Info:
-  https://allevents.in/mantova/le-tue-mani-possono-molto-di-piÙ-pranoter
- apia-a-mantova-tickets/80003412620516 (via @radarcremona)
-URL:https://allevents.in/mantova/le-tue-mani-possono-molto-di-piÙ-pranot
- erapia-a-mantova-tickets/80003412620516
+  https://www.eventbrite.it/e/biglietti-le-tue-mani-possono-molto-di-piu-
+ pranoterapia-a-mantova-2002211728177 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-le-tue-mani-possono-molto-di-pi
+ u-pranoterapia-a-mantova-2002211728177
 END:VEVENT
 END:VCALENDAR

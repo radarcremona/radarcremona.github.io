@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1623@radarcremona
+DTSTAMP:20261111T072033Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Ricominciare_ quando la vita ti chiede di cambiare
+LOCATION:Articoltura APS\, Verona\, Via Sasse\, Verona
+DESCRIPTION:Incontro sul tema del cambiamento personale e di come ritrova
+ rsi quando la propria identità si trasforma. Info: https://www.eventbri
+ te.com/e/ricominciare-quando-la-vita-ti-chiede-di-cambiare-tickets-20039
+ 39904198 (via @radarcremona)
+URL:https://www.eventbrite.com/e/ricominciare-quando-la-vita-ti-chiede-di
+ -cambiare-tickets-2003939904198
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1627@radarcremona
+DTSTAMP:20261111T072033Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:VA-CCHE GIOSTRA!
+LOCATION:Loggia del Grano\, Via Giovanni Battista Spagnoli\, Mantova
+DESCRIPTION:Una giostra decorata a mano da visitare\, pensata come piccol
+ o percorso di gioco e fantasia. Info: https://www.eventbrite.it/e/va-cch
+ e-giostra-tickets-2003590680661 (via @radarcremona)
+URL:https://www.eventbrite.it/e/va-cche-giostra-tickets-2003590680661
+END:VEVENT
+END:VCALENDAR

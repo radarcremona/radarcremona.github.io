@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1626@radarcremona
+DTSTAMP:20261111T072033Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Il Corso di Pasta Fresca e ripiena: Gli agnoli di carne
+LOCATION:Via Muri\, 56\, 56 Via Muri\, Bonavicina
+DESCRIPTION:Laboratorio pratico di cucina con una chef: si prepara a mano
+  un tipo di pasta ripiena e poi si assaggia. Info: https://www.eventbrit
+ e.com/e/biglietti-il-corso-di-pasta-fresca-e-ripiena-gli-agnoli-di-carne
+ -2004239182347 (via @radarcremona)
+URL:https://www.eventbrite.com/e/biglietti-il-corso-di-pasta-fresca-e-rip
+ iena-gli-agnoli-di-carne-2004239182347
+END:VEVENT
+END:VCALENDAR

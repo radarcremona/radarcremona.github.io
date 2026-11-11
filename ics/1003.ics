@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1003@radarcremona
+DTSTAMP:20261111T072033Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Incontri amichevoli & passeggiata fotografica / Make friends & Ph
+ otowalk Meetup
+LOCATION:Punto d'incontro: Magnolia Café\, Strada Duomo\, Parma
+DESCRIPTION:Ritrovo informale per conoscere nuove persone e passeggiare i
+ nsieme scattando fotografie. Info: https://allevents.in/parma/incontri-a
+ michevoli-and-passeggiata-fotografica-make-friends-and-photowalk-meetup/
+ 200030469413753 (via @radarcremona)
+URL:https://allevents.in/parma/incontri-amichevoli-and-passeggiata-fotogr
+ afica-make-friends-and-photowalk-meetup/200030469413753
+END:VEVENT
+END:VCALENDAR

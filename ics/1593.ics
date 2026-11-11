@@ -4,13 +4,14 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1593@radarcremona
-DTSTAMP:20261110T072034Z
+DTSTAMP:20261111T072033Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Festa dell'Immacolata - la Magia del Natale
 LOCATION:Mazzano\, Via Battista Portesi 1\, Mazzano
-DESCRIPTION:Info: https://sagramap.com/evento/festa-dellimmacolata-la-mag
- ia-del-natale-mazzano (via @radarcremona)
+DESCRIPTION:Giornata di festa a Mazzano per l'8 dicembre\, con concerti\,
+  danze e bancarelle di cibo. Info: https://sagramap.com/evento/festa-del
+ limmacolata-la-magia-del-natale-mazzano (via @radarcremona)
 URL:https://sagramap.com/evento/festa-dellimmacolata-la-magia-del-natale-
  mazzano
 END:VEVENT

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1628@radarcremona
+DTSTAMP:20261111T072033Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:POTATO PRINTING | Crea la tua Arte con le Patate
+LOCATION:Pino’s Potatoes\, 15/A Via Adigetto\, Verona
+DESCRIPTION:Laboratorio creativo di stampa su carta con timbri ricavati d
+ alle patate\, accompagnato da aperitivo e assaggi. Info: https://www.eve
+ ntbrite.it/e/biglietti-potato-printing-crea-la-tua-arte-con-le-patate-20
+ 03830798861 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-potato-printing-crea-la-tua-art
+ e-con-le-patate-2003830798861
+END:VEVENT
+END:VCALENDAR
