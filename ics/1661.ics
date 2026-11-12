@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1661@radarcremona
+DTSTAMP:20261112T072028Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:La più misteriosa e segreta delle chiese reggiane: S. Girolamo e
+  S. Vitale
+LOCATION:Via S. Girolamo\, 24\, 42121 Reggio Emilia RE\, Italia\, Davanti
+  ingresso chiesa di S. Girolamo e S. Vitale\, Reggio Emilia
+DESCRIPTION:Visita guidata a una chiesa barocca di Reggio Emilia\, nota p
+ er i suoi spazi nascosti e simbolici. Info: https://www.eventbrite.it/e/
+ la-piu-misteriosa-e-segreta-delle-chiese-reggiane-s-girolamo-e-s-vitale-
+ tickets-2001076507702 (via @radarcremona)
+URL:https://www.eventbrite.it/e/la-piu-misteriosa-e-segreta-delle-chiese-
+ reggiane-s-girolamo-e-s-vitale-tickets-2001076507702
+END:VEVENT
+END:VCALENDAR

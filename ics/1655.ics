@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1655@radarcremona
+DTSTAMP:20261112T072028Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:OSHO MEDITATION con Shanti Tozzi: Verità & Fiducia
+LOCATION:Hygge Hive\, 3c Vicolo Fossetto\, Verona
+DESCRIPTION:Due appuntamenti domenicali di meditazione e riflessione su d
+ i sé nello stile di Osho\, guidati da Shanti Tozzi. Info: https://www.e
+ ventbrite.it/e/biglietti-osho-meditation-con-shanti-tozzi-verita-fiducia
+ -2003081462576 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-osho-meditation-con-shanti-tozz
+ i-verita-fiducia-2003081462576
+END:VEVENT
+END:VCALENDAR

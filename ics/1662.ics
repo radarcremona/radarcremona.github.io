@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1662@radarcremona
+DTSTAMP:20261112T072028Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:Terminal @ Il Liceo
+LOCATION:Il Liceo - Sorsi e Morsi\, 12/a Via Enrico Ferri\, Sesso
+DESCRIPTION:Seconda serata di musica dal vivo e club in un locale della z
+ ona. Info: https://www.eventbrite.it/e/biglietti-terminal-il-liceo-20045
+ 70978759 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-terminal-il-liceo-2004570978759
+END:VEVENT
+END:VCALENDAR

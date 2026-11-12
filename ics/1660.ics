@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1660@radarcremona
+DTSTAMP:20261112T072028Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261125
+SUMMARY:Ancora
+LOCATION:Wood room\, Via Einstein 26\, Reggio nell'Emilia
+DESCRIPTION:Serata club in musica\, in programma lunedì 23 novembre alla
+  Wood Room. Info: https://www.eventbrite.it/e/ancora-tickets-20043141154
+ 74 (via @radarcremona)
+URL:https://www.eventbrite.it/e/ancora-tickets-2004314115474
+END:VEVENT
+END:VCALENDAR

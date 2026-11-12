@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1656@radarcremona
+DTSTAMP:20261112T072028Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:MECCG Italian Tournament in Mantova (Ponte LagoLungo - Esgaroth)
+LOCATION:Via Galana\, 9\, 46100 Mantova MN\, Italia\, Wnn\, Mantova
+DESCRIPTION:Torneo italiano di un gioco di carte collezionabili\, organiz
+ zato a Mantova. Info: https://allevents.in/mantova/meccg-italian-tournam
+ ent-in-mantova-ponte-lagolungo-esgaroth/200031004842326 (via @radarcremo
+ na)
+URL:https://allevents.in/mantova/meccg-italian-tournament-in-mantova-pont
+ e-lagolungo-esgaroth/200031004842326
+END:VEVENT
+END:VCALENDAR

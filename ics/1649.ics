@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1649@radarcremona
+DTSTAMP:20261112T072028Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Oltre il palco. Liberare il corpo\, ascoltare se stessi\, fare il
+  primo passo
+LOCATION:Trecella\, Via della Stella 2\, Trecella
+DESCRIPTION:Percorso di teatro per lavorare su corpo e creatività\, pens
+ ato per benessere e crescita personale. Info: https://www.eventbrite.com
+ /e/oltre-il-palco-liberare-il-corpo-ascoltare-se-stessi-fare-il-primo-pa
+ sso-tickets-2003049828959 (via @radarcremona)
+URL:https://www.eventbrite.com/e/oltre-il-palco-liberare-il-corpo-ascolta
+ re-se-stessi-fare-il-primo-passo-tickets-2003049828959
+END:VEVENT
+END:VCALENDAR

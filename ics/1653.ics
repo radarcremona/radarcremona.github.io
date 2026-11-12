@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1653@radarcremona
+DTSTAMP:20261112T072028Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Beer & Brush - pittura miniature @ The Lab
+LOCATION:The Lab - Drink&amp\;Play\, 12 Via Guido Rossa\, Lodi
+DESCRIPTION:Serata rilassata dedicata a pittura di miniature e hobby\, da
+  passare insieme in negozio. Info: https://allevents.in/lodi/beer-and-br
+ ush-pittura-miniature-the-lab/100001034999741087 (via @radarcremona)
+URL:https://allevents.in/lodi/beer-and-brush-pittura-miniature-the-lab/10
+ 0001034999741087
+END:VEVENT
+END:VCALENDAR

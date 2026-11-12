@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-29@radarcremona
+DTSTAMP:20261112T072028Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:La Magia del Natale a Piacenza: visita guidata tra storia\, legge
+ nde e tradizioni natalizie
+LOCATION:Piazza della Cittadella\, 29\, 29100 Piacenza PC\, Italia\, Dava
+ nti ingresso Palazzo Farnese\, Piacenza
+DESCRIPTION:Passeggiata guidata nel centro di Piacenza per scoprire stori
+ a\, leggende e usanze del periodo natalizio. Info: https://www.eventbrit
+ e.it/e/la-magia-del-natale-a-piacenza-visita-guidata-tra-storia-leggende
+ -e-tradizioni-natalizie-tickets-2001362901313 (via @radarcremona)
+URL:https://www.eventbrite.it/e/la-magia-del-natale-a-piacenza-visita-gui
+ data-tra-storia-leggende-e-tradizioni-natalizie-tickets-2001362901313
+END:VEVENT
+END:VCALENDAR

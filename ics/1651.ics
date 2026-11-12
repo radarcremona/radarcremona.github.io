@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1651@radarcremona
+DTSTAMP:20261112T072028Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Master of Duel Commander - Magic Planet
+LOCATION:Via Leonardo da vinci  53/A\, 29122 Piacenza\, Italy\, Via Leona
+ rdo da Vinci\, Piacenza
+DESCRIPTION:Torneo di carte collezionabili in formato Duel Commander\, in
+  programma domenica 22 novembre a Piacenza. Info: https://allevents.in/p
+ iacenza/master-of-duel-commander-magic-planet/200031024982407 (via @rada
+ rcremona)
+URL:https://allevents.in/piacenza/master-of-duel-commander-magic-planet/2
+ 00031024982407
+END:VEVENT
+END:VCALENDAR
