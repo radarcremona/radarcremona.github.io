@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1696@radarcremona
+DTSTAMP:20261113T072029Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Christmas Networking Aperitivo 2026 by WEAPN
+LOCATION:Brescia (BS)\, Italia - to be announced\, To be announced\, Bres
+ cia
+DESCRIPTION:Serata di aperitivo pensata per conoscere altri professionist
+ i e allargare la propria rete di contatti in clima natalizio. Info: http
+ s://allevents.in/brescia/christmas-networking-aperitivo-2026-by-weapn/10
+ 0002004171906122 (via @radarcremona)
+URL:https://allevents.in/brescia/christmas-networking-aperitivo-2026-by-w
+ eapn/100002004171906122
+END:VEVENT
+END:VCALENDAR

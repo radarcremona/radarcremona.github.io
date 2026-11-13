@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1698@radarcremona
+DTSTAMP:20261113T072029Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:IL PEZZO MANCANTE. Il nucleare nel puzzle dell'energia
+LOCATION:Hotel Master\, 72 Via Luigi Apollonio\, Brescia
+DESCRIPTION:Incontro di approfondimento sul ruolo che l'energia atomica p
+ uò avere nel futuro del sistema energetico. Info: https://allevents.in/
+ brescia/il-pezzo-mancante-il-nucleare-nel-puzzle-dellenergia/10000200475
+ 9633029 (via @radarcremona)
+URL:https://allevents.in/brescia/il-pezzo-mancante-il-nucleare-nel-puzzle
+ -dellenergia/100002004759633029
+END:VEVENT
+END:VCALENDAR

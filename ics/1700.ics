@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1700@radarcremona
+DTSTAMP:20261113T072029Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:L'Homo sapiens e il suo pianeta
+LOCATION:Camera di Commercio Industria Artigianato e Agricoltura di Bresc
+ ia\, 23 Via Luigi Einaudi\, Brescia
+DESCRIPTION:Dibattito tra tre scienziati sul rapporto tra l'umanità e la
+  Terra\, con la presenza dei premiati. Info: https://allevents.in/bresci
+ a/lhomo-sapiens-e-il-suo-pianeta/100002004486452940 (via @radarcremona)
+URL:https://allevents.in/brescia/lhomo-sapiens-e-il-suo-pianeta/100002004
+ 486452940
+END:VEVENT
+END:VCALENDAR

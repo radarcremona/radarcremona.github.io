@@ -4,15 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1659@radarcremona
-DTSTAMP:20261112T072028Z
+DTSTAMP:20261113T072029Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:WorkShop Bhangra Vibes Second Edition
 LOCATION:Klas Studio\, 76 Via Orzinuovi\, Brescia
 DESCRIPTION:Laboratorio di danza dedicato al bhangra\, giunto alla sua se
- conda edizione. Info: https://allevents.in/brescia/workshop-bhangra-vibe
- s-second-edition/100002004619408614 (via @radarcremona)
-URL:https://allevents.in/brescia/workshop-bhangra-vibes-second-edition/10
- 0002004619408614
+ conda edizione. Info: https://www.eventbrite.co.uk/e/workshop-bhangra-vi
+ bes-second-edition-tickets-2004619408614 (via @radarcremona)
+URL:https://www.eventbrite.co.uk/e/workshop-bhangra-vibes-second-edition-
+ tickets-2004619408614
 END:VEVENT
 END:VCALENDAR

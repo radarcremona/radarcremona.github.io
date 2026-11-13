@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1688@radarcremona
+DTSTAMP:20261113T072029Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:FACCIAMO CINEMA
+LOCATION:Cinema Politeama\, 7 Via San Siro\, Piacenza
+DESCRIPTION:Proiezione di un documentario sul laboratorio di cinema nato 
+ dentro una comunità terapeutica\, con la presenza del regista. Info: ht
+ tps://allevents.in/piacenza/facciamo-cinema/100002004757098448 (via @rad
+ arcremona)
+URL:https://allevents.in/piacenza/facciamo-cinema/100002004757098448
+END:VEVENT
+END:VCALENDAR

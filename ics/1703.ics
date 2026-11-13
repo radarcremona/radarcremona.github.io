@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1703@radarcremona
+DTSTAMP:20261113T072029Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:English Aperitivo in Brescia @TheBlackSheep (18:30–20:00)
+LOCATION:The Black Sheep Pub\, 15 Via Tosio\, Brescia
+DESCRIPTION:Aperitivo informale per praticare l'inglese a voce e conoscer
+ e persone nuove in un locale cittadino. Info: https://allevents.in/bresc
+ ia/english-aperitivo-in-brescia-theblacksheep-18-30-20-00/10000200464601
+ 0180 (via @radarcremona)
+URL:https://allevents.in/brescia/english-aperitivo-in-brescia-theblackshe
+ ep-18-30-20-00/100002004646010180
+END:VEVENT
+END:VCALENDAR

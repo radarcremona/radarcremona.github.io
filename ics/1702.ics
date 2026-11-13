@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1702@radarcremona
+DTSTAMP:20261113T072029Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Quel caos grandioso chiamato Universo
+LOCATION:Camera di Commercio Industria Artigianato e Agricoltura di Bresc
+ ia\, 23 Via Luigi Einaudi\, Brescia
+DESCRIPTION:Incontro in presenza in cui un fisico dialoga con gli student
+ i delle superiori bresciane sull'origine dell'universo. Info: https://al
+ levents.in/brescia/quel-caos-grandioso-chiamato-universo/100002004484428
+ 886 (via @radarcremona)
+URL:https://allevents.in/brescia/quel-caos-grandioso-chiamato-universo/10
+ 0002004484428886
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1750@radarcremona
+DTSTAMP:20261113T072029Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261122
+SUMMARY:FESTIVAL PASOLINI CREMONA 2026
+LOCATION:Ridotto Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele II 
+ 52\, Cremona
+DESCRIPTION:Rassegna culturale cremonese dedicata alla figura e all'opera
+  dell'intellettuale friulano\, con appuntamenti aperti al pubblico. Info
+ : https://www.teatroponchielli.it/spettacolo/pasolini-festival-cremona-2
+ 026/ (via @radarcremona)
+URL:https://www.teatroponchielli.it/spettacolo/pasolini-festival-cremona-
+ 2026/
+END:VEVENT
+END:VCALENDAR

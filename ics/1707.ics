@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1707@radarcremona
+DTSTAMP:20261113T072029Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:THE MOTHERS ALTER PARMA CITY
+LOCATION:Parma\, Italia\, Parma\, Parma
+DESCRIPTION:Serata di musica dal vivo a Parma con una band sul palco. Inf
+ o: https://allevents.in/parma/the-mothers-alter-parma-city/2000309958267
+ 06 (via @radarcremona)
+URL:https://allevents.in/parma/the-mothers-alter-parma-city/2000309958267
+ 06
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1706@radarcremona
+DTSTAMP:20261113T072029Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:“Anna Pavlova” International Classical and Modern Dance Compe
+ tition
+LOCATION:Fondazione Teatro Due\, Viale F. e G. L. Basetti\, Parma
+DESCRIPTION:Concorso internazionale di danza che mette a confronto giovan
+ i ballerini nello stile classico e in quello moderno. Info: https://alle
+ vents.in/parma/anna-pavlova-international-classical-and-modern-dance-com
+ petition/200030982672518 (via @radarcremona)
+URL:https://allevents.in/parma/anna-pavlova-international-classical-and-m
+ odern-dance-competition/200030982672518
+END:VEVENT
+END:VCALENDAR

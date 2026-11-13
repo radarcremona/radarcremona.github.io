@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1701@radarcremona
+DTSTAMP:20261113T072029Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:BSUP #32 - Oltre l'hype dell'AI: cosa guarda un VC prima di inves
+ tire?
+LOCATION:Areadocks\, 12/A Via Gerolamo Sangervasio\, Brescia
+DESCRIPTION:Appuntamento per startup in cui un investitore spiega come va
+ luta le giovani aziende nell'epoca dell'intelligenza artificiale. Info: 
+ https://allevents.in/brescia/bsup-32-oltre-lhype-dellai-cosa-guarda-un-v
+ c-prima-di-investire/100002004644512701 (via @radarcremona)
+URL:https://allevents.in/brescia/bsup-32-oltre-lhype-dellai-cosa-guarda-u
+ n-vc-prima-di-investire/100002004644512701
+END:VEVENT
+END:VCALENDAR
