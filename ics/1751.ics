@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1751@radarcremona
+DTSTAMP:20261114T072026Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+SUMMARY:AGAPE PARTY VOL.II
+LOCATION:Parrocchia di Sant'Eulalia Vergine e Martire\, 17 Piazza IV Nove
+ mbre\, Sant'Ilario d'Enza
+DESCRIPTION:Serata musicale a tema anni 2000 con open bar e biglietto acq
+ uistabile in prevendita. Info: https://www.eventbrite.com/e/agape-party-
+ volii-tickets-2004660230714 (via @radarcremona)
+URL:https://www.eventbrite.com/e/agape-party-volii-tickets-2004660230714
+END:VEVENT
+END:VCALENDAR

@@ -4,16 +4,16 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1339@radarcremona
-DTSTAMP:20261113T072029Z
+DTSTAMP:20261114T072026Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Business Dress Code Masterclass | Modulo 4 — Personal Brand
 LOCATION:Corso G.Garibaldi\, 13\, 13 Corso G.Garibaldi\, Piacenza
 DESCRIPTION:Appuntamento formativo sul tema dell'immagine personale e del
- l'abbigliamento in ambito professionale. Info: https://allevents.in/piac
- enza/business-dress-code-masterclass-modulo-4-personal-brand/10000199363
- 1910712 (via @radarcremona)
-URL:https://allevents.in/piacenza/business-dress-code-masterclass-modulo-
- 4-personal-brand/100001993631910712
+ l'abbigliamento in ambito professionale. Info: https://www.eventbrite.it
+ /e/business-dress-code-masterclass-modulo-4-personal-brand-tickets-19936
+ 31910712 (via @radarcremona)
+URL:https://www.eventbrite.it/e/business-dress-code-masterclass-modulo-4-
+ personal-brand-tickets-1993631910712
 END:VEVENT
 END:VCALENDAR

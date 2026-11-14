@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1756@radarcremona
+DTSTAMP:20261114T072026Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ANTEPRIMA ESCLUSIVA DELLA LANCIA GAMMA
+LOCATION:Fiat Gruppo Zatti Parma\, 107 Via Emilia Ovest\, Parma
+DESCRIPTION:Serata di presentazione della nuova Lancia Gamma\, ospitata i
+ n una concessionaria di Parma. Info: https://allevents.in/parma/anteprim
+ a-esclusiva-della-lancia-gamma/100002004642873799 (via @radarcremona)
+URL:https://allevents.in/parma/anteprima-esclusiva-della-lancia-gamma/100
+ 002004642873799
+END:VEVENT
+END:VCALENDAR

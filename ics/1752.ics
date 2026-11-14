@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1752@radarcremona
+DTSTAMP:20261114T072026Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Il caso Garlasco: oltre il verdetto televisivo
+LOCATION:Via Carlo Montanari\, 1\, 1 Via Carlo Montanari\, Mantova
+DESCRIPTION:Lezione magistrale organizzata da Unicollege che analizza il 
+ caso di cronaca con l'aiuto di docenti ed esperti. Info: https://www.eve
+ ntbrite.it/e/il-caso-garlasco-oltre-il-verdetto-televisivo-tickets-20046
+ 50108438 (via @radarcremona)
+URL:https://www.eventbrite.it/e/il-caso-garlasco-oltre-il-verdetto-televi
+ sivo-tickets-2004650108438
+END:VEVENT
+END:VCALENDAR

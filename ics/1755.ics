@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1755@radarcremona
+DTSTAMP:20261114T072026Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Openday - Scuola Formazione Professionale - Istituto Salesiano Sa
+ n Zeno
+LOCATION:Istituto Salesiano San Zeno\, 50 Via Don Giovanni Minzoni\, Vero
+ na
+DESCRIPTION:Giornata di orientamento per conoscere i percorsi di formazio
+ ne professionale offerti da una scuola salesiana. Info: https://www.even
+ tbrite.it/e/biglietti-openday-scuola-formazione-professionale-istituto-s
+ alesiano-san-zeno-2003295096561 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-openday-scuola-formazione-profe
+ ssionale-istituto-salesiano-san-zeno-2003295096561
+END:VEVENT
+END:VCALENDAR
