@@ -4,15 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-9@radarcremona
-DTSTAMP:20261114T072026Z
+DTSTAMP:20261115T072032Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261123
-SUMMARY:Festa del Torrone 2026
+SUMMARY:Festa del Torrone
 LOCATION:Centro storico\, CREMONA\, Cremona
 DESCRIPTION:Ventinovesima edizione della festa cremonese del torrone\, qu
  est'anno distribuita su tre fine settimana nel centro storico. Info: htt
- ps://www.turismocremona.it/it/evento/festa-del-torrone-2026 (via @radarc
- remona)
-URL:https://www.turismocremona.it/it/evento/festa-del-torrone-2026
+ ps://www.comune.cremona.it/vivere-comune/eventi/festa-torrone (via @rada
+ rcremona)
+URL:https://www.comune.cremona.it/vivere-comune/eventi/festa-torrone
 END:VEVENT
 END:VCALENDAR

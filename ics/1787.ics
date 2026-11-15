@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1787@radarcremona
+DTSTAMP:20261115T072032Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:Parma unveiled: a stroll through the Ducal City
+LOCATION:Parma\, ponte di Mezzo\, Parma
+DESCRIPTION:Passeggiata guidata a piedi nel centro di Parma\, per scoprir
+ e con calma la città ducale. Info: https://allevents.in/parma/parma-unv
+ eiled-a-stroll-through-the-ducal-city/100002004594124990 (via @radarcrem
+ ona)
+URL:https://allevents.in/parma/parma-unveiled-a-stroll-through-the-ducal-
+ city/100002004594124990
+END:VEVENT
+END:VCALENDAR

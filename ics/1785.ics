@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1785@radarcremona
+DTSTAMP:20261115T072032Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:La Bella Ornella- Reading e Concerto
+LOCATION:Casa Della Musica Di Parma\, Piazzale San Francesco n. 1\, Parma
+DESCRIPTION:Serata di letture e musica dal vivo che rende omaggio a Ornel
+ la Vanoni\, a Parma. Info: https://allevents.in/parma/la-bella-ornella-r
+ eading-e-concerto/200031046812234 (via @radarcremona)
+URL:https://allevents.in/parma/la-bella-ornella-reading-e-concerto/200031
+ 046812234
+END:VEVENT
+END:VCALENDAR

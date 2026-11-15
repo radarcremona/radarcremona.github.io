@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1771@radarcremona
+DTSTAMP:20261115T072032Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261222
+SUMMARY:Crema - Workshop Fotografia Ritratto
+LOCATION:Piazzale delle Rimembranze\, Piazzale delle Rimembranze\, Crema
+DESCRIPTION:Corso breve di fotografia di ritratto a Crema\, con una model
+ la e scatti all'aperto. Info: https://www.eventbrite.it/e/biglietti-crem
+ a-workshop-fotografia-ritratto-2004721414717 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-crema-workshop-fotografia-ritra
+ tto-2004721414717
+END:VEVENT
+END:VCALENDAR

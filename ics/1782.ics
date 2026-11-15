@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1782@radarcremona
+DTSTAMP:20261115T072032Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:STAND UP PSICOLOGI
+LOCATION:Guascone vermuteria\, 17/AB Via Guasco\, Reggio Emilia
+DESCRIPTION:Serata di cabaret in stile stand up con un taglio umoristico 
+ sulla psicologia e sul bisogno di controllo. Info: https://www.eventbrit
+ e.com/e/stand-up-psicologi-tickets-2004356780085 (via @radarcremona)
+URL:https://www.eventbrite.com/e/stand-up-psicologi-tickets-2004356780085
+END:VEVENT
+END:VCALENDAR

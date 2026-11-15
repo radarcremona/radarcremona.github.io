@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1772@radarcremona
+DTSTAMP:20261115T072032Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261211
+SUMMARY:MASSIMILIANO GIORDANO The touch of shadow and light JELMONI STUDI
+ O GALLERY
+LOCATION:JELMONI STUDIO GALLERY\, via molineria san nicolo 8\, Piacenza
+DESCRIPTION:Mostra di pittura in una galleria d'arte\, che indaga luce\, 
+ ombra e il rapporto tra soggetti. Info: https://allevents.in/piacenza/ma
+ ssimiliano-giordano-the-touch-of-shadow-and-light-jelmoni-studio-gallery
+ -tickets/80002359286648 (via @radarcremona)
+URL:https://allevents.in/piacenza/massimiliano-giordano-the-touch-of-shad
+ ow-and-light-jelmoni-studio-gallery-tickets/80002359286648
+END:VEVENT
+END:VCALENDAR

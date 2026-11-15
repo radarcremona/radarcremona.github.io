@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-999@radarcremona
+DTSTAMP:20261115T072032Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:International meetings in Brescia - On Wednedays - Recurrent Link
+LOCATION:Brescia\, Brescia\, Brescia
+DESCRIPTION:Incontri internazionali a cadenza settimanale a Brescia\, pen
+ sati per conoscere persone di paesi diversi. Info: https://allevents.in/
+ brescia/international-meetings-in-brescia-on-wednedays-recurrent-link/20
+ 0030904649425 (via @radarcremona)
+URL:https://allevents.in/brescia/international-meetings-in-brescia-on-wed
+ nedays-recurrent-link/200030904649425
+END:VEVENT
+END:VCALENDAR

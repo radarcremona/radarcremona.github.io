@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1774@radarcremona
+DTSTAMP:20261115T072032Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:NATALAB: Palline di Natale
+LOCATION:Piazza Cavalli\, Piazza Cavalli\, Piacenza
+DESCRIPTION:Laboratorio natalizio di cucina per bambini: si preparano e s
+ i decorano palline di biscotto per l'albero. Info: https://allevents.in/
+ piacenza/natalab-palline-di-natale/100002004813608471 (via @radarcremona
+ )
+URL:https://allevents.in/piacenza/natalab-palline-di-natale/1000020048136
+ 08471
+END:VEVENT
+END:VCALENDAR
