@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1846@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261214
+SUMMARY:I Segreti e Misteri del monastero: alla scoperta dell'Abbazia di 
+ Polirone
+LOCATION:Piazza Matilde di Canossa\, 7\, 46027 San Benedetto Po MN\, Ital
+ ia\, Davanti Infopoint\, Mantova
+DESCRIPTION:Visita guidata all'abbazia di San Benedetto Po\, tra chiostri
+ \, opere d'arte e secoli di storia monastica. Info: https://allevents.in
+ /mantova/i-segreti-e-misteri-del-monastero-alla-scoperta-dellabbazia-di-
+ polirone/100002003706952433 (via @radarcremona)
+URL:https://allevents.in/mantova/i-segreti-e-misteri-del-monastero-alla-s
+ coperta-dellabbazia-di-polirone/100002003706952433
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1850@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Rivivi un Momento Magico - Pontagna
+LOCATION:Temù\, Piazza Pontagna\, Temù
+DESCRIPTION:Evento di festa a Temù dedicato alla magia del periodo natal
+ izio\, con possibilità di mangiare sul posto. Info: https://sagramap.co
+ m/evento/rivivi-un-momento-magico-pontagna-temu (via @radarcremona)
+URL:https://sagramap.com/evento/rivivi-un-momento-magico-pontagna-temu
+END:VEVENT
+END:VCALENDAR

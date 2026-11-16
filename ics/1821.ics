@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1821@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Open Lab -Elettrotecnica e Automazione
+LOCATION:IIS Janello Torriani\, 19 Via Seminario\, Cremona
+DESCRIPTION:Giornata di orientamento con attività pratiche per conoscere
+  da vicino l'indirizzo di elettrotecnica e automazione. Info: https://ww
+ w.eventbrite.it/e/open-lab-elettrotecnica-e-automazione-tickets-19941454
+ 03583 (via @radarcremona)
+URL:https://www.eventbrite.it/e/open-lab-elettrotecnica-e-automazione-tic
+ kets-1994145403583
+END:VEVENT
+END:VCALENDAR

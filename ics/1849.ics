@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1849@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20270108
+SUMMARY:Villaggio di Babbo Natale
+LOCATION:Sellero\, Località Paschere SNC\, Sellero
+DESCRIPTION:Villaggio a tema natalizio a Sellero\, aperto per tutte le va
+ canze con possibilità di mangiare sul posto. Info: https://sagramap.com
+ /evento/villaggio-di-babbo-natale-sellero (via @radarcremona)
+URL:https://sagramap.com/evento/villaggio-di-babbo-natale-sellero
+END:VEVENT
+END:VCALENDAR

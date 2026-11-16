@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-605@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:ROYAL BURLESQUE REVUE
+LOCATION:Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele II 52\, Cre
+ mona
+DESCRIPTION:Spettacolo di varietà in stile anni Venti per salutare l'ann
+ o nuovo al teatro cittadino. Info: https://www.teatroponchielli.it/spett
+ acolo/royal-burlesque-revue/ (via @radarcremona)
+URL:https://www.teatroponchielli.it/spettacolo/royal-burlesque-revue/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1847@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261209
+SUMMARY:Mercatini dell'Immacolata
+LOCATION:Vezza d'Oglio\, Piazza IV Luglio 1866\, Vezza d'Oglio
+DESCRIPTION:Mercatini natalizi a Vezza d'Oglio\, aperti per tre giorni du
+ rante il ponte di inizio dicembre. Info: https://sagramap.com/evento/mer
+ catini-dellimmacolata-vezza-doglio (via @radarcremona)
+URL:https://sagramap.com/evento/mercatini-dellimmacolata-vezza-doglio
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-317@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Capodanno al Papelero con Punto y Branca!
+LOCATION:El Viejo Almacen Papelero\, Strada Chiesanuova\, Mantova
+DESCRIPTION:Serata musicale per festeggiare l'arrivo del nuovo anno in un
+  locale\, con un gruppo dal vivo. Info: https://allevents.in/mantova/cap
+ odanno-al-papelero-con-punto-y-branca/200030825909538 (via @radarcremona
+ )
+URL:https://allevents.in/mantova/capodanno-al-papelero-con-punto-y-branca
+ /200030825909538
+END:VEVENT
+END:VCALENDAR

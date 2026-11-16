@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1831@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Presentazione del romanzo di Lapo Sagramoso «I Misteri del Mare 
+ d’Arabia»
+LOCATION:Castello di Rivalta\, Castello di Rivalta Loc. Borgo di Rivalta 
+ 29010\, Gazzola (PC)
+DESCRIPTION:Presentazione pubblica di un romanzo ambientato tra mistero e
+  avventura\, ospitata su invito di una famiglia. Info: https://www.event
+ brite.it/e/presentazione-del-romanzo-di-lapo-sagramoso-i-misteri-del-mar
+ e-darabia-tickets-2004768130445 (via @radarcremona)
+URL:https://www.eventbrite.it/e/presentazione-del-romanzo-di-lapo-sagramo
+ so-i-misteri-del-mare-darabia-tickets-2004768130445
+END:VEVENT
+END:VCALENDAR

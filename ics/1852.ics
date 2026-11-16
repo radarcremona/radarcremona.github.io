@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1852@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Speed Date Brescia - Solteros
+LOCATION:Mondo liquido\, 7 Largo Torrelunga\, Brescia
+DESCRIPTION:Serata a Brescia per conoscere nuove persone attraverso brevi
+  appuntamenti a rotazione\, in un clima informale. Info: https://alleven
+ ts.in/brescia/speed-date-brescia-solteros/100002004857046395 (via @radar
+ cremona)
+URL:https://allevents.in/brescia/speed-date-brescia-solteros/100002004857
+ 046395
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1853@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:L'AI corre. Le multe pure.
+LOCATION:CNA\, 3 Via Orzinuovi\, Brescia
+DESCRIPTION:Incontro sull'intelligenza artificiale e sul suo utilizzo pra
+ tico\, con un occhio ai rischi e alle sanzioni. Info: https://allevents.
+ in/brescia/lai-corre-le-multe-pure/100002004769157517 (via @radarcremona
+ )
+URL:https://allevents.in/brescia/lai-corre-le-multe-pure/1000020047691575
+ 17
+END:VEVENT
+END:VCALENDAR

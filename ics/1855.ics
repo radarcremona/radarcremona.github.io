@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1855@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Fly me to the moon #3
+LOCATION:Borgo Santa Brigida 5/A\, Borgo Santa Brigida\, Parma
+DESCRIPTION:Appuntamento della serie Fly me to the moon\, giunta alla ter
+ za edizione\, di cui non sono noti i dettagli. Info: https://allevents.i
+ n/parma/fly-me-to-the-moon-3/200031046813337 (via @radarcremona)
+URL:https://allevents.in/parma/fly-me-to-the-moon-3/200031046813337
+END:VEVENT
+END:VCALENDAR

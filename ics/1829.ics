@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1829@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Oreum gravel 5 edizione
+LOCATION:Bar Sport\, 61 Piazza Mercato\, Orio Litta
+DESCRIPTION:Quinta edizione di un percorso in bicicletta gravel tra stori
+ e\, tradizioni e cultura del territorio. Info: https://www.eventbrite.it
+ /e/biglietti-oreum-gravel-5-edizione-2004333127339 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-oreum-gravel-5-edizione-2004333
+ 127339
+END:VEVENT
+END:VCALENDAR

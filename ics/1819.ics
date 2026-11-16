@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1819@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Speed Date Crema 30-49
+LOCATION:Tourlé LaPizzeria e ilGrill Crema\, 30 Via Lago Gerundo\, Crema
+DESCRIPTION:Serata di appuntamenti veloci a Crema per incontrare nuove pe
+ rsone\, riservata a una fascia d'età adulta. Info: https://www.eventbri
+ te.it/e/registrazione-speed-date-crema-30-49-2004861014263 (via @radarcr
+ emona)
+URL:https://www.eventbrite.it/e/registrazione-speed-date-crema-30-49-2004
+ 861014263
+END:VEVENT
+END:VCALENDAR

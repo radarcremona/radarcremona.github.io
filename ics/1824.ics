@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1824@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Stage al pomeriggio - Chimica
+LOCATION:Via Matilde di Canossa\, 21\, 21 Via Matilde di Canossa\, Crema
+DESCRIPTION:Pomeriggio di stage guidato per scoprire da vicino il settore
+  della chimica. Info: https://www.eventbrite.it/e/stage-al-pomeriggio-ch
+ imica-tickets-2004043011595 (via @radarcremona)
+URL:https://www.eventbrite.it/e/stage-al-pomeriggio-chimica-tickets-20040
+ 43011595
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1848@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Accensione dell'Albero di Natale
+LOCATION:Berzo Inferiore\, Piazza Umberto Primo\, Berzo Inferiore
+DESCRIPTION:Giornata di festa con una camminata libera per il paese\, mer
+ enda in piazza e luci natalizie. Info: https://sagramap.com/evento/accen
+ sione-dellalbero-di-natale-berzo-inferiore (via @radarcremona)
+URL:https://sagramap.com/evento/accensione-dellalbero-di-natale-berzo-inf
+ eriore
+END:VEVENT
+END:VCALENDAR

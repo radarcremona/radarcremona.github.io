@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1708@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Duple Paura in hotel atto V- DOUBLE PARTY - Capodanno 2027 - Giov
+ edi 31 e Venerdi 1
+LOCATION:Garden Hotel Gattatico\, Via 25 Aprile\, Parma
+DESCRIPTION:Festa di Capodanno in hotel su due serate\, tra fine dicembre
+  e il primo gennaio. Info: https://allevents.in/parma/duple-paura-in-hot
+ el-atto-v-double-party-capodanno-2027-giovedi-31-e-venerdi-1/20003095562
+ 3113 (via @radarcremona)
+URL:https://allevents.in/parma/duple-paura-in-hotel-atto-v-double-party-c
+ apodanno-2027-giovedi-31-e-venerdi-1/200030955623113
+END:VEVENT
+END:VCALENDAR

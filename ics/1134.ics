@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1134@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270102
+SUMMARY:Capodanno 2027 in Hotel a Parma Cenone con Musica e Animazione
+LOCATION:Hotel Parma &amp\; Congressi (Parma\, Emilia-Romagna)\, Via Emil
+ ia Ovest\, Parma
+DESCRIPTION:Festa di fine anno in un hotel di Parma con cenone\, intratte
+ nimento e musica. Info: https://allevents.in/parma/capodanno-2027-in-hot
+ el-a-parma-cenone-con-musica-e-animazione/200030785489804 (via @radarcre
+ mona)
+URL:https://allevents.in/parma/capodanno-2027-in-hotel-a-parma-cenone-con
+ -musica-e-animazione/200030785489804
+END:VEVENT
+END:VCALENDAR

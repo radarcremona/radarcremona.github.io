@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-16@radarcremona
+DTSTAMP:20261116T072038Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270102
+SUMMARY:Capodanno Insieme
+LOCATION:Casaletto Ceredano\, Via dell'Incastrone\, Casaletto Ceredano
+DESCRIPTION:Festa di fine anno pensata per stare in compagnia\, con atten
+ zione a chi altrimenti passerebbe la serata da solo. Info: https://sagra
+ map.com/evento/capodanno-insieme-casaletto-ceredano (via @radarcremona)
+URL:https://sagramap.com/evento/capodanno-insieme-casaletto-ceredano
+END:VEVENT
+END:VCALENDAR
