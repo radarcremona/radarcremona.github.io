@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1883@radarcremona
+DTSTAMP:20261117T072038Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Natale sotto l'albero
+LOCATION:Via D'Azeglio Parma\, Strada Massimo d'Azeglio\, Parma
+DESCRIPTION:Giornata natalizia in strada con bancarelle di artigianato\, 
+ specialità locali\, cibo di strada e negozi aperti a Parma. Info: https
+ ://allevents.in/parma/natale-sotto-lalbero/200031059611605 (via @radarcr
+ emona)
+URL:https://allevents.in/parma/natale-sotto-lalbero/200031059611605
+END:VEVENT
+END:VCALENDAR

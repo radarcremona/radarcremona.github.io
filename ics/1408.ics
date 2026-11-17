@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1408@radarcremona
+DTSTAMP:20261117T072038Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270104
+SUMMARY:Brescia Balboa Series 4TH Edition January
+LOCATION:Via Genova 76/b\, 25125 Brescia\, Italy\, Via Genova\, Brescia
+DESCRIPTION:Gara sportiva di una serie a più tappe che si svolge a Bresc
+ ia. Info: https://allevents.in/brescia/brescia-balboa-series-4th-edition
+ -january/200030979515312 (via @radarcremona)
+URL:https://allevents.in/brescia/brescia-balboa-series-4th-edition-januar
+ y/200030979515312
+END:VEVENT
+END:VCALENDAR

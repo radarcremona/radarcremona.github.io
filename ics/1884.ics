@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1884@radarcremona
+DTSTAMP:20261117T072038Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:VISITA GUIDATA ALLA MOSTRA: LEI\, RITRATTI DI DONNE\, DA VAN GOGH
+  A MODIGLIANI E OLTRE
+LOCATION:Piazza Giuseppe Garibaldi\, 43121 Parma PR\, Italia\, KPMG\, Par
+ ma
+DESCRIPTION:Visita accompagnata a una rassegna di circa settanta opere ch
+ e raccontano ritratti femminili dall'Ottocento al Novecento. Info: https
+ ://allevents.in/parma/visita-guidata-alla-mostra-lei-ritratti-di-donne-d
+ a-van-gogh-a-modigliani-e-oltre/200031060131830 (via @radarcremona)
+URL:https://allevents.in/parma/visita-guidata-alla-mostra-lei-ritratti-di
+ -donne-da-van-gogh-a-modigliani-e-oltre/200031060131830
+END:VEVENT
+END:VCALENDAR
