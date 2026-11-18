@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1907@radarcremona
+DTSTAMP:20261118T072031Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:NATALAB: La biblioteca creativa
+LOCATION:Piazza Cavalli\, Piazza Cavalli\, Piacenza
+DESCRIPTION:Attività creativa per bambini ospitata in biblioteca\, tra m
+ anualità e fantasia. Info: https://www.eventbrite.it/e/biglietti-natala
+ b-la-biblioteca-creativa-2004818409832 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-natalab-la-biblioteca-creativa-
+ 2004818409832
+END:VEVENT
+END:VCALENDAR

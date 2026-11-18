@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1902@radarcremona
+DTSTAMP:20261118T072031Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:La terza giornata del festival "GODO e sono intelligente"
+LOCATION:Teatro Trieste Trentaquattro\, 34 Via Trieste\, Piacenza
+DESCRIPTION:Giornata conclusiva di un festival teatrale con spettacoli e 
+ momenti di intrattenimento. Info: https://www.eventbrite.it/e/la-terza-g
+ iornata-del-festival-godo-e-sono-intelligente-tickets-2004656157531 (via
+  @radarcremona)
+URL:https://www.eventbrite.it/e/la-terza-giornata-del-festival-godo-e-son
+ o-intelligente-tickets-2004656157531
+END:VEVENT
+END:VCALENDAR

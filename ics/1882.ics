@@ -4,17 +4,17 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1882@radarcremona
-DTSTAMP:20261117T072038Z
+DTSTAMP:20261118T072031Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Masterclass "Arte e scienza del formaggio" - con Renato Brancaleo
  ni
 LOCATION:UniSaFo\, 18A Via Strasburgo\, Parma
 DESCRIPTION:Lezione pratica dedicata al mondo del formaggio\, condotta da
-  un esperto del settore. Info: https://allevents.in/parma/masterclass-ar
- te-e-scienza-del-formaggio-con-renato-brancaleoni/100002004759730320 (vi
- a @radarcremona)
-URL:https://allevents.in/parma/masterclass-arte-e-scienza-del-formaggio-c
- on-renato-brancaleoni/100002004759730320
+  un esperto del settore. Info: https://www.eventbrite.it/e/biglietti-mas
+ terclass-arte-e-scienza-del-formaggio-con-renato-brancaleoni-20047597303
+ 20 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-masterclass-arte-e-scienza-del-
+ formaggio-con-renato-brancaleoni-2004759730320
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1921@radarcremona
+DTSTAMP:20261118T072031Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:I segreti del Quartiere del Carmine tra bordelli\, peccati e mist
+ eri
+LOCATION:Largo Formentone\, Brescia BS\, Italy\, Davanti al Bike Point\, 
+ Brescia
+DESCRIPTION:Passeggiata guidata nel quartiere bresciano del Carmine\, tra
+  storia religiosa\, vita popolare e lati meno conosciuti del passato. In
+ fo: https://www.eventbrite.it/e/i-segreti-del-quartiere-del-carmine-tra-
+ bordelli-peccati-e-misteri-tickets-2004527913951 (via @radarcremona)
+URL:https://www.eventbrite.it/e/i-segreti-del-quartiere-del-carmine-tra-b
+ ordelli-peccati-e-misteri-tickets-2004527913951
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1926@radarcremona
+DTSTAMP:20261118T072031Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Regali di Natale brutti? Non quest'anno!
+LOCATION:Informagiovani Brescia\, 78 Via Moretto\, Brescia
+DESCRIPTION:Appuntamento a tema natalizio dedicato ai regali\, con un tag
+ lio leggero e ironico. Info: https://allevents.in/brescia/regali-di-nata
+ le-brutti-non-questanno/100002004962391485 (via @radarcremona)
+URL:https://allevents.in/brescia/regali-di-natale-brutti-non-questanno/10
+ 0002004962391485
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-375@radarcremona
+DTSTAMP:20261118T072031Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270104
+SUMMARY:Parma vs Napoli at Stadio Ennio Tardini
+LOCATION:Stadio Ennio Tardini\, 1 Viale Partigiani D'Italia\, Parma
+DESCRIPTION:Partita di calcio allo stadio tra due squadre di Serie A. Inf
+ o: https://allevents.in/parma/parma-vs-napoli-at-stadio-ennio-tardini/24
+ 00030577324208 (via @radarcremona)
+URL:https://allevents.in/parma/parma-vs-napoli-at-stadio-ennio-tardini/24
+ 00030577324208
+END:VEVENT
+END:VCALENDAR

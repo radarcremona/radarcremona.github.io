@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1908@radarcremona
+DTSTAMP:20261118T072031Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:NATALAB: Biglietti di Natale magici
+LOCATION:Piazza Cavalli\, Piazza Cavalli\, Piacenza
+DESCRIPTION:Laboratorio di cucina a tema natalizio pensato per i più pic
+ coli. Info: https://www.eventbrite.it/e/biglietti-natalab-biglietti-di-n
+ atale-magici-2004818121971 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-natalab-biglietti-di-natale-mag
+ ici-2004818121971
+END:VEVENT
+END:VCALENDAR

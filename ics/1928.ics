@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1928@radarcremona
+DTSTAMP:20261118T072031Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:SOTTO IL NOSTRO CIELO - Laboratorio per adulti
+LOCATION:Chiesa di San Giuseppe\, 5 Vicolo San Giuseppe\, Brescia
+DESCRIPTION:Laboratorio rivolto agli adulti\, un'occasione per partecipar
+ e a un'attività pratica e condivisa. Info: https://allevents.in/brescia
+ /sotto-il-nostro-cielo-laboratorio-per-adulti/100002004893325908 (via @r
+ adarcremona)
+URL:https://allevents.in/brescia/sotto-il-nostro-cielo-laboratorio-per-ad
+ ulti/100002004893325908
+END:VEVENT
+END:VCALENDAR

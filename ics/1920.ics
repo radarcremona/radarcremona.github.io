@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1920@radarcremona
+DTSTAMP:20261118T072031Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Facilitare gruppi e prendere decisioni: scopri le Liberating Stru
+ ctures
+LOCATION:Lungadige Galtarossa\, 21\, 21 Lungadige Galtarossa\, Verona
+DESCRIPTION:Incontro pratico su metodi per coinvolgere i partecipanti e r
+ endere più efficaci riunioni e decisioni di gruppo. Info: https://www.e
+ ventbrite.it/e/facilitare-gruppi-e-prendere-decisioni-scopri-le-liberati
+ ng-structures-tickets-1985043793422 (via @radarcremona)
+URL:https://www.eventbrite.it/e/facilitare-gruppi-e-prendere-decisioni-sc
+ opri-le-liberating-structures-tickets-1985043793422
+END:VEVENT
+END:VCALENDAR

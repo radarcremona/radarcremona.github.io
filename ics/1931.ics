@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1931@radarcremona
+DTSTAMP:20261118T072031Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Auroro Borealo presenta L'INSULTARIO BRESCIANO-ITALIANO
+LOCATION:Castello di Brescia\, 9 Via del Castello\, Brescia
+DESCRIPTION:Serata in Castello dedicata al dialetto bresciano e ai suoi m
+ odi di dire\, con un ospite. Info: https://allevents.in/brescia/auroro-b
+ orealo-presenta-linsultario-bresciano-italiano/100002004818256373 (via @
+ radarcremona)
+URL:https://allevents.in/brescia/auroro-borealo-presenta-linsultario-bres
+ ciano-italiano/100002004818256373
+END:VEVENT
+END:VCALENDAR

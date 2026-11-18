@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-765@radarcremona
+DTSTAMP:20261118T072031Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:idahosa osato
+LOCATION:Picenengo\, Emilia-Romagna\, Italy\, Cremona\, Cremona
+DESCRIPTION:Incontro con un creatore di contenuti\, pensato per chi segue
+  il mondo dei social. Info: https://allevents.in/cremona/idahosa-osato/2
+ 00030880782728 (via @radarcremona)
+URL:https://allevents.in/cremona/idahosa-osato/200030880782728
+END:VEVENT
+END:VCALENDAR
