@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1959@radarcremona
+DTSTAMP:20261119T072023Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Coast To Coast Live Band @ Escondido Brescia
+LOCATION:Escondido Brescia\, Viale Italia 1/d\, Brescia
+DESCRIPTION:Serata di musica dal vivo con una band che si esibisce in un 
+ locale di Brescia. Info: https://allevents.in/brescia/coast-to-coast-liv
+ e-band-escondido-brescia/200031071623652 (via @radarcremona)
+URL:https://allevents.in/brescia/coast-to-coast-live-band-escondido-bresc
+ ia/200031071623652
+END:VEVENT
+END:VCALENDAR

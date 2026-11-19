@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1960@radarcremona
+DTSTAMP:20261119T072023Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:OLTRE LA MUSICA
+LOCATION:Teatro Grande\, 9/A Corso Giuseppe Zanardelli\, Brescia
+DESCRIPTION:Concerto dal vivo\, un appuntamento musicale pensato per chi 
+ ama ascoltare artisti sul palco. Info: https://allevents.in/brescia/oltr
+ e-la-musica/100002003712987484 (via @radarcremona)
+URL:https://allevents.in/brescia/oltre-la-musica/100002003712987484
+END:VEVENT
+END:VCALENDAR

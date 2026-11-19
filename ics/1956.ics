@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1956@radarcremona
+DTSTAMP:20261119T072023Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:The Fridays of the series
+LOCATION:Via Genova 76/b\, 25125 Brescia\, Italy\, Via Genova\, Brescia
+DESCRIPTION:Appuntamento serale del venerdì che fa parte di una serie di
+  incontri periodici. Info: https://allevents.in/brescia/the-fridays-of-t
+ he-series/200031070192441 (via @radarcremona)
+URL:https://allevents.in/brescia/the-fridays-of-the-series/20003107019244
+ 1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1961@radarcremona
+DTSTAMP:20261119T072023Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:BUONA NOTTE! Laboratorio per famiglie con bambini (6+)
+LOCATION:Chiesa di San Giuseppe\, 5 Vicolo San Giuseppe\, Brescia
+DESCRIPTION:Laboratorio creativo serale per famiglie\, rivolto a bambini 
+ dai sei anni in su insieme ai genitori. Info: https://allevents.in/bresc
+ ia/buona-notte-laboratorio-per-famiglie-con-bambini-6/100002004892534541
+  (via @radarcremona)
+URL:https://allevents.in/brescia/buona-notte-laboratorio-per-famiglie-con
+ -bambini-6/100002004892534541
+END:VEVENT
+END:VCALENDAR

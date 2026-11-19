@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1958@radarcremona
+DTSTAMP:20261119T072023Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Live football discussions
+LOCATION:Brescia\, Brescia\, Brescia
+DESCRIPTION:Incontro aperto agli appassionati di calcio per chiacchierare
+  e confrontarsi dal vivo sulle partite. Info: https://allevents.in/bresc
+ ia/live-football-discussions/200031070194044 (via @radarcremona)
+URL:https://allevents.in/brescia/live-football-discussions/20003107019404
+ 4
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1963@radarcremona
+DTSTAMP:20261119T072023Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:L' HO FATTO TUTTO I0 - 08 DICEMBRE 2026
+LOCATION:Piazza Rovetta\, Brescia\, Brescia
+DESCRIPTION:Mercatino natalizio di creatività e idee originali nel centr
+ o storico di Brescia\, martedì 8 dicembre. Info: https://allevents.in/b
+ rescia/l-ho-fatto-tutto-i0-08-dicembre-2026/200031072342554 (via @radarc
+ remona)
+URL:https://allevents.in/brescia/l-ho-fatto-tutto-i0-08-dicembre-2026/200
+ 031072342554
+END:VEVENT
+END:VCALENDAR

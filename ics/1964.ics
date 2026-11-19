@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1964@radarcremona
+DTSTAMP:20261119T072023Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Festa di Santa Lucia
+LOCATION:Strada Giuseppe Garibaldi\, 43121 Parma PR\, Italia\, Strada Giu
+ seppe Garibaldi\, Parma
+DESCRIPTION:Festa natalizia a Parma lungo Strada Garibaldi\, con bancarel
+ le di artigianato\, cibo di strada e negozi aperti. Info: https://alleve
+ nts.in/parma/festa-di-santa-lucia/200031046813237 (via @radarcremona)
+URL:https://allevents.in/parma/festa-di-santa-lucia/200031046813237
+END:VEVENT
+END:VCALENDAR

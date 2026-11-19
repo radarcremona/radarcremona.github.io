@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1962@radarcremona
+DTSTAMP:20261119T072023Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Cena di Natale Lombardia 2026
+LOCATION:Corte Piovanelli\, 5 Via Caselle\, Brescia
+DESCRIPTION:Cena conviviale per le festività natalizie\, occasione per r
+ itrovarsi a tavola e scambiarsi gli auguri. Info: https://allevents.in/b
+ rescia/cena-di-natale-lombardia-2026/100002004347853385 (via @radarcremo
+ na)
+URL:https://allevents.in/brescia/cena-di-natale-lombardia-2026/1000020043
+ 47853385
+END:VEVENT
+END:VCALENDAR
