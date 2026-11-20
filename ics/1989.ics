@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1989@radarcremona
+DTSTAMP:20261120T072034Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Torneo della Madonna 07/12/2026
+LOCATION:Kimera\, presso Società sportiva Flora\, via Riglio\, Cremona
+DESCRIPTION:Torneo sportivo a squadre organizzato per il giorno dell'Imma
+ colata. Info: https://www.eventbrite.it/e/biglietti-torneo-della-madonna
+ -07122026-2005006991886 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-torneo-della-madonna-07122026-2
+ 005006991886
+END:VEVENT
+END:VCALENDAR

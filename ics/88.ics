@@ -4,9 +4,9 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-88@radarcremona
-DTSTAMP:20261119T072023Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
+DTSTAMP:20261120T072034Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
 SUMMARY:Mercatino di Natale
 LOCATION:Gazoldo degli Ippoliti\, Via Marconi\, Gazoldo degli Ippoliti
 DESCRIPTION:Mercatino stagionale con bancarelle e proposte a tema nataliz

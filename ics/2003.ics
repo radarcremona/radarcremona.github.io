@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2003@radarcremona
+DTSTAMP:20261120T072034Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Berlin Techno Brixia Night by TETRAHEDRON
+LOCATION:16beat.club\, Via della Volta\, Brescia
+DESCRIPTION:Serata di musica techno dal sapore berlinese\, con un dj set 
+ a Brescia. Info: https://allevents.in/brescia/berlin-techno-brixia-night
+ -by-tetrahedron/200031077092950 (via @radarcremona)
+URL:https://allevents.in/brescia/berlin-techno-brixia-night-by-tetrahedro
+ n/200031077092950
+END:VEVENT
+END:VCALENDAR

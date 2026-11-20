@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1994@radarcremona
+DTSTAMP:20261120T072034Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:"Pazi Snajper" per i 30 anni di FOIC
+LOCATION:Teatro verdi\, Via della Liberazione\, Fiorenzuola d'Arda
+DESCRIPTION:Spettacolo dal vivo per festeggiare il trentesimo compleanno 
+ di FOIC insieme alla comunità locale. Info: https://www.eventbrite.com/
+ e/biglietti-pazi-snajper-per-i-30-anni-di-foic-2004827474946 (via @radar
+ cremona)
+URL:https://www.eventbrite.com/e/biglietti-pazi-snajper-per-i-30-anni-di-
+ foic-2004827474946
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1987@radarcremona
+DTSTAMP:20261120T072034Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Visita guidata a TORRE DE' PICENARDI: Terre di nobiltà tra arte 
+ e giardini
+LOCATION:Comune di Torre De Picenardi\, 1 Piazza Roma\, Torre De' Picenar
+ di
+DESCRIPTION:Visita guidata a un borgo con dimora storica e giardini\, tra
+  arte e nobili famiglie. Info: https://www.eventbrite.it/e/biglietti-vis
+ ita-guidata-a-torre-de-picenardi-terre-di-nobilta-tra-arte-e-giardini-20
+ 03255496115 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-visita-guidata-a-torre-de-picen
+ ardi-terre-di-nobilta-tra-arte-e-giardini-2003255496115
+END:VEVENT
+END:VCALENDAR

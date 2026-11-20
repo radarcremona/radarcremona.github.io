@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1999@radarcremona
+DTSTAMP:20261120T072034Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Mantova Maledetta: Intrighi\, Torture\, Tradimenti e Anime Inquie
+ te
+LOCATION:Piazza Sordello\, 23\, 46100 Mantova MN\, Italy\, Davanti Casa d
+ el Rigoletto\, Mantova
+DESCRIPTION:Percorso a Mantova tra leggende\, delitti e misteri della sto
+ ria dei Gonzaga e dei suoi fantasmi. Info: https://www.eventbrite.it/e/m
+ antova-maledetta-intrighi-torture-tradimenti-e-anime-inquiete-tickets-20
+ 04982233834 (via @radarcremona)
+URL:https://www.eventbrite.it/e/mantova-maledetta-intrighi-torture-tradim
+ enti-e-anime-inquiete-tickets-2004982233834
+END:VEVENT
+END:VCALENDAR

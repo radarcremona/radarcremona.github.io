@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1990@radarcremona
+DTSTAMP:20261120T072034Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Il Rinascimento a Brescia: Tiziano\, Moretto\, Romanino a San Naz
+ aro e Celso
+LOCATION:Chiesa dei Santi Nazaro e Celso\, 31 Corso Giacomo Matteotti\, B
+ rescia
+DESCRIPTION:Mostra dedicata ai grandi pittori bresciani del Cinquecento\,
+  ospitata nella chiesa di San Nazaro e Celso. Info: https://www.eventbri
+ te.com/e/biglietti-il-rinascimento-a-brescia-tiziano-moretto-romanino-a-
+ san-nazaro-e-celso-1999212695991 (via @radarcremona)
+URL:https://www.eventbrite.com/e/biglietti-il-rinascimento-a-brescia-tizi
+ ano-moretto-romanino-a-san-nazaro-e-celso-1999212695991
+END:VEVENT
+END:VCALENDAR

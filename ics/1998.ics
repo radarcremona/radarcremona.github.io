@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1998@radarcremona
+DTSTAMP:20261120T072034Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Assemblea e Cena di Natale G.I. Confindustria Mantova
+LOCATION:Villa Le Giraffe\, Strada Vicinale Corrobiolo\, Curtatone
+DESCRIPTION:Appuntamento annuale dei giovani imprenditori mantovani\, con
+  assemblea del gruppo e cena per gli auguri natalizi. Info: https://www.
+ eventbrite.it/e/assemblea-e-cena-di-natale-gi-confindustria-mantova-regi
+ stration-2004585038813 (via @radarcremona)
+URL:https://www.eventbrite.it/e/assemblea-e-cena-di-natale-gi-confindustr
+ ia-mantova-registration-2004585038813
+END:VEVENT
+END:VCALENDAR

@@ -4,17 +4,17 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1687@radarcremona
-DTSTAMP:20261119T072023Z
+DTSTAMP:20261120T072034Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:FIMAA CREMONA - I mutui e l'agente immobiliare
 LOCATION:Confcommercio provincia di Cremona\, 2 Via Alessandro Manzoni\, 
  Cremona
 DESCRIPTION:Incontro formativo per mediatori immobiliari su come cambiano
-  il credito\, le valutazioni e il lavoro dell'agente. Info: https://alle
- vents.in/cremona/fimaa-cremona-i-mutui-e-lagente-immobiliare/10000200395
- 4794736 (via @radarcremona)
-URL:https://allevents.in/cremona/fimaa-cremona-i-mutui-e-lagente-immobili
- are/100002003954794736
+  il credito\, le valutazioni e il lavoro dell'agente. Info: https://www.
+ eventbrite.it/e/biglietti-fimaa-cremona-i-mutui-e-lagente-immobiliare-20
+ 03954794736 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-fimaa-cremona-i-mutui-e-lagente
+ -immobiliare-2003954794736
 END:VEVENT
 END:VCALENDAR
