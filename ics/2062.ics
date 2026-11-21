@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2062@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Layer Up: masterclass di layering con Markus
+LOCATION:Sovescio\, 3C Strada Collegio dei Nobili\, Parma
+DESCRIPTION:Masterclass per imparare a sovrapporre i profumi nel modo giu
+ sto\, usando fragranze di due marchi selezionati. Info: https://www.even
+ tbrite.it/e/layer-up-masterclass-di-layering-con-markus-tickets-20046573
+ 15996 (via @radarcremona)
+URL:https://www.eventbrite.it/e/layer-up-masterclass-di-layering-con-mark
+ us-tickets-2004657315996
+END:VEVENT
+END:VCALENDAR

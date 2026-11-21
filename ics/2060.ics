@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2060@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Il Tavolo del Novecento
+LOCATION:Teatro al Parco\, 1 Parco Ducale\, Parma
+DESCRIPTION:Spettacolo teatrale ispirato al Novecento\, dedicato a chi am
+ a il teatro. Info: https://www.eventbrite.it/e/il-tavolo-del-novecento-t
+ ickets-2005036854205 (via @radarcremona)
+URL:https://www.eventbrite.it/e/il-tavolo-del-novecento-tickets-200503685
+ 4205
+END:VEVENT
+END:VCALENDAR

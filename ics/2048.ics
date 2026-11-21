@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2048@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Homo sapiens e il suo pianeta
+LOCATION:Camera di Commercio Industria Artigianato e Agricoltura di Bresc
+ ia\, 23 Via Luigi Einaudi\, Brescia
+DESCRIPTION:Dibattito sul rapporto tra l'umanità e il pianeta\, con Piev
+ ani\, Rovelli e Tonelli. Info: https://allevents.in/brescia/homo-sapiens
+ -e-il-suo-pianeta/100002004486452940 (via @radarcremona)
+URL:https://allevents.in/brescia/homo-sapiens-e-il-suo-pianeta/1000020044
+ 86452940
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2044@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20270106
+SUMMARY:Inventor Professional | Corso Completo – Brescia\, Dic 2026–G
+ en 2027
+LOCATION:4m group Brescia\, Via San Rocchino\, Brescia
+DESCRIPTION:Corso in aula a Brescia su Inventor Professional\, di 42 ore 
+ su 6 lezioni\, con attestato Autodesk. Info: https://www.eventbrite.it/e
+ /biglietti-inventor-professional-corso-completo-brescia-dic-2026gen-2027
+ -2004232830348 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-inventor-professional-corso-com
+ pleto-brescia-dic-2026gen-2027-2004232830348
+END:VEVENT
+END:VCALENDAR

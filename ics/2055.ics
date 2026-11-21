@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2055@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Silent Book Party - Speciale Alta Marea
+LOCATION:ColonneVentotto\, 28 Borgo delle Colonne\, Parma
+DESCRIPTION:Serata di lettura silenziosa in compagnia\, dedicata a giovan
+ i autrici sotto i 35 anni. Info: https://www.eventbrite.it/e/silent-book
+ -party-speciale-alta-marea-tickets-2004764751338 (via @radarcremona)
+URL:https://www.eventbrite.it/e/silent-book-party-speciale-alta-marea-tic
+ kets-2004764751338
+END:VEVENT
+END:VCALENDAR

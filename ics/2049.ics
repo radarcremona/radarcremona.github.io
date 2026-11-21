@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2049@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Spettacolo: Da secoli vivo di Gek Tessaro e Lella Marazzini
+LOCATION:Nuovo Eden\, 9 Via Nino Bixio\, Brescia
+DESCRIPTION:Spettacolo di teatro disegnato e di luce per bambini e adulti
+ \, un viaggio poetico nel tempo. Info: https://allevents.in/brescia/spet
+ tacolo-da-secoli-vivo-di-gek-tessaro-e-lella-marazzini/10000200451405048
+ 5 (via @radarcremona)
+URL:https://allevents.in/brescia/spettacolo-da-secoli-vivo-di-gek-tessaro
+ -e-lella-marazzini/100002004514050485
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2041@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Brescia Proibita: alla scoperta della storia osè della città
+LOCATION:Sotto statua Bella Italia\, Piazza della Loggia\, Brescia
+DESCRIPTION:Incontro dedicato alla storia poco nota e controversa del qua
+ rtiere del Carmine a Brescia. Info: https://www.eventbrite.it/e/brescia-
+ proibita-alla-scoperta-della-storia-ose-della-citta-tickets-199475106513
+ 3 (via @radarcremona)
+URL:https://www.eventbrite.it/e/brescia-proibita-alla-scoperta-della-stor
+ ia-ose-della-citta-tickets-1994751065133
+END:VEVENT
+END:VCALENDAR

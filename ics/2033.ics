@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2033@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Presepe Vivente al Castello di Rivalta di Gazzola
+LOCATION:Gazzola\, Gazzola
+DESCRIPTION:Presepe vivente con oltre cento figuranti nel borgo di Rivalt
+ a\, la sera della vigilia di Natale. Info: https://sagramap.com/evento/p
+ resepe-vivente-al-castello-di-rivalta-di-gazzola (via @radarcremona)
+URL:https://sagramap.com/evento/presepe-vivente-al-castello-di-rivalta-di
+ -gazzola
+END:VEVENT
+END:VCALENDAR

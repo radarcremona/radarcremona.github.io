@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2043@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Straniera presenta A Place To Be – Il Cinema Senza Schermo
+LOCATION:Teatro Der Mast\, Via Giosuè Carducci\, Brescia
+DESCRIPTION:Proposta cinematografica senza immagini: musica dal vivo di p
+ ianoforte e violoncello che stimola la fantasia del pubblico. Info: http
+ s://www.eventbrite.it/e/straniera-presenta-a-place-to-be-il-cinema-senza
+ -schermo-tickets-2004946371569 (via @radarcremona)
+URL:https://www.eventbrite.it/e/straniera-presenta-a-place-to-be-il-cinem
+ a-senza-schermo-tickets-2004946371569
+END:VEVENT
+END:VCALENDAR

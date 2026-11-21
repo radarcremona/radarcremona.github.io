@@ -4,9 +4,9 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1930@radarcremona
-DTSTAMP:20261120T072034Z
+DTSTAMP:20261121T072033Z
 DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261203
 SUMMARY:ArtAperitivi
 LOCATION:Piastra Pendolina\, via ragazzi del '99 n.5\, Brescia
 DESCRIPTION:Appuntamento che unisce arte e aperitivo in un clima informal

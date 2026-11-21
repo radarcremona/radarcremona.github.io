@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2056@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Future4Cities a Parma – Città live con il sindaco Michele Guer
+ ra
+LOCATION:Manzini Off - WOPA\, 1 Via Catania\, Parma
+DESCRIPTION:Puntata dal vivo di un podcast con il sindaco Guerra sul futu
+ ro della città di Parma. Info: https://www.eventbrite.it/e/biglietti-fu
+ ture4cities-a-parma-citta-live-con-il-sindaco-michele-guerra-20048078372
+ 09 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-future4cities-a-parma-citta-liv
+ e-con-il-sindaco-michele-guerra-2004807837209
+END:VEVENT
+END:VCALENDAR

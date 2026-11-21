@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2030@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Oltre la Scena | Cena-Evento di Beneficenza
+LOCATION:FUORI ORARIO\, 96/B Via Don Minzoni\, Taneto
+DESCRIPTION:Info: https://www.eventbrite.it/e/biglietti-oltre-la-scena-ce
+ na-evento-di-beneficenza-2005067308294 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-oltre-la-scena-cena-evento-di-b
+ eneficenza-2005067308294
+END:VEVENT
+END:VCALENDAR

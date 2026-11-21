@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2059@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Formazione gratuita con Daniele Reponi: l’aperitivo piacentino 
+ con le 3 DOP
+LOCATION:UniSaFo\, 18A Via Strasburgo\, Parma
+DESCRIPTION:Formazione gratuita con Daniele Reponi su come proporre al me
+ glio l'aperitivo con le tre DOP piacentine. Info: https://www.eventbrite
+ .it/e/biglietti-formazione-gratuita-con-daniele-reponi-laperitivo-piacen
+ tino-con-le-3-dop-2004881940855 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-formazione-gratuita-con-daniele
+ -reponi-laperitivo-piacentino-con-le-3-dop-2004881940855
+END:VEVENT
+END:VCALENDAR

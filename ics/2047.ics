@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2047@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261122
+SUMMARY:ASTROLOGY READING Discover Your Birth Chart️
+LOCATION:Brescia\, Via Filippo Turati\, Brescia
+DESCRIPTION:Evento a tema astrologico\, dedicato alla lettura del proprio
+  tema natale. Info: https://allevents.in/brescia/astrology-reading-disco
+ ver-your-birth-chart/200031079103640 (via @radarcremona)
+URL:https://allevents.in/brescia/astrology-reading-discover-your-birth-ch
+ art/200031079103640
+END:VEVENT
+END:VCALENDAR

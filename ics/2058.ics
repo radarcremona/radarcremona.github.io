@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2058@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Get Well Fit – Borghi del Gallo Sporty Time
+LOCATION:Borghi del Gallo Parma\, Piazza San Bartolomeo\, Parma
+DESCRIPTION:Appuntamento sportivo e divertente nei Borghi del Gallo per r
+ icaricarsi e prepararsi alle feste natalizie. Info: https://www.eventbri
+ te.it/e/get-well-fit-borghi-del-gallo-sporty-time-tickets-2005141612540 
+ (via @radarcremona)
+URL:https://www.eventbrite.it/e/get-well-fit-borghi-del-gallo-sporty-time
+ -tickets-2005141612540
+END:VEVENT
+END:VCALENDAR

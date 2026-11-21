@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2057@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:IL MANDALA
+LOCATION:Via Alfredo Zerbini\, 10\, 10 Via Alfredo Zerbini\, Parma
+DESCRIPTION:Incontro dedicato al mandala come simbolo di sapienza e di co
+ noscenza interiore. Info: https://www.eventbrite.it/e/biglietti-il-manda
+ la-2004555828444 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-il-mandala-2004555828444
+END:VEVENT
+END:VCALENDAR

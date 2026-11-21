@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2045@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:“dipinti”\, Albert Samson
+LOCATION:via Luigi Apollonio 68\, 25128 Brescia\, Italy\, Via Luigi Apoll
+ onio\, Brescia
+DESCRIPTION:Mostra di dipinti dell'artista Albert Samson. Info: https://a
+ llevents.in/brescia/dipinti-albert-samson/200031083625112 (via @radarcre
+ mona)
+URL:https://allevents.in/brescia/dipinti-albert-samson/200031083625112
+END:VEVENT
+END:VCALENDAR

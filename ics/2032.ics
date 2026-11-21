@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2032@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Stage al mattino - Chimica
+LOCATION:Via Matilde di Canossa\, 21\, 21 Via Matilde di Canossa\, Crema
+DESCRIPTION:Mattinata di stage per conoscere da vicino\, con attività gu
+ idate\, il settore della chimica. Info: https://www.eventbrite.it/e/stag
+ e-al-mattino-chimica-tickets-2004044074775 (via @radarcremona)
+URL:https://www.eventbrite.it/e/stage-al-mattino-chimica-tickets-20040440
+ 74775
+END:VEVENT
+END:VCALENDAR

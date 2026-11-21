@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2046@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Christmas Networking Apericena 2026 by WEAPN
+LOCATION:AC Hotel Brescia\, 3 Via Giulio Quinto Stefana\, Brescia
+DESCRIPTION:Serata di networking natalizio con formula apericena\, pensat
+ a per conoscere altri professionisti. Info: https://allevents.in/brescia
+ /christmas-networking-apericena-2026-by-weapn/100002004171906122 (via @r
+ adarcremona)
+URL:https://allevents.in/brescia/christmas-networking-apericena-2026-by-w
+ eapn/100002004171906122
+END:VEVENT
+END:VCALENDAR

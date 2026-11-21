@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2031@radarcremona
+DTSTAMP:20261121T072033Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Future4Cities a Parma – Tra rigenerazione urbana e natura in ci
+ ttà
+LOCATION:Manzini Off - WOPA\, 1 Via Catania\, Parma
+DESCRIPTION:Incontro pubblico a Parma sul nuovo piano urbanistico\, tra r
+ igenerazione dei quartieri\, verde e sostenibilità. Info: https://www.e
+ ventbrite.it/e/biglietti-future4cities-a-parma-tra-rigenerazione-urbana-
+ e-natura-in-citta-2004807783047 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-future4cities-a-parma-tra-rigen
+ erazione-urbana-e-natura-in-citta-2004807783047
+END:VEVENT
+END:VCALENDAR
