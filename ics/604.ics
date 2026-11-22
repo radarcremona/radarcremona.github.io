@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-604@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:LA SIRENETTA
+LOCATION:Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele II 52\, Cre
+ mona
+DESCRIPTION:Spettacolo musicale per famiglie al Teatro Ponchielli di Crem
+ ona\, ispirato alla celebre fiaba del mare\, il 6 gennaio 2027. Info: ht
+ tps://www.teatroponchielli.it/spettacolo/la-sirenetta-2027/ (via @radarc
+ remona)
+URL:https://www.teatroponchielli.it/spettacolo/la-sirenetta-2027/
+END:VEVENT
+END:VCALENDAR

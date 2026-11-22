@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2108@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:CENA AZIONE
+LOCATION:Trattoria L'Arcangelo\, 251 Via San Polo\, Brescia
+DESCRIPTION:Serata conviviale a tavola organizzata dal gruppo Azione. Inf
+ o: https://allevents.in/brescia/cena-azione/100002004951272227 (via @rad
+ arcremona)
+URL:https://allevents.in/brescia/cena-azione/100002004951272227
+END:VEVENT
+END:VCALENDAR

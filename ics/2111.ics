@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2111@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Lo Schiaccianoci - European Classical Ballet
+LOCATION:Brixia Forum\, 5 Via Caprera\, Brescia
+DESCRIPTION:Spettacolo di danza classica in cui una compagnia europea por
+ ta in scena il celebre balletto natalizio. Info: https://allevents.in/br
+ escia/lo-schiaccianoci-european-classical-ballet/200030798067851 (via @r
+ adarcremona)
+URL:https://allevents.in/brescia/lo-schiaccianoci-european-classical-ball
+ et/200030798067851
+END:VEVENT
+END:VCALENDAR

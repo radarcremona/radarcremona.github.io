@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2113@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:November Porc - Armonie di Spezie e Infusi di Roccabianca
+LOCATION:Roccabianca\, Piazza Garibaldi\, Roccabianca
+DESCRIPTION:Tappa a Roccabianca di una festa dedicata al maiale\, quest'a
+ nno a tema spezie e infusi\, dal 27 al 29 novembre. Info: https://sagram
+ ap.com/evento/november-porc-armonie-di-spezie-e-infusi-di-roccabianca (v
+ ia @radarcremona)
+URL:https://sagramap.com/evento/november-porc-armonie-di-spezie-e-infusi-
+ di-roccabianca
+END:VEVENT
+END:VCALENDAR

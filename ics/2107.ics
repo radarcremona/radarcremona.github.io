@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2107@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Convegno: I territori dell’immaginario
+LOCATION:MO.CA - Centro per le Nuove Culture\, 78 Via Moretto\, Brescia
+DESCRIPTION:Convegno di approfondimento sul tema dell'immaginario e dei s
+ uoi territori. Info: https://allevents.in/brescia/convegno-i-territori-d
+ ellimmaginario/100002004603514073 (via @radarcremona)
+URL:https://allevents.in/brescia/convegno-i-territori-dellimmaginario/100
+ 002004603514073
+END:VEVENT
+END:VCALENDAR

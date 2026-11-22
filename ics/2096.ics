@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2096@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Opera Concert in Verona Lirica Sala Girelli with welcome drink
+LOCATION:Lirica Sala Girelli / Verona Opera & Musica\, 6 Via dei Mutilati
+ \, Verona
+DESCRIPTION:Concerto di musica lirica nella suggestiva Sala Girelli di Ve
+ rona\, con un brindisi di benvenuto. Info: https://www.eventbrite.it/e/b
+ iglietti-opera-concert-in-verona-lirica-sala-girelli-with-welcome-drink-
+ 1991691136805 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-opera-concert-in-verona-lirica-
+ sala-girelli-with-welcome-drink-1991691136805
+END:VEVENT
+END:VCALENDAR

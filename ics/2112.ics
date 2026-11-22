@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2112@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Restare umani in un mondo in conflitto: rifugiati e diritto inter
+ nazionale
+LOCATION:Via della Pace\, 10\, 10 Via della Pace\, Brescia
+DESCRIPTION:Conferenza con Filippo Grandi sul rapporto tra protezione dei
+  rifugiati e diritto internazionale nei conflitti attuali. Info: https:/
+ /allevents.in/brescia/restare-umani-in-un-mondo-in-conflitto-rifugiati-e
+ -diritto-internazionale/100002005012554524 (via @radarcremona)
+URL:https://allevents.in/brescia/restare-umani-in-un-mondo-in-conflitto-r
+ ifugiati-e-diritto-internazionale/100002005012554524
+END:VEVENT
+END:VCALENDAR

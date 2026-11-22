@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2089@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:FESTIVAL OF PRAISE 2026
+LOCATION:via Alessandria 16\, Piacenza\, Emilia-Romagna\, Italy\, Via Ale
+ ssandria\, Piacenza
+DESCRIPTION:Concerto di lode e ringraziamento\, con musica dal vivo\, in 
+ programma per l'edizione 2026. Info: https://allevents.in/piacenza/festi
+ val-of-praise-2026/200031071474532 (via @radarcremona)
+URL:https://allevents.in/piacenza/festival-of-praise-2026/200031071474532
+END:VEVENT
+END:VCALENDAR

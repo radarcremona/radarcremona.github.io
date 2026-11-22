@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2095@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Voci dalla Collezione
+LOCATION:Sonnabend Collection Mantova\, 18 Piazza Erbe\, Mantova
+DESCRIPTION:Spettacolo teatrale per festeggiare il primo anno di vita del
+ la Sonnabend Collection a Mantova. Info: https://www.eventbrite.it/e/voc
+ i-dalla-collezione-tickets-2005089856737 (via @radarcremona)
+URL:https://www.eventbrite.it/e/voci-dalla-collezione-tickets-20050898567
+ 37
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2090@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261204
+SUMMARY:Dimostrazione di posa – Malte naturali a base di calce | Prima 
+ Materia
+LOCATION:Showroom Prima Materia\, Via Trento 10D\, Piacenza
+DESCRIPTION:Dimostrazioni pratiche a Piacenza su come applicare intonaci 
+ e pavimenti naturali a base di calce\, dall'1 al 3 dicembre. Info: https
+ ://allevents.in/piacenza/dimostrazione-di-posa-malte-naturali-a-base-di-
+ calce-prima-materia/100002005069098649 (via @radarcremona)
+URL:https://allevents.in/piacenza/dimostrazione-di-posa-malte-naturali-a-
+ base-di-calce-prima-materia/100002005069098649
+END:VEVENT
+END:VCALENDAR

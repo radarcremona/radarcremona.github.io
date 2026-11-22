@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2093@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Premio Futuro Sostenibile in collaborazione con Pianeta Mantova
+LOCATION:MaMu Mantova Multicentre\, 1b Largo di Porta Pradella\, Mantova
+DESCRIPTION:Cerimonia di premiazione dedicata alla sostenibilità\, giunt
+ a alla sesta edizione\, al MaMu di Mantova il 30 novembre. Info: https:/
+ /www.eventbrite.it/e/biglietti-premio-futuro-sostenibile-in-collaborazio
+ ne-con-pianeta-mantova-2003710545179 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-premio-futuro-sostenibile-in-co
+ llaborazione-con-pianeta-mantova-2003710545179
+END:VEVENT
+END:VCALENDAR

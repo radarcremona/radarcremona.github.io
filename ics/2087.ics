@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2087@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Stage al pomeriggio - Liceo Scienze Applicate
+LOCATION:Via Matilde di Canossa\, 21\, 21 Via Matilde di Canossa\, Crema
+DESCRIPTION:Pomeriggio di attività pratiche pensato per conoscere da vic
+ ino l'indirizzo di studi del liceo scientifico applicato. Info: https://
+ www.eventbrite.it/e/stage-al-pomeriggio-liceo-scienze-applicate-tickets-
+ 2004041755839 (via @radarcremona)
+URL:https://www.eventbrite.it/e/stage-al-pomeriggio-liceo-scienze-applica
+ te-tickets-2004041755839
+END:VEVENT
+END:VCALENDAR

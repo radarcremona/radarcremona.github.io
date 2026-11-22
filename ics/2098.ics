@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2098@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Due di troppo
+LOCATION:Dim Teatro Comunale\, Via San Martino 4\, Castelnuovo del Garda
+DESCRIPTION:Commedia in scena il 28 e 29 novembre\, con incasso destinato
+  al reparto di Ematologia di Borgo Roma. Info: https://www.eventbrite.it
+ /e/biglietti-due-di-troppo-2002269127861 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-due-di-troppo-2002269127861
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2109@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:2050: DOVE ANDRANNO AL CITTA' E LA PROVINCIA
+LOCATION:Hotel Industria\, Via Orzinuovi\, Brescia
+DESCRIPTION:Incontro pubblico di discussione sul futuro della città e de
+ lla provincia verso il 2050. Info: https://allevents.in/brescia/2050-dov
+ e-andranno-al-citta-e-la-provincia/100002005182206959 (via @radarcremona
+ )
+URL:https://allevents.in/brescia/2050-dove-andranno-al-citta-e-la-provinc
+ ia/100002005182206959
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2106@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Spettacolo: In viaggio con la lanterna magica con Gianni Trotter
+LOCATION:MO.CA - Centro per le Nuove Culture\, 78 Via Moretto\, Brescia
+DESCRIPTION:Spettacolo teatrale dedicato alla lanterna magica\, con prota
+ gonista Gianni Trotter. Info: https://allevents.in/brescia/spettacolo-in
+ -viaggio-con-la-lanterna-magica-con-gianni-trotter/100002004513748582 (v
+ ia @radarcremona)
+URL:https://allevents.in/brescia/spettacolo-in-viaggio-con-la-lanterna-ma
+ gica-con-gianni-trotter/100002004513748582
+END:VEVENT
+END:VCALENDAR

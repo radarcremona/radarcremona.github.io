@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2094@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Il Musical - Più Bella Cosa Non C'è - 29/11/2026 Sarginesco
+LOCATION:Sala Polivalente Sergio Salvagni\, Via Mainolda 14\, Sarginesco
+DESCRIPTION:Musical messo in scena dai gruppi teatrali di tre oratori del
+ la zona\, a Sarginesco il 29 novembre. Info: https://www.eventbrite.it/e
+ /biglietti-il-musical-piu-bella-cosa-non-ce-29112026-sarginesco-20039912
+ 58801 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-il-musical-piu-bella-cosa-non-c
+ e-29112026-sarginesco-2003991258801
+END:VEVENT
+END:VCALENDAR

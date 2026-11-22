@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2101@radarcremona
+DTSTAMP:20261122T072043Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:IL GIOCO DELL'OCA
+LOCATION:Loggia del Grano\, Via Goito\, Mantova
+DESCRIPTION:Versione gigante del classico gioco da tavolo\, da percorrere
+  in prima persona insieme a bambini e famiglie. Info: https://www.eventb
+ rite.it/e/il-gioco-delloca-tickets-2003590588385 (via @radarcremona)
+URL:https://www.eventbrite.it/e/il-gioco-delloca-tickets-2003590588385
+END:VEVENT
+END:VCALENDAR
