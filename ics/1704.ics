@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1704@radarcremona
+DTSTAMP:20261123T072418Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Brescia Noir: un Tour nella Cronaca Nera e Storia Inquietante del
+ la Città
+LOCATION:Via Cardinal Querini\, 9\, 25121 Brescia BS\, Italia\, Davanti P
+ alazzo del Broletto\, Brescia
+DESCRIPTION:Visita guidata a piedi alla scoperta dei lati più cupi della
+  storia bresciana\, tra condanne e leggende. Info: https://allevents.in/
+ brescia/brescia-noir-un-tour-nella-cronaca-nera-e-storia-inquietante-del
+ la-città/100001997982879577 (via @radarcremona)
+URL:https://allevents.in/brescia/brescia-noir-un-tour-nella-cronaca-nera-
+ e-storia-inquietante-della-città/100001997982879577
+END:VEVENT
+END:VCALENDAR

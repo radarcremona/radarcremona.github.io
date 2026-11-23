@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1657@radarcremona
+DTSTAMP:20261123T072418Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Mantova Misteriosa: storie Noir\, Magia\, Delitti e Stregoneria
+LOCATION:Piazza Sordello\, 23\, 46100 Mantova MN\, Italia\, Davanti Casa 
+ del Rigoletto\, Mantova
+DESCRIPTION:Passeggiata guidata a Mantova tra leggende\, misteri e fatti 
+ oscuri legati alla storia della città. Info: https://allevents.in/manto
+ va/mantova-misteriosa-storie-noir-magia-delitti-e-stregoneria/1000019986
+ 73427023 (via @radarcremona)
+URL:https://allevents.in/mantova/mantova-misteriosa-storie-noir-magia-del
+ itti-e-stregoneria/100001998673427023
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2156@radarcremona
+DTSTAMP:20261123T072418Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20270107
+SUMMARY:Presepio PUT del RE
+LOCATION:Sellero\, Via Medaglie d'Argento SNC\, Sellero
+DESCRIPTION:Allestimento della Natività a Sellero visitabile per tutte l
+ e feste\, con possibilità di mangiare in loco. Info: https://sagramap.c
+ om/evento/presepio-put-del-re-sellero (via @radarcremona)
+URL:https://sagramap.com/evento/presepio-put-del-re-sellero
+END:VEVENT
+END:VCALENDAR

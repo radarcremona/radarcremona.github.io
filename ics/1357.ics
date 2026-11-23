@@ -4,9 +4,9 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1357@radarcremona
-DTSTAMP:20261122T072043Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTAMP:20261123T072418Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
 SUMMARY:Visita al Cimitero monumentale della Villetta di Parma tra Curios
  ità\, Segreti e Stoire Noire
 LOCATION:Viale della Villetta\, 29\, 43125 Parma PR\, Italia\, Davanti al

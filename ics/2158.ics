@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2158@radarcremona
+DTSTAMP:20261123T072418Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Uncinetto benedetto
+LOCATION:Sartoria Anna Renzi Brivio\, Via Federico Odorici 13/B\, Brescia
+DESCRIPTION:Corso di crochet con Anna Santoni per neofiti e livello base\
+ , in due sessioni con materiale fornito. Info: https://www.eventbrite.co
+ m/e/biglietti-uncinetto-benedetto-2004938692601 (via @radarcremona)
+URL:https://www.eventbrite.com/e/biglietti-uncinetto-benedetto-2004938692
+ 601
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2153@radarcremona
+DTSTAMP:20261123T072418Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Il Palazzo Segreto dei Gonzaga: tra Intrighi\, Antiche Spezierie\
+ , Misteri e Vita di Corte
+LOCATION:Via Beata Paola Montaldi\, 15\, 46049 Volta Mantovana MN\, Italy
+ \, Davanti ingresso Palazzo\, Volta Mantovana
+DESCRIPTION:Visita guidata alla residenza rinascimentale dei Gonzaga a Vo
+ lta Mantovana\, tra sale affrescate\, giardini e curiosità. Info: https
+ ://www.eventbrite.co.uk/e/il-palazzo-segreto-dei-gonzaga-tra-intrighi-an
+ tiche-spezierie-misteri-e-vita-di-corte-tickets-2004657253810 (via @rada
+ rcremona)
+URL:https://www.eventbrite.co.uk/e/il-palazzo-segreto-dei-gonzaga-tra-int
+ righi-antiche-spezierie-misteri-e-vita-di-corte-tickets-2004657253810
+END:VEVENT
+END:VCALENDAR

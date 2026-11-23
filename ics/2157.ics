@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2157@radarcremona
+DTSTAMP:20261123T072418Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Aspettando Santa Lucia
+LOCATION:Pontoglio\, Pontoglio
+DESCRIPTION:Bancarelle dei negozianti locali e piccoli spettacoli per bam
+ bini in vista della festa di Santa Lucia. Info: https://sagramap.com/eve
+ nto/aspettando-santa-lucia-pontoglio (via @radarcremona)
+URL:https://sagramap.com/evento/aspettando-santa-lucia-pontoglio
+END:VEVENT
+END:VCALENDAR
