@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2202@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Serata di Canti Natalizi
+LOCATION:Str. Langhirano\, 85\, 85 Strada Langhirano\, Parma
+DESCRIPTION:Concerto natalizio di musica gospel con cori e brani classici
+  delle feste\, in programma a metà dicembre. Info: https://allevents.in
+ /parma/serata-di-canti-natalizi/100002004839992386 (via @radarcremona)
+URL:https://allevents.in/parma/serata-di-canti-natalizi/10000200483999238
+ 6
+END:VEVENT
+END:VCALENDAR

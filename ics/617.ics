@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-617@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:MORTE ACCIDENTALE DI UN ANARCHICO
+LOCATION:Teatro Amilcare Ponchielli\, Corso Vittorio Emanuele II 52\, Cre
+ mona
+DESCRIPTION:Spettacolo teatrale di satira politica con protagonista Lodo 
+ Guenzi\, per ricordare i cento anni dalla nascita dell'autore. Info: htt
+ ps://www.teatroponchielli.it/spettacolo/morte-accidentale-di-un-anarchic
+ o/ (via @radarcremona)
+URL:https://www.teatroponchielli.it/spettacolo/morte-accidentale-di-un-an
+ archico/
+END:VEVENT
+END:VCALENDAR

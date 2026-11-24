@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2199@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+SUMMARY:BIODIVERSITA': UN PATRIMONIO CHE CI INTERPELLA
+LOCATION:Strada Luigi Carlo Farini\, 32/A\, 43121 Parma\, Italy\, Strada 
+ Luigi Carlo Farini\, Parma
+DESCRIPTION:Incontro di approfondimento sul valore della natura e sulla r
+ icchezza della varietà delle specie viventi. Info: https://allevents.in
+ /parma/biodiversita-un-patrimonio-che-ci-interpella/200031108533144 (via
+  @radarcremona)
+URL:https://allevents.in/parma/biodiversita-un-patrimonio-che-ci-interpel
+ la/200031108533144
+END:VEVENT
+END:VCALENDAR

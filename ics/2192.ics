@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2192@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:La Magia del Natale a Lume di Candela: Presepi\, Segreti e Tradiz
+ ioni Diment
+LOCATION:Davanti Chiesa di San Francesco d’Assisi\, Via San Francesco D
+ `Assisi\, Brescia
+DESCRIPTION:Passeggiata serale tra chiese poco note e presepi\, per scopr
+ ire storie e tradizioni natalizie della città. Info: https://www.eventb
+ rite.it/e/la-magia-del-natale-a-lume-di-candela-presepi-segreti-e-tradiz
+ ioni-diment-tickets-1995971151444 (via @radarcremona)
+URL:https://www.eventbrite.it/e/la-magia-del-natale-a-lume-di-candela-pre
+ sepi-segreti-e-tradizioni-diment-tickets-1995971151444
+END:VEVENT
+END:VCALENDAR

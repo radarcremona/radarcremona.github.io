@@ -4,9 +4,9 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-1956@radarcremona
-DTSTAMP:20261123T072418Z
+DTSTAMP:20261124T072038Z
 DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20270102
 SUMMARY:The Fridays of the series
 LOCATION:Via Genova 76/b\, 25125 Brescia\, Italy\, Via Genova\, Brescia
 DESCRIPTION:Appuntamento serale del venerdì che fa parte di una serie di

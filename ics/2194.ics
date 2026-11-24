@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2194@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:CRISTIANO DE ANDRE' - DE ANDRE CANTA DE ANDRE
+LOCATION:Dis_Play Brixia Forum\, Brescia
+DESCRIPTION:Concerto in cui il figlio di un celebre cantautore ne interpr
+ eta le canzoni dal vivo. Info: https://allevents.in/brescia/cristiano-de
+ -andre-de-andre-canta-de-andre/210009077320605 (via @radarcremona)
+URL:https://allevents.in/brescia/cristiano-de-andre-de-andre-canta-de-and
+ re/210009077320605
+END:VEVENT
+END:VCALENDAR

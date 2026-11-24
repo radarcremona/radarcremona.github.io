@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2183@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:ALBERTO ZAMBELLI / Talk “La moda che verrà” REFRAME
+LOCATION:Palazzo Guazzoni Zaccaria\, Corso Pietro Vacchelli 60\, Cremona
+DESCRIPTION:Conversazione sul futuro della moda tra un designer\, una sty
+ list e un ospite\, in programma di domenica. Info: https://allevents.in/
+ cremona/alberto-zambelli-talk-la-moda-che-verrà-reframe/100002005265407
+ 815 (via @radarcremona)
+URL:https://allevents.in/cremona/alberto-zambelli-talk-la-moda-che-verrà
+ -reframe/100002005265407815
+END:VEVENT
+END:VCALENDAR

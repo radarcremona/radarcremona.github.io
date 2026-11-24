@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2241@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261221
+SUMMARY:CREMONA VIOLIN WEEK
+LOCATION:Luoghi diversi\, Cremona\, Cremona
+DESCRIPTION:Presentazione in piazza di un nuovo festival sulla tradizione
+  dei liutai cremonesi\, in arrivo a dicembre. Info: https://www.turismoc
+ remona.it/it/evento/cremona-violin-week (via @radarcremona)
+URL:https://www.turismocremona.it/it/evento/cremona-violin-week
+END:VEVENT
+END:VCALENDAR

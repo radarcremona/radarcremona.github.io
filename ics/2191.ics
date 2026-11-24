@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2191@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261228
+SUMMARY:Mercatini di Natale di piazza Vittoria di Brescia
+LOCATION:Brescia\, piazza Vittoria\, Brescia
+DESCRIPTION:Casette natalizie nella piazza centrale bresciana\, aperte da
+  giovedì a domenica per quasi un mese. Info: https://sagramap.com/event
+ o/mercatini-di-natale-di-piazza-vittoria-di-brescia (via @radarcremona)
+URL:https://sagramap.com/evento/mercatini-di-natale-di-piazza-vittoria-di
+ -brescia
+END:VEVENT
+END:VCALENDAR

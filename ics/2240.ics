@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2240@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261130
+SUMMARY:BOOKCITY MILANO ANCHE A CREMONA
+LOCATION:Luoghi diversi\, Cremona\, Cremona
+DESCRIPTION:Settimana di appuntamenti sui libri a Cremona\, con autori\, 
+ laboratori e conversazioni tra letteratura\, arte e musica. Info: https:
+ //www.turismocremona.it/it/evento/bookcity-milano-anche-cremona (via @ra
+ darcremona)
+URL:https://www.turismocremona.it/it/evento/bookcity-milano-anche-cremona
+END:VEVENT
+END:VCALENDAR

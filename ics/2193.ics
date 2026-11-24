@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2193@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:English Aperitivo in Brescia @TheVillainsPub (18:00–19:30)
+LOCATION:The Villains Pub\, 82 Via Nicolò Tommaseo\, Brescia
+DESCRIPTION:Aperitivo serale in un pub cittadino\, pensato per chi vuole 
+ praticare l'inglese in compagnia. Info: https://allevents.in/brescia/eng
+ lish-aperitivo-in-brescia-thevillainspub-18-00-19-30/100002005218732207 
+ (via @radarcremona)
+URL:https://allevents.in/brescia/english-aperitivo-in-brescia-thevillains
+ pub-18-00-19-30/100002005218732207
+END:VEVENT
+END:VCALENDAR

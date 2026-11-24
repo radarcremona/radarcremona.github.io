@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2201@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261213
+SUMMARY:Anolini in famiglia: tra memoria e futuro
+LOCATION:Sala Show-cooking (ex Palazzo della Provincia)\, Piazzale della 
+ Pace\, Parma
+DESCRIPTION:Laboratorio per bambini dai 5 agli 11 anni sulle paste ripien
+ e delle feste e sui ricordi legati. Info: https://allevents.in/parma/ano
+ lini-in-famiglia-tra-memoria-e-futuro/100002005025447086 (via @radarcrem
+ ona)
+URL:https://allevents.in/parma/anolini-in-famiglia-tra-memoria-e-futuro/1
+ 00002005025447086
+END:VEVENT
+END:VCALENDAR

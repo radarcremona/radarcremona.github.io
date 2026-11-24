@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2188@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:Sagra del Pursèl di Fiesse
+LOCATION:Fiesse\, Strada San Giacomo\, Fiesse
+DESCRIPTION:Festa gastronomica di paese in Bassa Bresciana dedicata alla 
+ carne di maiale e ai salumi\, al coperto e gratuita. Info: https://sagra
+ map.com/evento/sagra-del-pursel-di-fiesse (via @radarcremona)
+URL:https://sagramap.com/evento/sagra-del-pursel-di-fiesse
+END:VEVENT
+END:VCALENDAR

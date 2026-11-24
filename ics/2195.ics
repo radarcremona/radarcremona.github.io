@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2195@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Brescia 1000+MILLE Imprese - 2026
+LOCATION:Camera di Commercio Industria Artigianato e Agricoltura di Bresc
+ ia\, 23 Via Luigi Einaudi\, Brescia
+DESCRIPTION:Incontro dedicato alle imprese del territorio bresciano\, con
+  dati\, scenari economici e un'ospite del giornalismo. Info: https://all
+ events.in/brescia/brescia-1000mille-imprese-2026/100002004642774502 (via
+  @radarcremona)
+URL:https://allevents.in/brescia/brescia-1000mille-imprese-2026/100002004
+ 642774502
+END:VEVENT
+END:VCALENDAR

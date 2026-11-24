@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2182@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:LORENZO MIRANDOLA / Talk libro “Quando il cielo si accende” R
+ EFRAME
+LOCATION:Palazzo Guazzoni Zaccaria\, Corso Pietro Vacchelli 60\, Cremona
+DESCRIPTION:Presentazione di un libro sulla passione per le aurore boreal
+ i\, con ingresso libero a Palazzo Guazzoni. Info: https://allevents.in/c
+ remona/lorenzo-mirandola-talk-libro-quando-il-cielo-si-accende-reframe/1
+ 00002005208737312 (via @radarcremona)
+URL:https://allevents.in/cremona/lorenzo-mirandola-talk-libro-quando-il-c
+ ielo-si-accende-reframe/100002005208737312
+END:VEVENT
+END:VCALENDAR

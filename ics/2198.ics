@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2198@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Terza conferenza FreshWater Watch Parma
+LOCATION:Cascina Ambolana\, Parco Area delle Scienze\, Parma
+DESCRIPTION:Conferenza pubblica sul monitoraggio della qualità delle acq
+ ue\, terzo incontro di un ciclo organizzato a Parma. Info: https://allev
+ ents.in/parma/terza-conferenza-freshwater-watch-parma/200031108328201 (v
+ ia @radarcremona)
+URL:https://allevents.in/parma/terza-conferenza-freshwater-watch-parma/20
+ 0031108328201
+END:VEVENT
+END:VCALENDAR

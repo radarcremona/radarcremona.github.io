@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2189@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20270107
+SUMMARY:Mercatino di Natale di Desenzano del Garda
+LOCATION:Desenzano del Garda\, Piazza Cappelletti\, Desenzano del Garda
+DESCRIPTION:Bancarelle natalizie sulla piazza del lago\, aperte nei fine 
+ settimana per tutto il periodo delle feste. Info: https://sagramap.com/e
+ vento/mercatino-di-natale-di-desenzano-del-garda (via @radarcremona)
+URL:https://sagramap.com/evento/mercatino-di-natale-di-desenzano-del-gard
+ a
+END:VEVENT
+END:VCALENDAR

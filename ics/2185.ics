@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2185@radarcremona
+DTSTAMP:20261124T072038Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Motobefana e Befana in Piazza Cavalli a Piacenza
+LOCATION:Piacenza\, Piazza Cavalli\, Piacenza
+DESCRIPTION:Info: https://sagramap.com/evento/motobefana-e-befana-in-piaz
+ za-cavalli-a-piacenza (via @radarcremona)
+URL:https://sagramap.com/evento/motobefana-e-befana-in-piazza-cavalli-a-p
+ iacenza
+END:VEVENT
+END:VCALENDAR
