@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2242@radarcremona
+DTSTAMP:20261125T072037Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:BLA BLA LAB IN ENGLISH | Conversazione in Inglese
+LOCATION:Myra\, 17 Via Porta San Zeno\, Verona
+DESCRIPTION:Serata di conversazione in lingua inglese per chi vuole super
+ are l'imbarazzo e allenarsi a parlare. Info: https://www.eventbrite.it/e
+ /biglietti-bla-bla-lab-in-english-conversazione-in-inglese-2002454893491
+  (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-bla-bla-lab-in-english-conversa
+ zione-in-inglese-2002454893491
+END:VEVENT
+END:VCALENDAR

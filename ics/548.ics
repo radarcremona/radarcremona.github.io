@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-548@radarcremona
+DTSTAMP:20261125T072037Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Candlelight: Queen vs ABBA
+LOCATION:Teatro al Parco\, Parco Ducale\, Parma
+DESCRIPTION:Concerto a lume di candela che mette a confronto le canzoni d
+ i due leggendari gruppi musicali. Info: https://allevents.in/parma/candl
+ elight-queen-vs-abba/2700030836512022 (via @radarcremona)
+URL:https://allevents.in/parma/candlelight-queen-vs-abba/2700030836512022
+END:VEVENT
+END:VCALENDAR

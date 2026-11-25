@@ -4,13 +4,15 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-2185@radarcremona
-DTSTAMP:20261124T072038Z
+DTSTAMP:20261125T072037Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Motobefana e Befana in Piazza Cavalli a Piacenza
 LOCATION:Piacenza\, Piazza Cavalli\, Piacenza
-DESCRIPTION:Info: https://sagramap.com/evento/motobefana-e-befana-in-piaz
- za-cavalli-a-piacenza (via @radarcremona)
+DESCRIPTION:Raduno di motociclisti la mattina dell'Epifania a Piacenza\, 
+ seguito dall'arrivo della Befana con dolci per i bambini. Info: https://
+ sagramap.com/evento/motobefana-e-befana-in-piazza-cavalli-a-piacenza (vi
+ a @radarcremona)
 URL:https://sagramap.com/evento/motobefana-e-befana-in-piazza-cavalli-a-p
  iacenza
 END:VEVENT

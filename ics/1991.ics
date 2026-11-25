@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1991@radarcremona
+DTSTAMP:20261125T072037Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Open Day IN PRESENZA Liceo Linguistico
+LOCATION:IIS "Don Milani"\, 41 Via Marconi\, Montichiari
+DESCRIPTION:Appuntamento di orientamento in sede per scoprire il percorso
+  di studi linguistico e la vita scolastica. Info: https://www.eventbrite
+ .it/e/biglietti-open-day-in-presenza-liceo-linguistico-2003761766383 (vi
+ a @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-open-day-in-presenza-liceo-ling
+ uistico-2003761766383
+END:VEVENT
+END:VCALENDAR

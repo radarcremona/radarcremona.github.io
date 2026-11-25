@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2249@radarcremona
+DTSTAMP:20261125T072037Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Eurosia
+LOCATION:Centro Commerciale Eurosia\, Via Traversetolo\, Parma
+DESCRIPTION:Evento di tipo generico\, di cui al momento non sono disponib
+ ili informazioni sul contenuto. Info: https://allevents.in/parma/eurosia
+ /200031108681744 (via @radarcremona)
+URL:https://allevents.in/parma/eurosia/200031108681744
+END:VEVENT
+END:VCALENDAR

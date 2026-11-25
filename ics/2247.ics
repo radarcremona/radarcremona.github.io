@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2247@radarcremona
+DTSTAMP:20261125T072037Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Market in galleria Parma
+LOCATION:Parma\, Italia\, Parma\, Parma
+DESCRIPTION:Mercatino con bancarelle allestito negli spazi di una galleri
+ a del centro di Parma. Info: https://allevents.in/parma/market-in-galler
+ ia-parma/200031046815949 (via @radarcremona)
+URL:https://allevents.in/parma/market-in-galleria-parma/200031046815949
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1820@radarcremona
+DTSTAMP:20261125T072037Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Open Day IN PRESENZA Liceo Scientifico Progettuale
+LOCATION:IIS "Don Milani"\, 41 Via Marconi\, Montichiari
+DESCRIPTION:Giornata di orientamento in sede per conoscere da vicino il p
+ ercorso scientifico a indirizzo progettuale. Info: https://www.eventbrit
+ e.it/e/biglietti-open-day-in-presenza-liceo-scientifico-progettuale-2003
+ 762226760 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-open-day-in-presenza-liceo-scie
+ ntifico-progettuale-2003762226760
+END:VEVENT
+END:VCALENDAR

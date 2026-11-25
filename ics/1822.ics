@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1822@radarcremona
+DTSTAMP:20261125T072037Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Open Day IN PRESENZA Liceo Scienze Umane opzione Economico Social
+ e
+LOCATION:IIS "Don Milani"\, 41 Via Marconi\, Montichiari
+DESCRIPTION:Incontro di orientamento in sede dedicato al percorso di scie
+ nze umane con curvatura economico sociale. Info: https://www.eventbrite.
+ it/e/biglietti-open-day-in-presenza-liceo-scienze-umane-opzione-economic
+ o-sociale-2003761685140 (via @radarcremona)
+URL:https://www.eventbrite.it/e/biglietti-open-day-in-presenza-liceo-scie
+ nze-umane-opzione-economico-sociale-2003761685140
+END:VEVENT
+END:VCALENDAR

@@ -4,9 +4,9 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-2201@radarcremona
-DTSTAMP:20261124T072038Z
+DTSTAMP:20261125T072037Z
 DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261211
 SUMMARY:Anolini in famiglia: tra memoria e futuro
 LOCATION:Sala Show-cooking (ex Palazzo della Provincia)\, Piazzale della 
  Pace\, Parma

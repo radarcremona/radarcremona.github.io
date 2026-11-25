@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2244@radarcremona
+DTSTAMP:20261125T072037Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261209
+SUMMARY:Fiera del Torrone di Carpenedolo
+LOCATION:Carpenedolo\, Centro storico\, Carpenedolo
+DESCRIPTION:Edizione numero 21 della fiera dedicata al torrone\, con banc
+ hi\, intrattenimento e attrazioni nel cuore del paese. Info: https://sag
+ ramap.com/evento/fiera-del-torrone-di-carpenedolo (via @radarcremona)
+URL:https://sagramap.com/evento/fiera-del-torrone-di-carpenedolo
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2245@radarcremona
+DTSTAMP:20261125T072037Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Brescia - Workshop Fotografia Ritratto
+LOCATION:Castello di Brescia\, 9 Via del Castello\, Brescia
+DESCRIPTION:Laboratorio fotografico breve di quattro ore\, dedicato al ri
+ tratto all'aperto con una modella. Info: https://www.eventbrite.it/e/big
+ lietti-brescia-workshop-fotografia-ritratto-1993457473967 (via @radarcre
+ mona)
+URL:https://www.eventbrite.it/e/biglietti-brescia-workshop-fotografia-rit
+ ratto-1993457473967
+END:VEVENT
+END:VCALENDAR

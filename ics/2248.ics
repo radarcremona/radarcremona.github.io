@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2248@radarcremona
+DTSTAMP:20261125T072037Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Arriva il nuovo Trivial Food Edition
+LOCATION:Feltrinelli\, Piazza Ravegnana\, Bologna\, Parma\, Parma
+DESCRIPTION:Presentazione di una nuova versione del gioco da tavolo Trivi
+ al\, dedicata al mondo del cibo. Info: https://allevents.in/parma/arriva
+ -il-nuovo-trivial-food-edition/200031094701753 (via @radarcremona)
+URL:https://allevents.in/parma/arriva-il-nuovo-trivial-food-edition/20003
+ 1094701753
+END:VEVENT
+END:VCALENDAR

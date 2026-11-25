@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1699@radarcremona
+DTSTAMP:20261125T072037Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:MAMMA MIA CHE STORIA! Il Musical
+LOCATION:Teatro Santa Giulia\, 4 Villaggio Prealpino Via Quinta\, Brescia
+DESCRIPTION:Spettacolo teatrale in forma di musical\, pensato per un pubb
+ lico di tutte le età. Info: https://allevents.in/brescia/mamma-mia-che-
+ storia-il-musical/100002004279269248 (via @radarcremona)
+URL:https://allevents.in/brescia/mamma-mia-che-storia-il-musical/10000200
+ 4279269248
+END:VEVENT
+END:VCALENDAR
