@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2273@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Compagnia Teatro in Musica presenta "Ma che film la vita"
+LOCATION:Discoteca Mascara Mantova\, Viale della Favorita\, Mantova
+DESCRIPTION:Spettacolo di una compagnia teatrale con musica dal vivo\, is
+ pirato al mondo del cinema. Info: https://allevents.in/mantova/compagnia
+ -teatro-in-musica-presenta-ma-che-film-la-vita/200031138278016 (via @rad
+ arcremona)
+URL:https://allevents.in/mantova/compagnia-teatro-in-musica-presenta-ma-c
+ he-film-la-vita/200031138278016
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2280@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:FESTA DELLA LUCE
+LOCATION:Teatro di Nogara\, Via Govanni Falcone Paolo Borsellino\, Mantov
+ a
+DESCRIPTION:Serata con musica per festeggiare il compleanno di un'erboris
+ teria\, in un clima caldo e accogliente. Info: https://allevents.in/mant
+ ova/festa-della-luce/200031138725504 (via @radarcremona)
+URL:https://allevents.in/mantova/festa-della-luce/200031138725504
+END:VEVENT
+END:VCALENDAR

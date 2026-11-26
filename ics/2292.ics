@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2292@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:THIS WILL DESTROY YOU - DIE SÜNDE - CAHILL//COSTELLO - PARMA
+LOCATION:Abbazia di Valserena\, Parma
+DESCRIPTION:Concerto di una band strumentale molto influente\, ospitata i
+ n un'abbazia nei pressi di Parma. Info: https://allevents.in/parma/this-
+ will-destroy-you-die-sÜnde-cahill-costello-parma/200031133528242 (via @
+ radarcremona)
+URL:https://allevents.in/parma/this-will-destroy-you-die-sÜnde-cahill-co
+ stello-parma/200031133528242
+END:VEVENT
+END:VCALENDAR

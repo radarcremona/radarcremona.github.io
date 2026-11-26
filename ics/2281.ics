@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2281@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Arisa @ Mantova\, PalaUnical - 18 dicembre 2026
+LOCATION:Via Melchiorre Gioia\, 46100 Mantova MN\, Italia\, Mantova
+DESCRIPTION:Concerto della cantautrice genovese al palazzetto di Mantova\
+ , tra pop\, melodia e interpretazione. Info: https://allevents.in/mantov
+ a/arisa-mantova-palaunical-18-dicembre-2026/200031136826013 (via @radarc
+ remona)
+URL:https://allevents.in/mantova/arisa-mantova-palaunical-18-dicembre-202
+ 6/200031136826013
+END:VEVENT
+END:VCALENDAR

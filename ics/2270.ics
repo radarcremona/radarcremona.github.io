@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2270@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:ROBERTO MERCADINI al TEATRO MANICOMICS in Noi siamo il suolo\, no
+ i siamo la Terra RASSEGNA RIDO SOGNO
+LOCATION:Via Giovanni Battista Scalabrini\, 19\, 29121 Piacenza PC\, Ital
+ ia\, Via Giovanni Battista Scalabrini\, Piacenza
+DESCRIPTION:Spettacolo di teatro contemporaneo e comicità\, quarto appun
+ tamento della stagione di un teatro piacentino. Info: https://allevents.
+ in/piacenza/roberto-mercadini-al-teatro-manicomics-in-noi-siamo-il-suolo
+ -noi-siamo-la-terra-rassegna-rido-sogno/200031139236535 (via @radarcremo
+ na)
+URL:https://allevents.in/piacenza/roberto-mercadini-al-teatro-manicomics-
+ in-noi-siamo-il-suolo-noi-siamo-la-terra-rassegna-rido-sogno/20003113923
+ 6535
+END:VEVENT
+END:VCALENDAR

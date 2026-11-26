@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2272@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:CITRA LA PRINCIPESSA GUERRIERA
+LOCATION:università della terza età  mantova\, Via Giuseppe Mazzini\, M
+ antova
+DESCRIPTION:Spettacolo teatrale dedicato a una giovane eroina guerriera. 
+ Info: https://allevents.in/mantova/citra-la-principessa-guerriera/200031
+ 136828019 (via @radarcremona)
+URL:https://allevents.in/mantova/citra-la-principessa-guerriera/200031136
+ 828019
+END:VEVENT
+END:VCALENDAR

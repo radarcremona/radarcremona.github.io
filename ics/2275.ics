@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2275@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Visita a Palazzo Te
+LOCATION:Palazzo Te\, viale Te\, Mantova
+DESCRIPTION:Visita guidata al celebre palazzo mantovano\, per scoprirne l
+ a storia e gli ambienti. Info: https://allevents.in/mantova/visita-a-pal
+ azzo-te/200031136823909 (via @radarcremona)
+URL:https://allevents.in/mantova/visita-a-palazzo-te/200031136823909
+END:VEVENT
+END:VCALENDAR

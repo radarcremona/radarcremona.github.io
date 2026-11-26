@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2284@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:ISABELITA Tdj Pietro GRECO + Domenico LAMBIASE
+LOCATION:Castelletto APS\, Strada Antonio Zarotto\, Parma
+DESCRIPTION:Serata di musica elettronica con due dj che si alternano in c
+ onsolle. Info: https://allevents.in/parma/isabelita-tdj-pietro-greco-dom
+ enico-lambiase/200031136217438 (via @radarcremona)
+URL:https://allevents.in/parma/isabelita-tdj-pietro-greco-domenico-lambia
+ se/200031136217438
+END:VEVENT
+END:VCALENDAR

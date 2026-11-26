@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2289@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Ven 1112 | screamo | Noverte + Maremarcio @ Arci Casinetto Petito
+ t\, Parma
+LOCATION:Casinetto Petitot\, Parma
+DESCRIPTION:Serata di concerti dal vivo con due band della scena screamo\
+ , in un circolo di Parma. Info: https://allevents.in/parma/ven-1112-scre
+ amo-noverte-maremarcio-arci-casinetto-petitot-parma/200031133526839 (via
+  @radarcremona)
+URL:https://allevents.in/parma/ven-1112-screamo-noverte-maremarcio-arci-c
+ asinetto-petitot-parma/200031133526839
+END:VEVENT
+END:VCALENDAR

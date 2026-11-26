@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2265@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Tra acque e Ingegneria - Escursione e visita alla Centrale idroel
+ ettrica di Isola Serafini
+LOCATION:Località Isola Serafini\, 29010 Monticelli d'Ongina PC\, Italia
+ \, Cremona
+DESCRIPTION:Escursione con visita a una centrale idroelettrica sul Po\, p
+ er scoprire il rapporto tra territorio e ingegneria. Info: https://allev
+ ents.in/cremona/tra-acque-e-ingegneria-escursione-e-visita-alla-centrale
+ -idroelettrica-di-isola-serafini/200031135945557 (via @radarcremona)
+URL:https://allevents.in/cremona/tra-acque-e-ingegneria-escursione-e-visi
+ ta-alla-centrale-idroelettrica-di-isola-serafini/200031135945557
+END:VEVENT
+END:VCALENDAR

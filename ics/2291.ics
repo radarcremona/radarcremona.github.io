@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2291@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Polar Express
+LOCATION:Teatro Conforti\, Piazzale Volta 1/a\, Parma
+DESCRIPTION:Spettacolo teatrale ispirato alla storia del treno magico che
+  porta i bambini verso il Natale. Info: https://allevents.in/parma/polar
+ -express/200031137385513 (via @radarcremona)
+URL:https://allevents.in/parma/polar-express/200031137385513
+END:VEVENT
+END:VCALENDAR

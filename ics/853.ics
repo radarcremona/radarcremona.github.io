@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-853@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Una Notte Per Faber || Auditorium Paganini - Parma
+LOCATION:Paganini Congressi\, Via Toscana\, Parma
+DESCRIPTION:Serata musicale in auditorium dedicata alla figura e alle can
+ zoni di Fabrizio De André. Info: https://allevents.in/parma/una-notte-p
+ er-faber-auditorium-paganini-parma/200030881566907 (via @radarcremona)
+URL:https://allevents.in/parma/una-notte-per-faber-auditorium-paganini-pa
+ rma/200030881566907
+END:VEVENT
+END:VCALENDAR

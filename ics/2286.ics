@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2286@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Expats aperitivo 151 (Friday Edition)
+LOCATION:Quelli del Bar Gianni\, Viale Duca Alessandro\, Parma
+DESCRIPTION:Aperitivo serale per chi vive all'estero\, pensato per fare n
+ uove conoscenze in modo informale. Info: https://allevents.in/parma/expa
+ ts-aperitivo-151-friday-edition/200031131069935 (via @radarcremona)
+URL:https://allevents.in/parma/expats-aperitivo-151-friday-edition/200031
+ 131069935
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2274@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:presepi in Giardino 2026 - giornata di apertura
+LOCATION:piazza dei Marinai e della Resistenza porto mantovano\, Piazza d
+ ella Resistenza\, Mantova
+DESCRIPTION:Giornata di apertura di una mostra di presepi allestita all'a
+ perto\, tra le piante del giardino. Info: https://allevents.in/mantova/p
+ resepi-in-giardino-2026-giornata-di-apertura/200031136903702 (via @radar
+ cremona)
+URL:https://allevents.in/mantova/presepi-in-giardino-2026-giornata-di-ape
+ rtura/200031136903702
+END:VEVENT
+END:VCALENDAR

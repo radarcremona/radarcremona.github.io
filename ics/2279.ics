@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2279@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Planetario · Mantova (Levata) · 12-13 dicembre 2026
+LOCATION:Polisportiva Levata\, Mantova
+DESCRIPTION:Proiezioni nel planetario per viaggiare tra stelle e pianeti\
+ , con prenotazione del biglietto. Info: https://allevents.in/mantova/pla
+ netario-·-mantova-levata-·-12-13-dicembre-2026/200031136825211 (via @r
+ adarcremona)
+URL:https://allevents.in/mantova/planetario-·-mantova-levata-·-12-13-di
+ cembre-2026/200031136825211
+END:VEVENT
+END:VCALENDAR

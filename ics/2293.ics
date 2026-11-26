@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2293@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:80s Never Die La Festa anni '80 Parma • Campus Industry
+LOCATION:Campus Industry\, Parma
+DESCRIPTION:Grande serata danzante con musica degli anni Ottanta\, organi
+ zzata a Parma nel periodo natalizio. Info: https://allevents.in/parma/80
+ s-never-die-★-la-festa-anni-80-★-parma-•-campus-industry/200031134
+ 994539 (via @radarcremona)
+URL:https://allevents.in/parma/80s-never-die-★-la-festa-anni-80-★-par
+ ma-•-campus-industry/200031134994539
+END:VEVENT
+END:VCALENDAR

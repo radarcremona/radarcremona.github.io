@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2288@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Nello stato in cui si trovano .... a Natale
+LOCATION:Strada Cava in Vigatto\, 61\, 43124 Parma\, Italy\, Strada Cava 
+ in Vigatto\, Parma
+DESCRIPTION:Spettacolo teatrale a tema natalizio\, con un taglio ironico 
+ e leggero. Info: https://allevents.in/parma/nello-stato-in-cui-si-trovan
+ o-a-natale/200031138052120 (via @radarcremona)
+URL:https://allevents.in/parma/nello-stato-in-cui-si-trovano-a-natale/200
+ 031138052120
+END:VEVENT
+END:VCALENDAR

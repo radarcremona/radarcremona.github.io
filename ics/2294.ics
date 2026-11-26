@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2294@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Lo Stretto Indispensabile (il tuo Disney Rock'n'Roll Show) / Fuor
+ i Orario - Taneto di Gattatico (RE)
+LOCATION:Fuori Orario\, Via Don Giovanni Minzoni\, Parma
+DESCRIPTION:Concerto natalizio in cui i classici Disney sono suonati in v
+ ersione pop rock\, da cantare e ballare. Info: https://allevents.in/parm
+ a/lo-stretto-indispensabile-il-tuo-disney-rocknroll-show-fuori-orario-ta
+ neto-di-gattatico-re/200031135626111 (via @radarcremona)
+URL:https://allevents.in/parma/lo-stretto-indispensabile-il-tuo-disney-ro
+ cknroll-show-fuori-orario-taneto-di-gattatico-re/200031135626111
+END:VEVENT
+END:VCALENDAR

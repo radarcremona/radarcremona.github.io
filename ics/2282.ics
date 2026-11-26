@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2282@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Rimedi Oscuri e Ferite di Guerra: storie atroci della medicina di
+  Guerra a Villa Torreggiani
+LOCATION:Via Giuseppe Garibaldi\, 45\, 25086 Rezzato BS\, Italia\, Davant
+ i Ingresso Villa\, Rezzato
+DESCRIPTION:Visita al museo dedicato alle cure sui campi di battaglia\, t
+ ra pratiche mediche estreme del passato. Info: https://www.eventbrite.it
+ /e/rimedi-oscuri-e-ferite-di-guerra-storie-atroci-della-medicina-di-guer
+ ra-a-villa-torreggiani-tickets-2003931966456 (via @radarcremona)
+URL:https://www.eventbrite.it/e/rimedi-oscuri-e-ferite-di-guerra-storie-a
+ troci-della-medicina-di-guerra-a-villa-torreggiani-tickets-2003931966456
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2269@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:PREGHIERE ALL'OPERA
+LOCATION:Duomo di Piacenza\, Piacenza
+DESCRIPTION:Serata di musica lirica dedicata ai brani di ispirazione reli
+ giosa tratti dal repertorio operistico. Info: https://allevents.in/piace
+ nza/preghiere-allopera/200031138277916 (via @radarcremona)
+URL:https://allevents.in/piacenza/preghiere-allopera/200031138277916
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2278@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:CANTO DI NATALE di Charles Dickens- regia M.G.Bettini
+LOCATION:PIAZZA D'ARCO\, Mantova\, Lombardia\, Piazza A. d'Arco\, Mantova
+DESCRIPTION:Spettacolo teatrale che racconta la trasformazione di un anzi
+ ano avaro grazie all'incontro con tre spiriti. Info: https://allevents.i
+ n/mantova/canto-di-natale-di-charles-dickens-regia-mgbettini/20003113682
+ 7619 (via @radarcremona)
+URL:https://allevents.in/mantova/canto-di-natale-di-charles-dickens-regia
+ -mgbettini/200031136827619
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1000@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Candlelight: Queen vs ABBA
+LOCATION:Teatro Sant'Afra\, Vicolo dell' Ortaglia\, Brescia
+DESCRIPTION:Concerto a lume di candela che propone un confronto musicale 
+ tra due celebri gruppi pop. Info: https://allevents.in/brescia/candlelig
+ ht-queen-vs-abba/2700030928867427 (via @radarcremona)
+URL:https://allevents.in/brescia/candlelight-queen-vs-abba/27000309288674
+ 27
+END:VEVENT
+END:VCALENDAR

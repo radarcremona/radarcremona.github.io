@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2276@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:CANTO DI NATALE di C.Dickens -rid. Chiara Prezzavento
+LOCATION:Porto Mantovano\, Mantova
+DESCRIPTION:Spettacolo teatrale tratto dal classico natalizio di Dickens\
+ , in una versione ridotta. Info: https://allevents.in/mantova/canto-di-n
+ atale-di-cdickens-rid-chiara-prezzavento/200031136828421 (via @radarcrem
+ ona)
+URL:https://allevents.in/mantova/canto-di-natale-di-cdickens-rid-chiara-p
+ rezzavento/200031136828421
+END:VEVENT
+END:VCALENDAR

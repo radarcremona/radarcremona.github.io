@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2287@radarcremona
+DTSTAMP:20261126T072033Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:LP70 in concerto
+LOCATION:Strada Cava in Vigatto\, 61\, 43124 Parma\, Italy\, Strada Cava 
+ in Vigatto\, Parma
+DESCRIPTION:Concerto dal vivo di una band\, in una serata dedicata alla m
+ usica. Info: https://allevents.in/parma/lp70-in-concerto/200031138054133
+  (via @radarcremona)
+URL:https://allevents.in/parma/lp70-in-concerto/200031138054133
+END:VEVENT
+END:VCALENDAR
