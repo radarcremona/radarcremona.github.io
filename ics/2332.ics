@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2332@radarcremona
+DTSTAMP:20261127T072100Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:ROMEO E GIULIETTA L'amore è saltimbanco STIVALACCIO TEATRO DA MA
+ NICOMICS Rassegna Rido Sogno e Volo
+LOCATION:Via Giovanni Battista Scalabrini\, 19\, 29121 Piacenza PC\, Ital
+ ia\, Via Giovanni Battista Scalabrini\, Piacenza
+DESCRIPTION:Spettacolo teatrale in una rassegna di comicità e teatro con
+ temporaneo\, con una compagnia che rilegge il celebre dramma d'amore. In
+ fo: https://allevents.in/piacenza/romeo-e-giulietta-lamore-è-saltimbanc
+ o-stivalaccio-teatro-da-manicomics-rassegna-rido-sogno-e-volo/2000311392
+ 40048 (via @radarcremona)
+URL:https://allevents.in/piacenza/romeo-e-giulietta-lamore-è-saltimbanco
+ -stivalaccio-teatro-da-manicomics-rassegna-rido-sogno-e-volo/20003113924
+ 0048
+END:VEVENT
+END:VCALENDAR

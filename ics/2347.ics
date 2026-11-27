@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2347@radarcremona
+DTSTAMP:20261127T072100Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Mercatino del tempo che fu Roncadelle BS Domenica 29 Novembre 202
+ 6
+LOCATION:Centro commerciale le Rondinelle\, Via Enrico Mattei\, Brescia
+DESCRIPTION:Mercato di oggetti vintage\, usato e antiquariato a Roncadell
+ e\, nel bresciano\, in una domenica di fine novembre. Info: https://alle
+ vents.in/brescia/mercatino-del-tempo-che-fu-roncadelle-bs-domenica-29-no
+ vembre-2026/200031137733157 (via @radarcremona)
+URL:https://allevents.in/brescia/mercatino-del-tempo-che-fu-roncadelle-bs
+ -domenica-29-novembre-2026/200031137733157
+END:VEVENT
+END:VCALENDAR

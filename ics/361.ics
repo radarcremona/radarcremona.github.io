@@ -4,9 +4,9 @@ PRODID:-//Radar Cremona//IT
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:radar-361@radarcremona
-DTSTAMP:20261126T072033Z
+DTSTAMP:20261127T072100Z
 DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261214
 SUMMARY:Candlelight: Tributo a Vasco Rossi
 LOCATION:Auditorium Santa Giulia\, Via Giovanni Piamarta\, Brescia
 DESCRIPTION:Concerto a lume di candela a Brescia con un omaggio musicale 

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2353@radarcremona
+DTSTAMP:20261127T072100Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:FITNESS BRUNCH
+LOCATION:Piazza Giuseppe Garibaldi\, Piazza Giuseppe Garibaldi\, Parma
+DESCRIPTION:Mattinata di allenamento di gruppo seguita da un brunch salut
+ are\, per fare sport e nuove conoscenze. Info: https://www.eventbrite.it
+ /e/fitness-brunch-tickets-2005404261129 (via @radarcremona)
+URL:https://www.eventbrite.it/e/fitness-brunch-tickets-2005404261129
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2323@radarcremona
+DTSTAMP:20261127T072100Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Harlem Gospel Choir
+LOCATION:Gran Teatro Infinity1\, Piazza Zelioli\, Cremona
+DESCRIPTION:Concerto gospel di un coro newyorkese che rende omaggio a due
+  grandi voci femminili della musica. Info: https://allevents.in/cremona/
+ harlem-gospel-choir/200031136355347 (via @radarcremona)
+URL:https://allevents.in/cremona/harlem-gospel-choir/200031136355347
+END:VEVENT
+END:VCALENDAR

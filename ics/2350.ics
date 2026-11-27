@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2350@radarcremona
+DTSTAMP:20261127T072100Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:RONDINELLE COMICS 2026
+LOCATION:Centro Commerciale Rondinelle\, Via Mattei 37/39\, Brescia
+DESCRIPTION:Giornata per gli appassionati di fumetti e cultura pop\, con 
+ raduno e gara cosplay al centro commerciale. Info: https://allevents.in/
+ brescia/rondinelle-comics-2026/200031137733859 (via @radarcremona)
+URL:https://allevents.in/brescia/rondinelle-comics-2026/200031137733859
+END:VEVENT
+END:VCALENDAR

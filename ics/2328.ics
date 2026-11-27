@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2328@radarcremona
+DTSTAMP:20261127T072100Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Dalla banchina al massacro. Presentazione de La logistica delle a
+ rmi\, con Linda Maggiori
+LOCATION:Teatro Trieste Trentaquattro\, Via Trieste 34\, Piacenza
+DESCRIPTION:Incontro pubblico con l'autrice per presentare un libro sul c
+ ommercio e sul trasporto delle armi. Info: https://allevents.in/piacenza
+ /dalla-banchina-al-massacro-presentazione-de-la-logistica-delle-armi-con
+ -linda-maggiori/200031138277716 (via @radarcremona)
+URL:https://allevents.in/piacenza/dalla-banchina-al-massacro-presentazion
+ e-de-la-logistica-delle-armi-con-linda-maggiori/200031138277716
+END:VEVENT
+END:VCALENDAR

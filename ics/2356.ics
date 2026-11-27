@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2356@radarcremona
+DTSTAMP:20261127T072100Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Christmas Edition
+LOCATION:Vertigo Parma\, Strada Manara 54/A\, Parma
+DESCRIPTION:Evento a tema natalizio\, in edizione speciale per il periodo
+  delle feste. Info: https://allevents.in/parma/christmas-edition/2000311
+ 44240519 (via @radarcremona)
+URL:https://allevents.in/parma/christmas-edition/200031144240519
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2341@radarcremona
+DTSTAMP:20261127T072100Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Country @ 4Accordi
+LOCATION:Accademia 4Accordi\, Via Lombardi 16\, Mantova
+DESCRIPTION:Serata di musica country dal vivo in un locale\, per ascoltar
+ e e ballare. Info: https://allevents.in/mantova/country-4accordi/2000311
+ 36820002 (via @radarcremona)
+URL:https://allevents.in/mantova/country-4accordi/200031136820002
+END:VEVENT
+END:VCALENDAR

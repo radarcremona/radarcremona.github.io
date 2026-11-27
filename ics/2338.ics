@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2338@radarcremona
+DTSTAMP:20261127T072100Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Yoga Nidra\, Respirazione & Meditazione per la Calma
+LOCATION:Hygge Hive\, 3c Vicolo Fossetto\, Verona
+DESCRIPTION:Lezione serale settimanale che unisce rilassamento guidato\, 
+ respiro e meditazione per allentare lo stress e dormire meglio. Info: ht
+ tps://www.eventbrite.it/e/yoga-nidra-respirazione-meditazione-per-la-cal
+ ma-tickets-2002066707416 (via @radarcremona)
+URL:https://www.eventbrite.it/e/yoga-nidra-respirazione-meditazione-per-l
+ a-calma-tickets-2002066707416
+END:VEVENT
+END:VCALENDAR

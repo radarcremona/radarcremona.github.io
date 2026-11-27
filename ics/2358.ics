@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2358@radarcremona
+DTSTAMP:20261127T072100Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Parma Bagarre - 5 edizione del Déballage nazionale d'Italia
+LOCATION:Viale delle Esposizioni 393\, 43126 Parma\, Italy\, Parma
+DESCRIPTION:Grande mercato coperto di antiquariato e modernariato alla Fi
+ era di Parma\, con circa duecento espositori. Info: https://allevents.in
+ /parma/parma-bagarre-5°-edizione-del-déballage-nazionale-ditalia/20003
+ 1137376755 (via @radarcremona)
+URL:https://allevents.in/parma/parma-bagarre-5°-edizione-del-déballage-
+ nazionale-ditalia/200031137376755
+END:VEVENT
+END:VCALENDAR

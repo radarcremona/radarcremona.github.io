@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2339@radarcremona
+DTSTAMP:20261127T072100Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Il Natale Segreto dei Gonzaga: Banchetti\, Curiosità e Feste Rin
+ ascimentali
+LOCATION:Piazza Sordello\, 23\, 46100 Mantova MN\, Italy\, Davanti Casa d
+ el Rigoletto\, Mantova
+DESCRIPTION:Visita guidata a Mantova per scoprire tavole\, usanze e feste
+  natalizie della corte rinascimentale dei Gonzaga. Info: https://www.eve
+ ntbrite.co.uk/e/il-natale-segreto-dei-gonzaga-banchetti-curiosita-e-fest
+ e-rinascimentali-tickets-2005108063193 (via @radarcremona)
+URL:https://www.eventbrite.co.uk/e/il-natale-segreto-dei-gonzaga-banchett
+ i-curiosita-e-feste-rinascimentali-tickets-2005108063193
+END:VEVENT
+END:VCALENDAR

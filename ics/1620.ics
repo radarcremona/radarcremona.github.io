@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-1620@radarcremona
+DTSTAMP:20261127T072100Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270113
+SUMMARY:Expand Your Fempire Accelerator: La Dolce Vita Special Edition 20
+ 27 (program begins in January)
+LOCATION:Torino\,Italy\, Piacenza
+DESCRIPTION:Percorso di accelerazione per donne imprenditrici\, in edizio
+ ne speciale ispirata all'Italia\, con avvio a gennaio. Info: https://all
+ events.in/piacenza/expand-your-fempire-accelerator-la-dolce-vita-special
+ -edition-2027-program-begins-in-january/200031021445005 (via @radarcremo
+ na)
+URL:https://allevents.in/piacenza/expand-your-fempire-accelerator-la-dolc
+ e-vita-special-edition-2027-program-begins-in-january/200031021445005
+END:VEVENT
+END:VCALENDAR

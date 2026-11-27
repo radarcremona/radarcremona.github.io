@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2345@radarcremona
+DTSTAMP:20261127T072100Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:1 RADUNO DEL PRESEPE E DELLA DECORAZIONE NATALIZIA
+LOCATION:piazza della pace 1\, Porto Mantovano\, Lombardia\, Mantova
+DESCRIPTION:Giornata in piazza dedicata a chi crea presepi e addobbi nata
+ lizi\, con iscrizioni aperte agli hobbisti. Info: https://allevents.in/m
+ antova/1-raduno-del-presepe-e-della-decorazione-natalizia/20003113690490
+ 6 (via @radarcremona)
+URL:https://allevents.in/mantova/1-raduno-del-presepe-e-della-decorazione
+ -natalizia/200031136904906
+END:VEVENT
+END:VCALENDAR

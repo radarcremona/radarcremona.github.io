@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2340@radarcremona
+DTSTAMP:20261127T072100Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Cenone Sociale di San Silvestro
+LOCATION:Comitato di Quartiere Rabin ODV\, Mantua\, Mantova
+DESCRIPTION:Cena di fine anno per i soci\, pensata per salutare insieme i
+ l nuovo anno. Info: https://allevents.in/mantova/cenone-sociale-di-san-s
+ ilvestro/200031139504103 (via @radarcremona)
+URL:https://allevents.in/mantova/cenone-sociale-di-san-silvestro/20003113
+ 9504103
+END:VEVENT
+END:VCALENDAR
