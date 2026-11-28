@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2444@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Delitto a Teatro
+LOCATION:Strada Cava in Vigatto\, 61\, 43124 Parma\, Italy\, Strada Cava 
+ in Vigatto\, Parma
+DESCRIPTION:Spettacolo teatrale a tema giallo\, in cui il pubblico assist
+ e a un'indagine su un delitto. Info: https://allevents.in/parma/delitto-
+ a-teatro/200031157382116 (via @radarcremona)
+URL:https://allevents.in/parma/delitto-a-teatro/200031157382116
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2441@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:IDOLS 2000 – REDAS CLUB\, Venezia
+LOCATION:Redas\, Viale Marconi\, Parma
+DESCRIPTION:Serata musicale in un club di Venezia\, con atmosfera e music
+ a ispirate ai primi anni Duemila. Info: https://allevents.in/parma/idols
+ -2000-redas-club-venezia/200031142979512 (via @radarcremona)
+URL:https://allevents.in/parma/idols-2000-redas-club-venezia/200031142979
+ 512
+END:VEVENT
+END:VCALENDAR

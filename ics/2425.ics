@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2425@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Concerto di Natale per la solidarietà
+LOCATION:Teatro Bibiena\, Via Accademia 47\, Mantova
+DESCRIPTION:Concerto corale natalizio di beneficenza a favore del reparto
+  di Ematologia dell'ospedale di Mantova. Info: https://allevents.in/mant
+ ova/concerto-di-natale-per-la-solidarietà/200031157075131 (via @radarcr
+ emona)
+URL:https://allevents.in/mantova/concerto-di-natale-per-la-solidarietà/2
+ 00031157075131
+END:VEVENT
+END:VCALENDAR

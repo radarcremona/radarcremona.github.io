@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2438@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:NECROMORBID + TULPA + SPETTRO | Arci CDC\, Parma
+LOCATION:Arci CDC Parma\, V.le Mentana\, Parma
+DESCRIPTION:Serata di concerti dal vivo in un circolo di Parma\, con tre 
+ gruppi in programma. Info: https://allevents.in/parma/necromorbid-tulpa-
+ spettro-arci-cdc-parma/200031142556235 (via @radarcremona)
+URL:https://allevents.in/parma/necromorbid-tulpa-spettro-arci-cdc-parma/2
+ 00031142556235
+END:VEVENT
+END:VCALENDAR

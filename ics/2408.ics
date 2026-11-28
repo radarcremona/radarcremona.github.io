@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2408@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+SUMMARY:Abat-jour Vintage Market di Piacenza
+LOCATION:Piacenza\, Ex Chiesa del Carmine\, Piacenza
+DESCRIPTION:Mercatino natalizio di oggetti vintage e artigianali in una e
+ x chiesa\, con musica e laboratori. Info: https://sagramap.com/evento/ab
+ at-jour-vintage-market-di-piacenza (via @radarcremona)
+URL:https://sagramap.com/evento/abat-jour-vintage-market-di-piacenza
+END:VEVENT
+END:VCALENDAR

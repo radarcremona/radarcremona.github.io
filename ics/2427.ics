@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2427@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Country Star & Friends
+LOCATION:Via Chiese 21\, Tripoli\, 46030 Mantua\, Italy\, Polisportiva la
+  Stella Asd\, Mantova
+DESCRIPTION:Serata country in discoteca con dj set\, musica dal vivo ed e
+ strazione di pacchi natalizi\; i posti risultano esauriti. Info: https:/
+ /allevents.in/mantova/country-star-and-friends/200031153362305 (via @rad
+ arcremona)
+URL:https://allevents.in/mantova/country-star-and-friends/200031153362305
+END:VEVENT
+END:VCALENDAR

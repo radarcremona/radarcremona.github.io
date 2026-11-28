@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2407@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20270111
+SUMMARY:Un Mondo di Presepi di Castell'Arquato
+LOCATION:Castell'Arquato\, Palazzo del Podestà\, Castell'Arquato
+DESCRIPTION:Esposizione di oltre cento presepi artigianali provenienti da
+  vari paesi\, ospitata in un palazzo storico di Castell'Arquato. Info: h
+ ttps://sagramap.com/evento/un-mondo-di-presepi-di-castellarquato (via @r
+ adarcremona)
+URL:https://sagramap.com/evento/un-mondo-di-presepi-di-castellarquato
+END:VEVENT
+END:VCALENDAR

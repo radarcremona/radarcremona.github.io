@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2440@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Non numeri ma persone – Lavorare per vivere\, non morire per la
+ vorare
+LOCATION:via Piave 2\, 42049 Sant'Ilario d'Enza\, Italy\, Via Piave\, Par
+ ma
+DESCRIPTION:Incontro pubblico sul tema della sicurezza e della dignità n
+ el lavoro. Info: https://allevents.in/parma/non-numeri-ma-persone-lavora
+ re-per-vivere-non-morire-per-lavorare/200031157074929 (via @radarcremona
+ )
+URL:https://allevents.in/parma/non-numeri-ma-persone-lavorare-per-vivere-
+ non-morire-per-lavorare/200031157074929
+END:VEVENT
+END:VCALENDAR

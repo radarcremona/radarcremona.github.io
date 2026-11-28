@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2471@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Cremona Violin Week - Un'altra classica
+LOCATION:Museo del Violino\, Auditorium G. Arvedi\, piazza Marconi\, Crem
+ ona
+DESCRIPTION:Serata della Cremona Violin Week che accosta repertorio class
+ ico\, ritmi latini e jazz con due formazioni ospiti. Info: https://www.t
+ urismocremona.it/it/evento/cremona-violin-week-unaltra-classica (via @ra
+ darcremona)
+URL:https://www.turismocremona.it/it/evento/cremona-violin-week-unaltra-c
+ lassica
+END:VEVENT
+END:VCALENDAR

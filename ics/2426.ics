@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2426@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:LO SCHIACCIANOCI | MANTOVA
+LOCATION:Teatro Sociale di Mantova\, Piazza Cavallotti Felice 14\, Mantov
+ a
+DESCRIPTION:Spettacolo di balletto classico messo in scena a Mantova da u
+ na compagnia di danzatori russi. Info: https://allevents.in/mantova/lo-s
+ chiaccianoci-mantova/200031155787920 (via @radarcremona)
+URL:https://allevents.in/mantova/lo-schiaccianoci-mantova/200031155787920
+END:VEVENT
+END:VCALENDAR

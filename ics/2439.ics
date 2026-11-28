@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2439@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:PAT & THE PISSERS @ Arci CDC Parma
+LOCATION:V.le Mentana\, 31/A\, 43121 Parma\, Italy\, Viale Mentana\, Parm
+ a
+DESCRIPTION:Concerto dal vivo in un circolo culturale di Parma. Info: htt
+ ps://allevents.in/parma/pat-and-the-pissers-arci-cdc-parma/2000311425567
+ 41 (via @radarcremona)
+URL:https://allevents.in/parma/pat-and-the-pissers-arci-cdc-parma/2000311
+ 42556741
+END:VEVENT
+END:VCALENDAR

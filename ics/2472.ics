@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2472@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20270107
+SUMMARY:CONCERTI CORI & BANDE - Cremona e provincia
+LOCATION:Cremona
+DESCRIPTION:Calendario di appuntamenti musicali natalizi e d'Avvento con 
+ cori e bande in diversi luoghi del territorio cremonese. Info: https://w
+ ww.turismocremona.it/it/evento/concerti-cori-bande-cremona-e-provincia (
+ via @radarcremona)
+URL:https://www.turismocremona.it/it/evento/concerti-cori-bande-cremona-e
+ -provincia
+END:VEVENT
+END:VCALENDAR

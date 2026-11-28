@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2405@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:BELLISSIMA di Luchino Visconti
+LOCATION:Cinema FILO\, Piazza Filodrammatici 4\, Cremona
+DESCRIPTION:Proiezione di un film del 1951 diretto da Luchino Visconti\, 
+ con soggetto firmato da Cesare Zavattini. Info: https://allevents.in/cre
+ mona/bellissima-di-luchino-visconti/200031152233824 (via @radarcremona)
+URL:https://allevents.in/cremona/bellissima-di-luchino-visconti/200031152
+ 233824
+END:VEVENT
+END:VCALENDAR

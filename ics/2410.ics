@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2410@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:SHANDON - LIVE IN COOP INFRANGIBILE PIACENZA
+LOCATION:via Alessandria 16\, Piacenza\, Emilia-Romagna\, Via Alessandria
+ \, Piacenza
+DESCRIPTION:Concerto di una band che festeggia trent'anni di carriera in 
+ una cooperativa popolare piacentina. Info: https://allevents.in/piacenza
+ /shandon-live-in-coop-infrangibile-piacenza/200031157445249 (via @radarc
+ remona)
+URL:https://allevents.in/piacenza/shandon-live-in-coop-infrangibile-piace
+ nza/200031157445249
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2431@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261228
+SUMMARY:REGGAE’n’SOUL TIME! Vol.2 @ CARMEN TOWN
+LOCATION:Carmen Town\, Via Fratelli Bandiera 3a\, Brescia
+DESCRIPTION:Serata di musica dal vivo dedicata ai ritmi reggae e al soul 
+ in un locale. Info: https://allevents.in/brescia/reggaensoul-time-vol2-c
+ armen-town/200031142117552 (via @radarcremona)
+URL:https://allevents.in/brescia/reggaensoul-time-vol2-carmen-town/200031
+ 142117552
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2401@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Il Villaggio di Babbo Natale di Isola Dovarese
+LOCATION:Isola Dovarese\, Piazza Matteotti\, Isola Dovarese
+DESCRIPTION:Pomeriggio natalizio in piazza a Isola Dovarese\, con bancare
+ lle di hobbisti\, racconti per bambini\, musica e bevande calde. Info: h
+ ttps://sagramap.com/evento/il-villaggio-di-babbo-natale-di-isola-dovares
+ e (via @radarcremona)
+URL:https://sagramap.com/evento/il-villaggio-di-babbo-natale-di-isola-dov
+ arese
+END:VEVENT
+END:VCALENDAR

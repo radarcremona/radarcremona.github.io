@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2411@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:LIVING THEORY Linkin Park Tribute Kiosko
+LOCATION:Via dei Pisoni\, Piacenza\, Emilia-Romagna\, Via dei Pisoni\, Pi
+ acenza
+DESCRIPTION:Serata rock con una tribute band dedicata a un celebre gruppo
+  americano\, con possibilità di cenare nel locale. Info: https://alleve
+ nts.in/piacenza/living-theory-linkin-park-tribute-kiosko/200031157381209
+  (via @radarcremona)
+URL:https://allevents.in/piacenza/living-theory-linkin-park-tribute-kiosk
+ o/200031157381209
+END:VEVENT
+END:VCALENDAR

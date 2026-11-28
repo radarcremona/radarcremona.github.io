@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2406@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Concerto di Natale
+LOCATION:Cooperativa Sociale Agropolis ONLUS\, Via Marasco 6\, Cremona
+DESCRIPTION:Concerto natalizio a ingresso libero\, organizzato con il sos
+ tegno del Comune. Info: https://allevents.in/cremona/concerto-di-natale/
+ 200031154318952 (via @radarcremona)
+URL:https://allevents.in/cremona/concerto-di-natale/200031154318952
+END:VEVENT
+END:VCALENDAR

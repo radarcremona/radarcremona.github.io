@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2432@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:I percorsi di affermazione di genere
+LOCATION:Università degli Studi di Brescia - Facoltà di Medicina e Chir
+ urgia -\, 11 Viale Europa\, Brescia
+DESCRIPTION:Incontro pubblico di approfondimento sui percorsi che le pers
+ one seguono nel riconoscimento della propria identità di genere. Info: 
+ https://allevents.in/brescia/i-percorsi-di-affermazione-di-genere/100002
+ 004235999828 (via @radarcremona)
+URL:https://allevents.in/brescia/i-percorsi-di-affermazione-di-genere/100
+ 002004235999828
+END:VEVENT
+END:VCALENDAR

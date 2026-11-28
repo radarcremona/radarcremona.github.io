@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2404@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:L'educazione impensabile
+LOCATION:Scuderie del Fico\, Via Giovan Battista Plasio\, Cremona
+DESCRIPTION:Presentazione inserita nel programma di Bookcity Cremona\, de
+ dicata all'arte contemporanea e promossa da Centro Itard e CRAC. Info: h
+ ttps://allevents.in/cremona/leducazione-impensabile/200031154448458 (via
+  @radarcremona)
+URL:https://allevents.in/cremona/leducazione-impensabile/200031154448458
+END:VEVENT
+END:VCALENDAR

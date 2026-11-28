@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2422@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Disco Country @ Jolly Club
+LOCATION:Jolly Club Mantova\, Via Andrea Costa\, Mantova
+DESCRIPTION:Serata danzante in un locale\, con musica country da ballare 
+ insieme. Info: https://allevents.in/mantova/disco-country-jolly-club/200
+ 031153362202 (via @radarcremona)
+URL:https://allevents.in/mantova/disco-country-jolly-club/200031153362202
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2409@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Alessandro Colpani canta DE GREGORI \, Kiosko
+LOCATION:Via dei Pisoni\, Piacenza\, Emilia-Romagna\, Via dei Pisoni\, Pi
+ acenza
+DESCRIPTION:Serata musicale dal vivo con un cantautore che interpreta can
+ zoni di un grande nome della musica italiana. Info: https://allevents.in
+ /piacenza/alessandro-colpani-canta-de-gregori-kiosko/200031157380904 (vi
+ a @radarcremona)
+URL:https://allevents.in/piacenza/alessandro-colpani-canta-de-gregori-kio
+ sko/200031157380904
+END:VEVENT
+END:VCALENDAR

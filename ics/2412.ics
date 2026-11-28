@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2412@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Rad1 live al Kiosko
+LOCATION:Via dei Pisoni\, Piacenza\, Emilia-Romagna\, Via dei Pisoni\, Pi
+ acenza
+DESCRIPTION:Serata di musica dal vivo con una rock band dal sound duro\, 
+ accompagnata da birra e cibo di strada. Info: https://allevents.in/piace
+ nza/rad1-live-al-kiosko/200031157381513 (via @radarcremona)
+URL:https://allevents.in/piacenza/rad1-live-al-kiosko/200031157381513
+END:VEVENT
+END:VCALENDAR

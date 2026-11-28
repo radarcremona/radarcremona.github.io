@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2468@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20270101
+SUMMARY:La musica della Natura
+LOCATION:Museo di Storia Naturale\, via Ugolani Dati\, Cremona
+DESCRIPTION:Concerto che propone un percorso fatto di melodie\, suoni\, v
+ oci e momenti di silenzio ispirati alla natura. Info: https://www.comune
+ .cremona.it/vivere-comune/eventi/musica-della-natura (via @radarcremona)
+URL:https://www.comune.cremona.it/vivere-comune/eventi/musica-della-natur
+ a
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2428@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:ROLLING WAVES PINK FLOYD TRIBUTE - Live at Tortelli & Friends - M
+ antova
+LOCATION:Tortelli &amp\; Friends Mantova\, Via 8 Marzo\, Mantova
+DESCRIPTION:Concerto di una tribute band dei Pink Floyd in un locale con 
+ musica dal vivo a Mantova. Info: https://allevents.in/mantova/rolling-wa
+ ves-pink-floyd-tribute-live-at-tortelli-and-friends-mantova/200031155868
+ 502 (via @radarcremona)
+URL:https://allevents.in/mantova/rolling-waves-pink-floyd-tribute-live-at
+ -tortelli-and-friends-mantova/200031155868502
+END:VEVENT
+END:VCALENDAR

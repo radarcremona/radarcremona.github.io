@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2403@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Un’altra classica · Rubén Darío Reina Muzík Ensemble & Pepe
+  Rivero Quartet
+LOCATION:Auditorium G. Arvedi\, Auditorium G. Arvedi\, Cremona
+DESCRIPTION:Concerto della Cremona Violin Week in cui la musica classica 
+ europea si fonde con ritmi latinoamericani e jazz. Info: https://alleven
+ ts.in/cremona/unaltra-classica-·-rubén-darío-reina-muzík-ensemble-an
+ d-pepe-rivero-quartet/200031152233319 (via @radarcremona)
+URL:https://allevents.in/cremona/unaltra-classica-·-rubén-darío-reina-
+ muzík-ensemble-and-pepe-rivero-quartet/200031152233319
+END:VEVENT
+END:VCALENDAR

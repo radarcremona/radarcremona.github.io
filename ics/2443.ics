@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Radar Cremona//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:radar-2443@radarcremona
+DTSTAMP:20261128T072058Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261220
+SUMMARY:CARAVAGGIO E LA LUCE DEL SEICENTO
+LOCATION:Palazzo Tarasconi\, 37 Strada Luigi Carlo Farini\, Parma
+DESCRIPTION:Mostra d'arte dedicata alla pittura del Seicento e al modo in
+  cui gli artisti trattavano la luce. Info: https://allevents.in/parma/ca
+ ravaggio-e-la-luce-del-seicento/100002005485576345 (via @radarcremona)
+URL:https://allevents.in/parma/caravaggio-e-la-luce-del-seicento/10000200
+ 5485576345
+END:VEVENT
+END:VCALENDAR
